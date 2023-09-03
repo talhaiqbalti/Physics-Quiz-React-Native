@@ -2,7 +2,6 @@ import { useNavigation } from "@react-navigation/native";
 import React from "react";
 import { Text, SafeAreaView, View, Image, Dimensions , ScrollView} from "react-native";
 import CustomButton from "../../Components/CustomButton/CustomButton.js";
-import quizCat from "../../assets/images/quizcat.png";
 import MaskedView from "@react-native-masked-view/masked-view";
 import { LinearGradient } from "expo-linear-gradient";
 import palette from "../../styles/colours.js";
