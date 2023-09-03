@@ -28,11 +28,6 @@ I was provided with a basic skeleton app and some pre-written functions containi
 - [Expo Google Fonts](https://github.com/expo/google-fonts)
 - Home screen illustration created with [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
-## Process
-I created a quizContext to hold all the information that my components would need to access during the user journey. This is the first time I've tried [useReducer](https://beta.reactjs.org/reference/react/useReducer) with [context](https://reactjs.org/docs/context.html), which I felt compelled to try in order to keep the context from getting out of hand. [This Youtube tutorial](https://www.youtube.com/watch?v=awGFsGc9oCM&ab_channel=DesignCode) was a great help in understanding that!
-
-As well as completing the tasks provided in the brief, I spent some time designing an attractive frontend for the app. I'd been playing around with Midjourney for a little while, so I used this to generate the initial illustration, then I created a colour theme around it. I also tried out implementing animations for the time in a React Native app, which I achieved using [Lottie](https://airbnb.io/lottie/#/) and now I really want to try more!
-
 
 ## Screenshots
 
