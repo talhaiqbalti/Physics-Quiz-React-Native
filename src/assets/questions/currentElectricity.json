@@ -1,0 +1,747 @@
+{
+  "questions":[
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The rate of motion of charges in a conductor:",
+    "correct_answer": "B) Electric current",
+    "options": [
+      "A) Electric resistance",
+      "B) Electric current",
+      "C) Potential difference",
+      "D) Electric potential"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the absence of an electric field across the conductor, the free electron moving with a certain velocity is called:",
+    "correct_answer": "A) Drift velocity",
+    "options": [
+      "A) Drift velocity",
+      "B) Average velocity",
+      "C) Angular velocity",
+      "D) Random velocity"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The magnitude of drift velocity is:",
+    "correct_answer": "B) 1 m/s",
+    "options": [
+      "A) 1 cm/s",
+      "B) 1 m/s",
+      "C) 0.01 cm/s",
+      "D) 1 mm/s"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is a correct statement:",
+    "correct_answer": "D) All of these.",
+    "options": [
+      "A) The ratio of the potential difference applied across conductor to current produced measures resistance.",
+      "B) Drift velocity in free electrons is really responsible for the generation of current.",
+      "C) The direction of current from positive to the negative terminal of the battery is referred to as conventional current.",
+      "D) All of these."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "For electronic current:",
+    "correct_answer": "B) Charge flows from negative to positive terminal of the battery.",
+    "options": [
+      "A) Charge flows from positive to negative terminal.",
+      "B) Charge flows from negative to positive terminal of the battery.",
+      "C) Charge flows in both positive and negative directions.",
+      "D) None of these."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The resistance of a material is independent of the:",
+    "correct_answer": "C) Current through the material",
+    "options": [
+      "A) Length of the material",
+      "B) Area of the material",
+      "C) Current through the material",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "1 ohm is equal to:",
+    "correct_answer": "A) Volt/Ampere",
+    "options": [
+      "A) Volt/Ampere",
+      "B) Coulomb/Volt",
+      "C) Joule/Volt",
+      "D) Volt/Meter"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The resistance of a resistor is directly proportional to:",
+    "correct_answer": "A) Length of resistor",
+    "options": [
+      "A) Length of resistor",
+      "B) Area of resistor",
+      "C) Electric current",
+      "D) Current"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the potential drop across an electric hot plate that draws 5.0 Amperes when its hot resistance is:",
+    "correct_answer": "C) 0.12 KV",
+    "options": [
+      "A) 0.12 Volt",
+      "B) 12 KV",
+      "C) 0.12 KV",
+      "D) 120 KV"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the current through a toaster when its capacity is 120 Volt?",
+    "correct_answer": "D) 120 Amp",
+    "options": [
+      "A) 10 Amp",
+      "B) 15 Amp",
+      "C) 150 Amp",
+      "D) 120 Amp"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A resistor and a resistor are connected in series across a 12 volt D.C supply, then the current in the circuit is?",
+    "correct_answer": "B) 6.0 Amp",
+    "options": [
+      "A) 0.25 Amp",
+      "B) 6.0 Amp",
+      "C) 4.0 Amp",
+      "D) 12 Amp"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A small heater operates at 12V, 2 Amp. How much energy will it use when it is run for 5 minutes?",
+    "correct_answer": "B) 1800 Joule",
+    "options": [
+      "A) 30 Joule",
+      "B) 1800 Joule",
+      "C) 120 Joule",
+      "D) 7200 Joule"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A resistance is to be connected in series with a 12 volt battery. What power is being lost on the resistance?",
+    "correct_answer": "B) 6 W",
+    "options": [
+      "A) 0.5 W",
+      "B) 6 W",
+      "C) 12 W",
+      "D) 24 W"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "An electric toaster uses energy at the rate of 48W on a 12V supply. How much charge passes through the toaster in 2.0 sec?",
+    "correct_answer": "B) 0.50 C",
+    "options": [
+      "A) 0.25 C",
+      "B) 0.50 C",
+      "C) 2.0 C",
+      "D) 8.0 C"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When a P.d of 2V is applied across a resistor, 10 J of energy are converted. What is the charge that flows through the resistor?",
+    "correct_answer": "A) 0.20 C",
+    "options": [
+      "A) 0.20 C",
+      "B) 5.0 C",
+      "C) 12 C",
+      "D) 20 C"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is measured by the energy dissipated when a surface drives a unit charge round a complete circuit?",
+    "correct_answer": "C) Power",
+    "options": [
+      "A) Electromotive force",
+      "B) P.D",
+      "C) Power",
+      "D) Resistance"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The resistivity is directly proportional to:",
+    "correct_answer": "C) Length of wire",
+    "options": [
+      "A) Area of wire",
+      "B) Temperature",
+      "C) Length of wire",
+      "D) P.D between wire"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A battery has emf 20 volt and internal resistance 0.2 ohms. If the load current is 30 amperes, find the terminal voltage:",
+    "correct_answer": "C) 15 Volt",
+    "options": [
+      "A) 6 Volt",
+      "B) 10 Volt",
+      "C) 15 Volt",
+      "D) 14 Volt"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "An electric iron of resistance takes a current of 5 amperes. Calculate the heat in joules developed in 30 seconds:",
+    "correct_answer": "C) 150 J",
+    "options": [
+      "A) 15 J",
+      "B) 15 KJ",
+      "C) 150 J",
+      "D) 1500 KJ"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The product of volt and ampere is equal to:",
+    "correct_answer": "C) Watt",
+    "options": [
+      "A) Joule",
+      "B) Coulomb",
+      "C) Watt",
+      "D) Ohm"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When no current is drawn, there is no potential drop across the internal resistance so that:",
+    "correct_answer": "A) V=E",
+    "options": [
+      "A) V=E",
+      "B) V=E–Ir",
+      "C) E=V+Ir",
+      "D) V=E+Ir"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When a battery supplies power throughout a circuit:",
+    "correct_answer": "C) Current flows",
+    "options": [
+      "A) Voltage drops",
+      "B) Current stops",
+      "C) Current flows",
+      "D) Voltage rises"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is the unit of electric energy?",
+    "correct_answer": "B) KWH",
+    "options": [
+      "A) KW",
+      "B) KWH",
+      "C) Joule/Sec",
+      "D) Calorie"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The loss of power through resistance is:",
+    "correct_answer": "D) Both A and B",
+    "options": [
+      "A) Voltage drop",
+      "B) Heat loss",
+      "C) Current flow",
+      "D) Both A and B"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "1 KWH is equal to:",
+    "correct_answer": "D) 3600 Joules",
+    "options": [
+      "A) 5 joules",
+      "B) 10 joules",
+      "C) 500 joules",
+      "D) 3600 Joules"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The unit of potential difference is:",
+    "correct_answer": "B) Volt",
+    "options": [
+      "A) Joule",
+      "B) Volt",
+      "C) Watt",
+      "D) Volt/Ampere"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The work done per coulomb on the charge is:",
+    "correct_answer": "A) Potential difference",
+    "options": [
+      "A) Potential difference",
+      "B) Electric resistance",
+      "C) Electric potential energy",
+      "D) Electric power"
+    ]
+  },
+
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Current provided by a battery is maximum when:",
+    "correct_answer": "A) Internal resistance equal to external resistance",
+    "options": [
+      "A) Internal resistance equal to external resistance",
+      "B) Internal resistance is greater than external resistance",
+      "C) Internal resistance is less than external resistance",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "100 watt and 200 watt electric bulbs operated through 20 volts and 40 volts, then the resistance is:",
+    "correct_answer": "B) 4 ohm, 2 ohm",
+    "options": [
+      "A) 2 ohm, 8 ohm",
+      "B) 4 ohm, 2 ohm",
+      "C) 4 ohm, 8 ohm",
+      "D) 20 ohm, 200 ohm"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "To draw the maximum current from a combination of cells, how should the cells be grouped:",
+    "correct_answer": "B) Parallel",
+    "options": [
+      "A) Series",
+      "B) Parallel",
+      "C) Mixed",
+      "D) Depends upon the relative values of external and internal resistance"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The equivalent resistance of resistors connected in series is always:",
+    "correct_answer": "D) Equal to the sum of component resistors",
+    "options": [
+      "A) Equal to the mean of component resistors",
+      "B) Less than the lowest of component resistors",
+      "C) In between the lowest and the highest of component resistors",
+      "D) Equal to the sum of component resistors"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If V is the potential difference causing the transfer of charge, therefore the work done in transferring charge:",
+    "correct_answer": "A) Fd",
+    "options": [
+      "A) Fd",
+      "B) F",
+      "C) f+d",
+      "D) non of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A device which converts heat energy into electrical energy is:",
+    "correct_answer": "C) Thermocouple",
+    "options": [
+      "A) Generator",
+      "B) Electric motor",
+      "C) Thermocouple",
+      "D) Solar cell"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Through a metallic conductor, electric current is thought to be due to the movement of:",
+    "correct_answer": "B) Electrons",
+    "options": [
+      "A) Ions",
+      "B) Electrons",
+      "C) Protons",
+      "D) All of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A wire has a resistance R. What will be its resistance if it is stretched to double its length?",
+    "correct_answer": "D) 4R",
+    "options": [
+      "A) R",
+      "B) 2R",
+      "C) R/2",
+      "D) 4R"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "10 identical wires, each having a resistance of 1 ohm, are joined in parallel. The combination has a resistance of:",
+    "correct_answer": "B) 0.1 ohm",
+    "options": [
+      "A) 1 ohm",
+      "B) 0.1 ohm",
+      "C) 10 ohm",
+      "D) 0.01 ohm"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A steady current flows in a metallic conductor of non-uniform cross-section. The quantity constant along the length of the conductor is:",
+    "correct_answer": "C) Current and drift velocity",
+    "options": [
+      "A) Current - electric field and drift velocity",
+      "B) Drift velocity only",
+      "C) Current and drift velocity",
+      "D) Current only"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The length of a conductor is halved. Its conductance will be:",
+    "correct_answer": "C) Doubled",
+    "options": [
+      "A) Halved",
+      "B) Unchanged",
+      "C) Doubled",
+      "D) Quadrupled"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When cells are connected in series:",
+    "correct_answer": "B) The potential difference decreases",
+    "options": [
+      "A) The emf increases",
+      "B) The potential difference decreases",
+      "C) The current capacity increases",
+      "D) The current capacity decreases"
+    ]
+  },
+
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When cells are connected in series:",
+    "correct_answer": "B) The potential difference decreases",
+    "options": [
+      "A) The emf increases",
+      "B) The potential difference decreases",
+      "C) The current capacity increases",
+      "D) The current capacity decreases"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Three resistances 5000, 500, and 50 ohms are connected in series across 555 volts mains. The current flowing through them will be:",
+    "correct_answer": "B) 100 mA",
+    "options": [
+      "A) 1 A",
+      "B) 100 mA",
+      "C) 10 mA",
+      "D) 10 A"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a house circuit, all the electrical appliances are connected in parallel to each other between the line and neutral wires to get:",
+    "correct_answer": "B) Same current and potential difference",
+    "options": [
+      "A) Same current",
+      "B) Same current and potential difference",
+      "C) Different current but same potential difference",
+      "D) Different currents and potential differences"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Why should a resistance be introduced in a circuit in series deliberately:",
+    "correct_answer": "C) To control current",
+    "options": [
+      "A) To increase current",
+      "B) To decrease current",
+      "C) To control current",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Why should different resistances be added in series in a circuit:",
+    "correct_answer": "B) To decrease voltage",
+    "options": [
+      "A) To increase voltage",
+      "B) To decrease voltage",
+      "C) To divide voltage",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When the resistors are connected less in parallel, the equivalent resistance is always:",
+    "correct_answer": "B) Greater than the smallest resistance in the combination.",
+    "options": [
+      "A) Greater than the sum of the individual resistances.",
+      "B) Greater than the smallest resistance in the combination.",
+      "C) Equal to the sum of the individual resistances.",
+      "D) Less than the smallest resistance in the combination."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When the resistors are connected greater in series, the equivalent resistance is always:",
+    "correct_answer": "C) Less than the largest resistance in series.",
+    "options": [
+      "A) Greater than the greatest resistance in series",
+      "B) Equal to the greatest resistance in series.",
+      "C) Less than the largest resistance in series.",
+      "D) Less than the smallest resistance in series."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Power dissipated as heat in the conductor of resistance 'R' due to electric current 'I' is given by:",
+    "correct_answer": "B) I^2R",
+    "options": [
+      "A) IR",
+      "B) I^2R",
+      "C) T^2Rt",
+      "D) VIt"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Heat energy dissipated in a resistor R when connected to a battery of V volts and current I ampere flowing through it for time t is given by:",
+    "correct_answer": "B) IRt",
+    "options": [
+      "A) I^2R",
+      "B) IRt",
+      "C) VIt",
+      "D) I^2Rt"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Heat generated by a 20 watts bulb in one hour is:",
+    "correct_answer": "C) 144000 J",
+    "options": [
+      "A) 4800 J",
+      "B) 14400 J",
+      "C) 144000 J",
+      "D) 14400 J"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How will you calculate power from current (I) and voltage (V):",
+    "correct_answer": "A) Power = I/V",
+    "options": [
+      "A) Power = I/V",
+      "B) Power = VI",
+      "C) Power = V^2I",
+      "D) Power = VI^2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Electrical energy is measured in:",
+    "correct_answer": "D) Kwh",
+    "options": [
+      "A) Watt",
+      "B) Horse power",
+      "C) Kilo watt",
+      "D) Kwh"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A 100 watt bulb is operated by 200 volts, the current flowing through the bulb is:",
+    "correct_answer": "B) 0.5 ampere",
+    "options": [
+      "A) 1 ampere",
+      "B) 0.5 ampere",
+      "C) zero ampere",
+      "D) 2.5 ampere"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The resistance of a 60 watt bulb in a 120 volt line is:",
+    "correct_answer": "C) 240 ohms",
+    "options": [
+      "A) 20 ohms",
+      "B) 0.5 ohms",
+      "C) 240 ohms",
+      "D) 2.0 ohms"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All electrical appliances are connected in parallel to each other between the main line and neutral wire to get:",
+    "correct_answer": "B) Same current and potential difference",
+    "options": [
+      "A) Same current",
+      "B) Same current and potential difference",
+      "C) Different currents but same potential difference.",
+      "D) Different currents and potential differences."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The practical unit of electrical power is:",
+    "correct_answer": "A) Watt",
+    "options": [
+      "A) Watt",
+      "B) Horse power",
+      "C) Kilo watt-hour",
+      "D) Kilowatt"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of the following bulbs has the least resistance?",
+    "correct_answer": "(a) (b) (c) (d)",
+    "options": [
+      "A) 100 watt",
+      "B) 200 watt",
+      "C) 500 watt",
+      "D) 1000 watt"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A 1000 watt heater operates on a 220 volt line for one hour. The current passing through the heater is:",
+    "correct_answer": "(a) (b) (c) (d)",
+    "options": [
+      "A) 5 A",
+      "B) 7 A",
+      "C) 4.5 A",
+      "D) 6.5 A"
+    ]
+  }
+]
+}

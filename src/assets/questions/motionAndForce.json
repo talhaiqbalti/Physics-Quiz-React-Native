@@ -1,0 +1,1880 @@
+{
+  "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the study of the behavior of fluids at rest called?",
+      "correct_answer": "Fluid statics",
+      "options": [
+        "Fluid dynamics",
+        "Fluid statics",
+        "Thermodynamics",
+        "Aerodynamics"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which quantity represents the mass of a unit volume of a substance?",
+      "correct_answer": "Density",
+      "options": [
+        "Pressure",
+        "Viscosity",
+        "Density",
+        "Specific gravity"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of pressure?",
+      "correct_answer": "Pascal (Pa)",
+      "options": [
+        "Newton (N)",
+        "Joule (J)",
+        "Pascal (Pa)",
+        "Watt (W)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the pressure and volume of a gas at constant temperature?",
+      "correct_answer": "Boyle's Law",
+      "options": [
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "Boyle's Law",
+        "Charles's Law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the force that opposes the relative motion of adjacent layers of fluid called?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Buoyancy",
+        "Turbulence",
+        "Viscosity",
+        "Pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the buoyant force acting on an object submerged in a fluid?",
+      "correct_answer": "Archimedes' Principle",
+      "options": [
+        "Bernoulli's Equation",
+        "Newton's Second Law",
+        "Pascal's Law",
+        "Archimedes' Principle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an upward force is exerted on an object submerged in a fluid?",
+      "correct_answer": "Buoyancy",
+      "options": [
+        "Capillarity",
+        "Adhesion",
+        "Buoyancy",
+        "Surface tension"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what does the term 'Reynolds number' characterize?",
+      "correct_answer": "The flow regime of a fluid",
+      "options": [
+        "The density of a fluid",
+        "The viscosity of a fluid",
+        "The flow regime of a fluid",
+        "The pressure of a fluid"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the law that states that the pressure of a fluid decreases as the fluid's velocity increases?",
+      "correct_answer": "Bernoulli's Principle",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Charles's Law",
+        "Bernoulli's Principle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of flow is characterized by smooth, continuous, and orderly motion of a fluid?",
+      "correct_answer": "Laminar flow",
+      "options": [
+        "Turbulent flow",
+        "Laminar flow",
+        "Steady flow",
+        "Compressible flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term describes the measure of a fluid's resistance to flow?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of dynamic viscosity?",
+      "correct_answer": "Pascal-second (Pa·s)",
+      "options": [
+        "Newton (N)",
+        "Joule (J)",
+        "Pascal-second (Pa·s)",
+        "Watt (W)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the condition where the flow of a fluid becomes chaotic and unpredictable?",
+      "correct_answer": "Turbulence",
+      "options": [
+        "Laminar flow",
+        "Turbulence",
+        "Steady flow",
+        "Compressible flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force that opposes the motion of a solid object through a fluid?",
+      "correct_answer": "Drag force",
+      "options": [
+        "Buoyant force",
+        "Lift force",
+        "Viscous force",
+        "Drag force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation describes the relationship between pressure, velocity, and elevation in a flowing fluid?",
+      "correct_answer": "Bernoulli's Equation",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Charles's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term describes the point in a fluid flow where the velocity is at its maximum and pressure at its minimum?",
+      "correct_answer": "Venturi effect",
+      "options": [
+        "Turbulent point",
+        "Critical point",
+        "Venturi effect",
+        "Steady point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the process of a fluid changing from a gas to a liquid state?",
+      "correct_answer": "Condensation",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Vaporization"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a fluid is defined as its resistance to shear or angular deformation?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a streamline that divides a fluid flow into two parts, with one part flowing faster and the other slower?",
+      "correct_answer": "Stagnation streamline",
+      "options": [
+        "Isobaric streamline",
+        "Stagnation streamline",
+        "Turbulent streamline",
+        "Critical streamline"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for the ratio of the inertial forces to the viscous forces in a fluid flow?",
+      "correct_answer": "Reynolds number",
+      "options": [
+        "Mach number",
+        "Froude number",
+        "Strouhal number",
+        "Reynolds number"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that the buoyant force on an object submerged in a fluid is equal to the weight of the fluid displaced by the object?",
+      "correct_answer": "Archimedes' Principle",
+      "options": [
+        "Pascal's Law",
+        "Newton's Law",
+        "Bernoulli's Principle",
+        "Archimedes' Principle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a fluid is defined as its mass per unit volume?",
+      "correct_answer": "Density",
+      "options": [
+        "Pressure",
+        "Viscosity",
+        "Density",
+        "Specific gravity"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a fluid flows in parallel layers with minimal mixing between them?",
+      "correct_answer": "Laminar flow",
+      "options": [
+        "Turbulent flow",
+        "Laminar flow",
+        "Steady flow",
+        "Compressible flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the pressure and temperature of a gas at constant volume?",
+      "correct_answer": "Gay-Lussac's Law",
+      "options": [
+        "Boyle's Law",
+        "Charles's Law",
+        "Gay-Lussac's Law",
+        "Avogadro's Law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the speed of fluid flow at a specific point in a fluid dynamic system?",
+      "correct_answer": "Velocity",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Acceleration",
+        "Pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to exert an upward force on an object submerged in it?",
+      "correct_answer": "Buoyancy",
+      "options": [
+        "Turbulence",
+        "Viscosity",
+        "Buoyancy",
+        "Pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a device used to measure fluid pressure based on the principle of Pascal's Law?",
+      "correct_answer": "Manometer",
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Manometer",
+        "Hydrometer"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure exerted by a fluid at rest and is transmitted equally in all directions?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of flow rate, representing the volume of fluid passing through a given point per unit of time?",
+      "correct_answer": "Cubic meter per second (m³/s)",
+      "options": [
+        "Cubic meter (m³)",
+        "Cubic meter per second (m³/s)",
+        "Cubic centimeter (cm³)",
+        "Cubic centimeter per second (cm³/s)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure exerted by a fluid due to its motion?",
+      "correct_answer": "Dynamic pressure",
+      "options": [
+        "Hydrostatic pressure",
+        "Atmospheric pressure",
+        "Dynamic pressure",
+        "Pascal's pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid above and beyond atmospheric pressure?",
+      "correct_answer": "Gauge pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the pressure exerted by a column of fluid in a closed container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the point in a fluid flow where the pressure is lowest, and the velocity is highest?",
+      "correct_answer": "Throat",
+      "options": [
+        "Nozzle",
+        "Throat",
+        "Vortex",
+        "Stagnation point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what does the term 'stagnation pressure' represent?",
+      "correct_answer": "The pressure at the stagnation point",
+      "options": [
+        "The pressure at the throat",
+        "The pressure at the nozzle",
+        "The pressure at the venturi",
+        "The pressure at the inlet"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a fluid determines how easily it can be compressed?",
+      "correct_answer": "Compressibility",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the boundary layer in fluid dynamics where fluid velocity is greatly reduced due to friction?",
+      "correct_answer": "Laminar sublayer",
+      "options": [
+        "Turbulent layer",
+        "Laminar sublayer",
+        "Boundary layer",
+        "Stagnation layer"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow where the velocity changes with time?",
+      "correct_answer": "Unsteady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure in a fluid at rest due to the weight of the fluid above it?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to transmit an applied force through it?",
+      "correct_answer": "Pressure",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid relative to a vacuum?",
+      "correct_answer": "Absolute pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow that remains constant over time?",
+      "correct_answer": "Steady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle explains why an airplane wing generates lift?",
+      "correct_answer": "Bernoulli's Principle",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Charles's Law",
+        "Bernoulli's Principle"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which mathematical equation is used to describe the motion of an ideal fluid without viscosity?",
+      "correct_answer": "Euler's Equations of Motion",
+      "options": [
+        "Bernoulli's Equation",
+        "Euler's Equations of Motion",
+        "Navier-Stokes Equation",
+        "Archimedes' Principle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the point in a fluid flow where the velocity is maximized and the pressure is minimized?",
+      "correct_answer": "Stagnation point",
+      "options": [
+        "Venturi point",
+        "Critical point",
+        "Stagnation point",
+        "Turbulent point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the ratio of the inertia forces to the surface tension forces in a liquid flow?",
+      "correct_answer": "Weber number",
+      "options": [
+        "Froude number",
+        "Mach number",
+        "Weber number",
+        "Reynolds number"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the region in a fluid flow where there is a sudden decrease in velocity and an increase in pressure?",
+      "correct_answer": "Shockwave",
+      "options": [
+        "Boundary layer",
+        "Shockwave",
+        "Vortex",
+        "Turbulent region"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which phenomenon describes the behavior of a fluid when it flows over a curved surface, resulting in lower pressure on the outside of the curve?",
+      "correct_answer": "Magnus effect",
+      "options": [
+        "Venturi effect",
+        "Magnus effect",
+        "Bernoulli effect",
+        "Coanda effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the layer of fluid near a solid boundary where the velocity of the fluid is effectively zero?",
+      "correct_answer": "No-slip boundary layer",
+      "options": [
+        "Laminar sublayer",
+        "No-slip boundary layer",
+        "Turbulent boundary layer",
+        "Stagnation boundary layer"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which equation is used to calculate the force experienced by a fluid element moving through a magnetic field?",
+      "correct_answer": "Lorentz force equation",
+      "options": [
+        "Navier-Stokes Equation",
+        "Lorentz force equation",
+        "Euler's Equations of Motion",
+        "Maxwell's equations"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the phenomenon where a fluid flows in the opposite direction to the expected flow due to a pressure gradient?",
+      "correct_answer": "Reverse flow",
+      "options": [
+        "Turbulent flow",
+        "Reverse flow",
+        "Steady flow",
+        "Laminar flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which physical property of a fluid determines its ability to transmit sound waves?",
+      "correct_answer": "Speed of sound",
+      "options": [
+        "Density",
+        "Pressure",
+        "Speed of sound",
+        "Viscosity"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the flow of a fluid where the density and pressure vary significantly over short distances?",
+      "correct_answer": "Compressible flow",
+      "options": [
+        "Incompressible flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Compressible flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which phenomenon describes the tendency of a fluid jet to follow a nearby surface rather than a straight line due to the Coanda effect?",
+      "correct_answer": "Attachment",
+      "options": [
+        "Attachment",
+        "Deflection",
+        "Detachment",
+        "Disturbance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the condition where a fluid flow becomes chaotic and unpredictable?",
+      "correct_answer": "Turbulence",
+      "options": [
+        "Laminar flow",
+        "Turbulence",
+        "Steady flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which equation is used to calculate the pressure drop in a fluid flowing through a pipe due to friction?",
+      "correct_answer": "Darcy-Weisbach equation",
+      "options": [
+        "Hagen-Poiseuille equation",
+        "Darcy-Weisbach equation",
+        "Bernoulli's Equation",
+        "Stokes' law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon explains the rise of a liquid in a small-diameter tube above the level of a liquid reservoir?",
+      "correct_answer": "Capillary action",
+      "options": [
+        "Buoyancy",
+        "Turbulence",
+        "Viscosity",
+        "Capillary action"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which physical principle describes the behavior of a fluid when it flows around a solid object, causing a net force in the direction of the flow?",
+      "correct_answer": "Lift",
+      "options": [
+        "Thrust",
+        "Buoyancy",
+        "Lift",
+        "Drag"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the total energy per unit mass of a fluid element, including its kinetic and potential energy?",
+      "correct_answer": "Specific total energy",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Specific total energy",
+        "Internal energy"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the maximum height to which a liquid can be drawn up a capillary tube due to capillary action?",
+      "correct_answer": "Capillary rise",
+      "options": [
+        "Buoyancy",
+        "Turbulence",
+        "Viscosity",
+        "Capillary rise"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which equation is used to calculate the flow rate of a fluid through a pipe or channel?",
+      "correct_answer": "Continuity equation",
+      "options": [
+        "Bernoulli's Equation",
+        "Euler's Equations of Motion",
+        "Navier-Stokes Equation",
+        "Continuity equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the resistance of a fluid to shear or angular deformation?",
+      "correct_answer": "Rheology",
+      "options": [
+        "Viscosity",
+        "Density",
+        "Compressibility",
+        "Rheology"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which term describes the effect where a fluid flows along a surface and reduces drag due to reduced friction?",
+      "correct_answer": "Boundary layer control",
+      "options": [
+        "Boundary layer control",
+        "Boundary layer transition",
+        "Boundary layer separation",
+        "Boundary layer attachment"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon occurs when a fluid's velocity exceeds the speed of sound in that fluid?",
+      "correct_answer": "Supersonic flow",
+      "options": [
+        "Subsonic flow",
+        "Transonic flow",
+        "Supersonic flow",
+        "Hypersonic flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the measure of a fluid's resistance to compression?",
+      "correct_answer": "Bulk modulus",
+      "options": [
+        "Young's modulus",
+        "Shear modulus",
+        "Bulk modulus",
+        "Elastic modulus"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for a localized region where the fluid flows backward against the main flow direction?",
+      "correct_answer": "Vortex",
+      "options": [
+        "Turbulence",
+        "Stagnation point",
+        "Vortex",
+        "Reverse flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which equation describes the behavior of a compressible fluid at high speeds and is essential for designing supersonic and hypersonic aircraft?",
+      "correct_answer": "The Prandtl-Meyer equation",
+      "options": [
+        "The Darcy-Weisbach equation",
+        "The Poiseuille equation",
+        "The Prandtl-Meyer equation",
+        "The Mach equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon occurs when a fluid flows along a curved path and experiences an outward force due to inertia?",
+      "correct_answer": "Centrifugal effect",
+      "options": [
+        "Centripetal effect",
+        "Centrifugal effect",
+        "Inertial effect",
+        "Coriolis effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the flow of a fluid that occurs at a constant rate over time?",
+      "correct_answer": "Steady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the measure of the flow's rotational motion?",
+      "correct_answer": "Vorticity",
+      "options": [
+        "Turbulence",
+        "Vorticity",
+        "Shear",
+        "Centrifugation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which effect explains the bending of light as it passes through a medium with a varying refractive index, similar to the bending of fluid flow?",
+      "correct_answer": "Snell's law",
+      "options": [
+        "Fresnel effect",
+        "Snell's law",
+        "Huygens' principle",
+        "Doppler effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the point where a fluid flow transitions from laminar to turbulent due to an increase in flow velocity?",
+      "correct_answer": "Critical Reynolds number",
+      "options": [
+        "Laminar transition point",
+        "Critical Reynolds number",
+        "Turbulent threshold",
+        "Steady-to-turbulent point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which principle describes the behavior of a fluid when it adheres to a curved surface and follows that surface's contours?",
+      "correct_answer": "Coanda effect",
+      "options": [
+        "Venturi effect",
+        "Magnus effect",
+        "Bernoulli effect",
+        "Coanda effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the phenomenon where a fluid's density decreases with increasing velocity, leading to reduced pressure?",
+      "correct_answer": "Density decrease effect",
+      "options": [
+        "Pressure reduction effect",
+        "Velocity increase effect",
+        "Density decrease effect",
+        "Viscosity increase effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which term describes the study of how fluids behave under the influence of electric fields?",
+      "correct_answer": "Electrohydrodynamics",
+      "options": [
+        "Magnetohydrodynamics",
+        "Electrohydrodynamics",
+        "Aeroelasticity",
+        "Cavitation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the behavior of a fluid when it flows in a loop, creating a closed circulation pattern?",
+      "correct_answer": "Vortex flow",
+      "options": [
+        "Turbulent flow",
+        "Laminar flow",
+        "Steady flow",
+        "Vortex flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which effect explains the change in the frequency of a sound wave as it moves relative to an observer due to the motion of the fluid carrying the wave?",
+      "correct_answer": "Doppler effect",
+      "options": [
+        "Fresnel effect",
+        "Snell's law",
+        "Huygens' principle",
+        "Doppler effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the sudden drop in pressure experienced by a fluid when it flows through a narrow constriction, often used in instruments like Pitot tubes?",
+      "correct_answer": "Bernoulli's restriction",
+      "options": [
+        "Venturi restriction",
+        "Pitot restriction",
+        "Bernoulli's restriction",
+        "Hagen restriction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which principle describes the behavior of a fluid when it flows through a curved path and generates a centripetal force?",
+      "correct_answer": "Centripetal effect",
+      "options": [
+        "Centripetal effect",
+        "Centrifugal effect",
+        "Inertial effect",
+        "Coriolis effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the condition where the flow velocity is below the speed of sound, but significant changes in velocity occur?",
+      "correct_answer": "Transonic flow",
+      "options": [
+        "Subsonic flow",
+        "Transonic flow",
+        "Supersonic flow",
+        "Hypersonic flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon occurs when a fluid flows past an object, creating a low-pressure area that draws the object toward the fluid flow?",
+      "correct_answer": "Suction effect",
+      "options": [
+        "Aerodynamic lift",
+        "Magnus effect",
+        "Suction effect",
+        "Venturi effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which equation describes the relationship between the pressure and velocity of a fluid in a convergent or divergent nozzle?",
+      "correct_answer": "The Euler equation",
+      "options": [
+        "The Poiseuille equation",
+        "The Darcy-Weisbach equation",
+        "The Prandtl-Meyer equation",
+        "The Euler equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon occurs when a fluid's velocity exceeds the speed of sound in that fluid, leading to a shock wave?",
+      "correct_answer": "Shockwave",
+      "options": [
+        "Supersonic flow",
+        "Transonic flow",
+        "Hypersonic flow",
+        "Shockwave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In fluid dynamics, what is the term for the study of how fluids behave under the influence of magnetic fields?",
+      "correct_answer": "Magnetohydrodynamics",
+      "options": [
+        "Electrohydrodynamics",
+        "Magnetohydrodynamics",
+        "Aeroelasticity",
+        "Cavitation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term describes the region in a fluid flow where there is a sudden increase in velocity and a decrease in pressure?",
+      "correct_answer": "Expansion fan",
+      "options": [
+        "Compression wave",
+        "Expansion fan",
+        "Shockwave",
+        "Turbulent region"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the resistance of a fluid to flowing?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the pressure exerted by a fluid in motion, taking into account its density, velocity, and elevation?",
+      "correct_answer": "Bernoulli's Equation",
+      "options": [
+        "Darcy-Weisbach equation",
+        "Euler's Equations of Motion",
+        "Bernoulli's Equation",
+        "Navier-Stokes Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What phenomenon occurs when a fluid flows through a narrow constriction, causing its velocity to increase and pressure to decrease?",
+      "correct_answer": "Venturi effect",
+      "options": [
+        "Boundary layer effect",
+        "Venturi effect",
+        "Stagnation effect",
+        "Compressibility effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what term describes the resistance of a fluid to shear or angular deformation?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the point in a fluid flow where the velocity is lowest and the pressure is highest?",
+      "correct_answer": "Stagnation point",
+      "options": [
+        "Venturi point",
+        "Critical point",
+        "Stagnation point",
+        "Turbulent point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which principle explains why an airplane wing generates lift?",
+      "correct_answer": "Bernoulli's Principle",
+      "options": [
+        "Thrust",
+        "Buoyancy",
+        "Lift",
+        "Drag"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the measure of a fluid's resistance to compression?",
+      "correct_answer": "Bulk modulus",
+      "options": [
+        "Young's modulus",
+        "Shear modulus",
+        "Bulk modulus",
+        "Elastic modulus"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the force experienced by a fluid element moving through a magnetic field?",
+      "correct_answer": "Lorentz force equation",
+      "options": [
+        "Navier-Stokes Equation",
+        "Lorentz force equation",
+        "Euler's Equations of Motion",
+        "Maxwell's equations"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the boundary layer in fluid dynamics where fluid velocity is greatly reduced due to friction?",
+      "correct_answer": "Laminar sublayer",
+      "options": [
+        "Turbulent layer",
+        "Laminar sublayer",
+        "Boundary layer",
+        "Stagnation layer"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what does the term 'stagnation pressure' represent?",
+      "correct_answer": "The pressure at the stagnation point",
+      "options": [
+        "The pressure at the throat",
+        "The pressure at the nozzle",
+        "The pressure at the venturi",
+        "The pressure at the inlet"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to transmit an applied force through it?",
+      "correct_answer": "Pressure",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid above and beyond atmospheric pressure?",
+      "correct_answer": "Gauge pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow where the velocity changes with time?",
+      "correct_answer": "Unsteady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure in a fluid at rest due to the weight of the fluid above it?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to transmit an applied force through it?",
+      "correct_answer": "Pressure",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid above and beyond atmospheric pressure?",
+      "correct_answer": "Gauge pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow where the velocity changes with time?",
+      "correct_answer": "Unsteady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure in a fluid at rest due to the weight of the fluid above it?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the resistance of a fluid to flowing?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the pressure exerted by a fluid in motion, taking into account its density, velocity, and elevation?",
+      "correct_answer": "Bernoulli's Equation",
+      "options": [
+        "Darcy-Weisbach equation",
+        "Euler's Equations of Motion",
+        "Bernoulli's Equation",
+        "Navier-Stokes Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What phenomenon occurs when a fluid flows through a narrow constriction, causing its velocity to increase and pressure to decrease?",
+      "correct_answer": "Venturi effect",
+      "options": [
+        "Boundary layer effect",
+        "Venturi effect",
+        "Stagnation effect",
+        "Compressibility effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what term describes the resistance of a fluid to shear or angular deformation?",
+      "correct_answer": "Viscosity",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the point in a fluid flow where the velocity is lowest and the pressure is highest?",
+      "correct_answer": "Stagnation point",
+      "options": [
+        "Venturi point",
+        "Critical point",
+        "Stagnation point",
+        "Turbulent point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which principle explains why an airplane wing generates lift?",
+      "correct_answer": "Bernoulli's Principle",
+      "options": [
+        "Thrust",
+        "Buoyancy",
+        "Lift",
+        "Drag"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the measure of a fluid's resistance to compression?",
+      "correct_answer": "Bulk modulus",
+      "options": [
+        "Young's modulus",
+        "Shear modulus",
+        "Bulk modulus",
+        "Elastic modulus"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which equation is used to calculate the force experienced by a fluid element moving through a magnetic field?",
+      "correct_answer": "Lorentz force equation",
+      "options": [
+        "Navier-Stokes Equation",
+        "Lorentz force equation",
+        "Euler's Equations of Motion",
+        "Maxwell's equations"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the boundary layer in fluid dynamics where fluid velocity is greatly reduced due to friction?",
+      "correct_answer": "Laminar sublayer",
+      "options": [
+        "Turbulent layer",
+        "Laminar sublayer",
+        "Boundary layer",
+        "Stagnation layer"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what does the term 'stagnation pressure' represent?",
+      "correct_answer": "The pressure at the stagnation point",
+      "options": [
+        "The pressure at the throat",
+        "The pressure at the nozzle",
+        "The pressure at the venturi",
+        "The pressure at the inlet"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to transmit an applied force through it?",
+      "correct_answer": "Pressure",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid above and beyond atmospheric pressure?",
+      "correct_answer": "Gauge pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow where the velocity changes with time?",
+      "correct_answer": "Unsteady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure in a fluid at rest due to the weight of the fluid above it?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which term describes the ability of a fluid to transmit an applied force through it?",
+      "correct_answer": "Pressure",
+      "options": [
+        "Density",
+        "Pressure",
+        "Viscosity",
+        "Compressibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What principle states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container?",
+      "correct_answer": "Pascal's Law",
+      "options": [
+        "Boyle's Law",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Equation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure of a fluid above and beyond atmospheric pressure?",
+      "correct_answer": "Gauge pressure",
+      "options": [
+        "Absolute pressure",
+        "Atmospheric pressure",
+        "Gauge pressure",
+        "Hydrostatic pressure"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In fluid dynamics, what is the term for a flow where the velocity changes with time?",
+      "correct_answer": "Unsteady flow",
+      "options": [
+        "Steady flow",
+        "Laminar flow",
+        "Turbulent flow",
+        "Unsteady flow"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the pressure in a fluid at rest due to the weight of the fluid above it?",
+      "correct_answer": "Hydrostatic pressure",
+      "options": [
+        "Dynamic pressure",
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's pressure"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the law that states an object at rest tends to stay at rest, and an object in motion tends to stay in motion with the same speed and in the same direction unless acted upon by an unbalanced external force?",
+      "correct_answer": "Newton's first law of motion",
+      "options": [
+        "Newton's second law of motion",
+        "Newton's third law of motion",
+        "Newton's law of gravitation",
+        "Newton's first law of motion"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a collision between two objects of equal mass and equal velocity, what type of collision is most likely to result in both objects coming to a complete stop after the collision?",
+      "correct_answer": "Perfectly inelastic collision",
+      "options": [
+        "Elastic collision",
+        "Inelastic collision",
+        "Perfectly elastic collision",
+        "Perfectly inelastic collision"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the force that opposes the motion of an object due to the interaction between its molecules and the molecules of the surface it's in contact with?",
+      "correct_answer": "Kinetic friction",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "Rolling friction",
+        "Fluid friction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the force that causes an object to move in a curved path and is directed outward from the center of the curve?",
+      "correct_answer": "Centrifugal force",
+      "options": [
+        "Frictional force",
+        "Centrifugal force",
+        "Gravitational force",
+        "Centripetal force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of Newton's laws of motion states that for every action, there is an equal and opposite reaction?",
+      "correct_answer": "Newton's third law of motion",
+      "options": [
+        "Newton's first law of motion",
+        "Newton's second law of motion",
+        "Newton's third law of motion",
+        "Newton's law of gravitation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a car traveling around a curve, what force is responsible for keeping the car moving in a circle?",
+      "correct_answer": "Friction",
+      "options": [
+        "Gravity",
+        "Tension",
+        "Centripetal force",
+        "Friction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which law of motion states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force?",
+      "correct_answer": "Newton's first law of motion",
+      "options": [
+        "Newton's first law of motion",
+        "Newton's second law of motion",
+        "Newton's third law of motion",
+        "Newton's law of gravitation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the force exerted by a fluid (liquid or gas) on an object submerged in it?",
+      "correct_answer": "Buoyant force",
+      "options": [
+        "Tension force",
+        "Frictional force",
+        "Centripetal force",
+        "Buoyant force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a vacuum, where there is no air resistance, what happens to the speed of a falling object as it descends toward the Earth?",
+      "correct_answer": "It increases at a constant rate.",
+      "options": [
+        "It remains constant.",
+        "It decreases.",
+        "It increases at a constant rate.",
+        "It becomes zero."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the force that opposes the motion of an object through a fluid (liquid or gas)?",
+      "correct_answer": "Drag force",
+      "options": [
+        "Thrust",
+        "Lift",
+        "Tension",
+        "Drag force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When an object is in free fall near the surface of the Earth, what is the value of its acceleration due to gravity (ignoring air resistance)?",
+      "correct_answer": "9.8 m/s²",
+      "options": [
+        "1.8 m/s²",
+        "5.0 m/s²",
+        "9.8 m/s²",
+        "15.0 m/s²"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In an ideal situation, if you push a book along a table and then release it, what will eventually bring the book to a stop?",
+      "correct_answer": "Friction",
+      "options": [
+        "Gravity",
+        "Inertia",
+        "Air resistance",
+        "Friction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the principle that states an object at rest will remain at rest, and an object in motion will continue in motion with the same speed and direction unless acted upon by an unbalanced external force?",
+      "correct_answer": "Principle of inertia",
+      "options": [
+        "Principle of acceleration",
+        "Principle of equilibrium",
+        "Principle of inertia",
+        "Principle of reaction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What force is responsible for holding the protons and neutrons together in the nucleus of an atom?",
+      "correct_answer": "Strong nuclear force",
+      "options": [
+        "Electromagnetic force",
+        "Gravitational force",
+        "Weak nuclear force",
+        "Strong nuclear force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "If you apply a force to an object and it moves in the same direction as the force, what can you conclude about the work done on the object?",
+      "correct_answer": "Positive work is done on the object.",
+      "options": [
+        "Negative work is done on the object.",
+        "Zero work is done on the object.",
+        "Positive work is done on the object.",
+        "Work depends on the object's mass."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of force is responsible for the upward buoyant force that allows objects to float in a fluid?",
+      "correct_answer": "Archimedes' principle",
+      "options": [
+        "Einstein's theory",
+        "Archimedes' principle",
+        "Newton's law",
+        "Pascal's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When a ball is thrown upward, what happens to its velocity as it reaches its highest point?",
+      "correct_answer": "It becomes zero.",
+      "options": [
+        "It doubles.",
+        "It becomes zero.",
+        "It remains constant.",
+        "It quadruples."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the force that opposes the motion of an object sliding on a surface?",
+      "correct_answer": "Kinetic friction",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "Rolling friction",
+        "Fluid friction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of Newton's laws of motion states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass?",
+      "correct_answer": "Newton's second law of motion",
+      "options": [
+        "Newton's first law of motion",
+        "Newton's second law of motion",
+        "Newton's third law of motion",
+        "Newton's law of gravitation"
+      ]
+    }
+  ]
+}

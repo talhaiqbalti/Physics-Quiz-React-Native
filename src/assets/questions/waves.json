@@ -1,0 +1,1320 @@
+{
+  "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the maximum displacement of a particle from its equilibrium position during one complete vibration?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave requires a medium to travel through?",
+      "correct_answer": "Mechanical wave",
+      "options": [
+        "Electromagnetic wave",
+        "Mechanical wave",
+        "Transverse wave",
+        "Longitudinal wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of frequency?",
+      "correct_answer": "Hertz (Hz)",
+      "options": [
+        "Watt (W)",
+        "Joule (J)",
+        "Hertz (Hz)",
+        "Newton (N)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave motion is characterized by particles moving perpendicular to the direction of the wave?",
+      "correct_answer": "Transverse wave",
+      "options": [
+        "Longitudinal wave",
+        "Transverse wave",
+        "Mechanical wave",
+        "Electromagnetic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where two or more waves combine to form a new wave with a different amplitude?",
+      "correct_answer": "Interference",
+      "options": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave is defined as the number of waves passing a point per unit time?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of waves as they pass from one medium to another?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a longitudinal wave, in which direction do the particles of the medium move?",
+      "correct_answer": "Parallel to the direction of the wave",
+      "options": [
+        "Perpendicular to the direction of the wave",
+        "Randomly in all directions",
+        "Parallel to the direction of the wave",
+        "Opposite to the direction of the wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of wave is a sound wave?",
+      "correct_answer": "Longitudinal wave",
+      "options": [
+        "Transverse wave",
+        "Mechanical wave",
+        "Electromagnetic wave",
+        "Longitudinal wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a unit of wavelength?",
+      "correct_answer": "Meter (m)",
+      "options": [
+        "Hertz (Hz)",
+        "Joule (J)",
+        "Meter (m)",
+        "Newton (N)"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the distance between two consecutive points in a wave that are in phase with each other?",
+      "correct_answer": "Wavelength",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Velocity",
+        "Wavelength"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave determines its pitch in the case of sound waves?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of wave is a water wave in the ocean?",
+      "correct_answer": "Surface wave",
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave",
+        "Surface wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which phenomenon occurs when a wave bounces off a surface it cannot pass through?",
+      "correct_answer": "Reflection",
+      "options": [
+        "Refraction",
+        "Interference",
+        "Diffraction",
+        "Reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the bending of waves as they pass around an obstacle?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Refraction",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which medium do electromagnetic waves travel fastest?",
+      "correct_answer": "Vacuum",
+      "options": [
+        "Air",
+        "Water",
+        "Glass",
+        "Vacuum"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where two waves with the same frequency and amplitude combine to produce a wave with a larger amplitude?",
+      "correct_answer": "Constructive interference",
+      "options": [
+        "Destructive interference",
+        "Constructive interference",
+        "Standing wave",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that has a constant amplitude and frequency?",
+      "correct_answer": "Periodic wave",
+      "options": [
+        "Transverse wave",
+        "Pulse wave",
+        "Periodic wave",
+        "Non-periodic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of velocity for a wave?",
+      "correct_answer": "Meters per second (m/s)",
+      "options": [
+        "Hertz (Hz)",
+        "Meters per second (m/s)",
+        "Joules (J)",
+        "Wavelengths (λ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that is stationary and does not appear to move through a medium?",
+      "correct_answer": "Standing wave",
+      "options": [
+        "Pulse wave",
+        "Progressive wave",
+        "Periodic wave",
+        "Standing wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following materials does sound travel through the fastest?",
+      "correct_answer": "Steel",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Wood"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for one complete cycle of a wave to pass a given point?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is responsible for carrying energy through space, such as light waves and radio waves?",
+      "correct_answer": "Electromagnetic wave",
+      "options": [
+        "Mechanical wave",
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the phenomenon where a wave changes direction as it passes from one medium to another at an angle?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which direction do the particles of a longitudinal wave move?",
+      "correct_answer": "Parallel to the direction of the wave",
+      "options": [
+        "Perpendicular to the direction of the wave",
+        "Randomly in all directions",
+        "Parallel to the direction of the wave",
+        "Opposite to the direction of the wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that consists of a single disturbance or pulse?",
+      "correct_answer": "Pulse wave",
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave",
+        "Pulse wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a type of electromagnetic wave?",
+      "correct_answer": "Sound wave",
+      "options": [
+        "Radio wave",
+        "Microwave",
+        "Infrared wave",
+        "Sound wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for a wave to travel a distance equal to one wavelength?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a mechanical wave?",
+      "correct_answer": "Sound wave",
+      "options": [
+        "Light wave",
+        "Radio wave",
+        "X-ray wave",
+        "Sound wave"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for one complete oscillation or vibration of a wave?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which type of wave do particles move perpendicular to the direction of the wave?",
+      "correct_answer": "Transverse wave",
+      "options": [
+        "Longitudinal wave",
+        "Mechanical wave",
+        "Electromagnetic wave",
+        "Transverse wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following waves requires a medium to propagate?",
+      "correct_answer": "Sound wave",
+      "options": [
+        "Light wave",
+        "Radio wave",
+        "X-ray wave",
+        "Sound wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a wave bends as it passes through an opening or around an obstacle?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Refraction",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave determines its loudness in the case of sound waves?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 meters per second (m/s)",
+      "options": [
+        "186,282 miles per second",
+        "299,792,458 meters per second (m/s)",
+        "1,000 kilometers per second",
+        "3 x 10^8 feet per second"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is used in radio and television broadcasting?",
+      "correct_answer": "Electromagnetic wave",
+      "options": [
+        "Sound wave",
+        "Microwave",
+        "X-ray wave",
+        "Electromagnetic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the phenomenon where two waves combine to produce a wave with a smaller amplitude?",
+      "correct_answer": "Destructive interference",
+      "options": [
+        "Constructive interference",
+        "Destructive interference",
+        "Standing wave",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of frequency?",
+      "correct_answer": "Hertz (Hz)",
+      "options": [
+        "Meters per second (m/s)",
+        "Wavelength",
+        "Newton (N)",
+        "Hertz (Hz)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the frequency of a sound wave as its wavelength increases?",
+      "correct_answer": "It decreases",
+      "options": [
+        "It increases",
+        "It remains the same",
+        "It becomes ultrasonic",
+        "It becomes infrasonic"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is responsible for the transmission of heat through empty space?",
+      "correct_answer": "Infrared wave",
+      "options": [
+        "Ultraviolet wave",
+        "Microwave",
+        "Infrared wave",
+        "Gamma wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that is produced by the periodic motion of particles in a medium?",
+      "correct_answer": "Mechanical wave",
+      "options": [
+        "Electromagnetic wave",
+        "Transverse wave",
+        "Longitudinal wave",
+        "Mechanical wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the primary difference between a transverse wave and a longitudinal wave?",
+      "correct_answer": "Direction of particle displacement",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Wavelength",
+        "Direction of particle displacement"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a longitudinal wave?",
+      "correct_answer": "Sound wave",
+      "options": [
+        "Light wave",
+        "Radio wave",
+        "Microwave",
+        "Sound wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the maximum displacement of a particle from its equilibrium position during one complete vibration?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which phenomenon occurs when a wave changes direction as it passes from one medium to another at an angle?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which direction do the particles of a longitudinal wave move?",
+      "correct_answer": "Parallel to the direction of the wave",
+      "options": [
+        "Perpendicular to the direction of the wave",
+        "Randomly in all directions",
+        "Parallel to the direction of the wave",
+        "Opposite to the direction of the wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that consists of a single disturbance or pulse?",
+      "correct_answer": "Pulse wave",
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave",
+        "Pulse wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a type of electromagnetic wave?",
+      "correct_answer": "Sound wave",
+      "options": [
+        "Radio wave",
+        "Microwave",
+        "Infrared wave",
+        "Sound wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for a wave to travel a distance equal to one wavelength?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is used in medical imaging, such as X-rays and CT scans?",
+      "correct_answer": "Electromagnetic wave",
+      "options": [
+        "Sound wave",
+        "Microwave",
+        "X-ray wave",
+        "Electromagnetic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of waves as they pass from one medium to another due to a change in velocity?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a water wave, what is the highest point of a wave called?",
+      "correct_answer": "Crest",
+      "options": [
+        "Trough",
+        "Crest",
+        "Amplitude",
+        "Wavelength"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the number of complete oscillations or vibrations of a wave per unit time?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is responsible for transmitting signals via cell phones?",
+      "correct_answer": "Radio wave",
+      "options": [
+        "Sound wave",
+        "Microwave",
+        "Infrared wave",
+        "Radio wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which type of wave do particles move in the same direction as the wave?",
+      "correct_answer": "Longitudinal wave",
+      "options": [
+        "Transverse wave",
+        "Mechanical wave",
+        "Electromagnetic wave",
+        "Longitudinal wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that oscillates in a single plane, such as light waves?",
+      "correct_answer": "Polarized wave",
+      "options": [
+        "Unpolarized wave",
+        "Polarized wave",
+        "Circularly polarized wave",
+        "Non-polarized wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of wavelength?",
+      "correct_answer": "Meter (m)",
+      "options": [
+        "Hertz (Hz)",
+        "Joules (J)",
+        "Meter (m)",
+        "Newton (N)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave determines its pitch in the case of sound waves?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of waves as they pass from one medium to another due to a change in speed?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for a wave that appears to be stationary and results from the interference of two waves with the same frequency and amplitude traveling in opposite directions?",
+      "correct_answer": "Standing wave",
+      "options": [
+        "Pulse wave",
+        "Progressive wave",
+        "Periodic wave",
+        "Standing wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the distance between two consecutive points in a wave that are in phase with each other?",
+      "correct_answer": "Wavelength",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Velocity",
+        "Wavelength"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave determines its intensity in the case of sound waves?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that moves through a medium without causing the particles of the medium to move with it?",
+      "correct_answer": "Progressive wave",
+      "options": [
+        "Pulse wave",
+        "Progressive wave",
+        "Periodic wave",
+        "Standing wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is used in Wi-Fi and Bluetooth communication?",
+      "correct_answer": "Microwave",
+      "options": [
+        "Sound wave",
+        "Radio wave",
+        "Microwave",
+        "Infrared wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the phenomenon where two waves combine to produce a wave with an amplitude that is smaller than the amplitude of the individual waves?",
+      "correct_answer": "Damping",
+      "options": [
+        "Constructive interference",
+        "Destructive interference",
+        "Damping",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the phenomenon where an object is made to vibrate at its natural frequency by an external force?",
+      "correct_answer": "Resonance",
+      "options": [
+        "Interference",
+        "Resonance",
+        "Reflection",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following waves has the longest wavelength?",
+      "correct_answer": "Radio wave",
+      "options": [
+        "Microwave",
+        "Infrared wave",
+        "Radio wave",
+        "Ultraviolet wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a wave that has a consistent amplitude, frequency, and wavelength over time?",
+      "correct_answer": "Monochromatic wave",
+      "options": [
+        "Polychromatic wave",
+        "Monochromatic wave",
+        "Heterochromatic wave",
+        "Irradiant wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is used for cooking in a microwave oven?",
+      "correct_answer": "Microwave",
+      "options": [
+        "Sound wave",
+        "Radio wave",
+        "Infrared wave",
+        "Microwave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for a wave that oscillates in multiple directions perpendicular to the direction of propagation?",
+      "correct_answer": "Polarized wave",
+      "options": [
+        "Unpolarized wave",
+        "Polarized wave",
+        "Circularly polarized wave",
+        "Non-polarized wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following waves has the highest frequency?",
+      "correct_answer": "Gamma wave",
+      "options": [
+        "Microwave",
+        "Infrared wave",
+        "Radio wave",
+        "Gamma wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the speed of sound in air at room temperature (approximately)?",
+      "correct_answer": "343 meters per second (m/s)",
+      "options": [
+        "123 meters per second (m/s)",
+        "343 meters per second (m/s)",
+        "760 meters per second (m/s)",
+        "1,000 meters per second (m/s)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the number of wavelengths that pass a point in one second?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of wave is used for communication via fiber optic cables?",
+      "correct_answer": "Light wave",
+      "options": [
+        "Sound wave",
+        "Radio wave",
+        "Light wave",
+        "Microwave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the change in direction of a wave as it passes from one medium to another at an angle?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which property of a wave determines its loudness in the case of sound waves?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the number of wavelengths that pass a point in one second?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following waves has the shortest wavelength?",
+      "correct_answer": "Gamma wave",
+      "options": [
+        "Microwave",
+        "Infrared wave",
+        "Radio wave",
+        "Gamma wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bouncing back of a wave when it encounters a boundary or obstacle?",
+      "correct_answer": "Reflection",
+      "options": [
+        "Refraction",
+        "Interference",
+        "Diffraction",
+        "Reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the phenomenon where two waves with the same frequency and amplitude combine to produce a wave with a larger amplitude?",
+      "correct_answer": "Constructive interference",
+      "options": [
+        "Destructive interference",
+        "Constructive interference",
+        "Standing wave",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of waves as they pass around an obstacle?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Reflection",
+        "Interference",
+        "Refraction",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following materials does sound travel through the fastest?",
+      "correct_answer": "Steel",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Wood"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the mathematical relationship between the speed of a wave (v), its frequency (f), and its wavelength (λ)?",
+      "correct_answer": "v = fλ",
+      "options": [
+        "v = f/λ",
+        "v = λ/f",
+        "v = f²λ",
+        "v = λ²/f"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name for the phenomenon where two waves of different frequencies combine to produce a wave with a complex pattern?",
+      "correct_answer": "Beat interference",
+      "options": [
+        "Wave diffraction",
+        "Beat interference",
+        "Quantum superposition",
+        "Wave refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a double-slit experiment, what phenomenon demonstrates the particle-wave duality of light?",
+      "correct_answer": "Interference pattern",
+      "options": [
+        "Diffraction pattern",
+        "Refraction pattern",
+        "Scattering pattern",
+        "Interference pattern"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon where a wave travels along the boundary between two different media and is partly reflected and partly transmitted?",
+      "correct_answer": "Total internal reflection",
+      "options": [
+        "Partial reflection",
+        "Wave refraction",
+        "Total internal reflection",
+        "Wave interference"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which type of wave do particles move in an elliptical or circular path as the wave propagates?",
+      "correct_answer": "Circularly polarized wave",
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Circularly polarized wave",
+        "Monochromatic wave"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the phenomenon where two waves of equal amplitude and frequency combine to cancel each other out?",
+      "correct_answer": "Destructive interference",
+      "options": [
+        "Constructive interference",
+        "Destructive interference",
+        "Resonance",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name for the process of increasing the amplitude of a wave by adding energy at its natural frequency?",
+      "correct_answer": "Resonance amplification",
+      "options": [
+        "Wave amplification",
+        "Resonance amplification",
+        "Interference amplification",
+        "Diffraction amplification"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the difference in frequency between two waves that are superimposed and interfere with each other?",
+      "correct_answer": "Beat frequency",
+      "options": [
+        "Wave frequency",
+        "Beat frequency",
+        "Interference frequency",
+        "Resonance frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of wave polarization, what is Brewster's angle?",
+      "correct_answer": "The angle at which reflected light becomes polarized",
+      "options": [
+        "The angle at which total internal reflection occurs",
+        "The angle at which refraction is maximum",
+        "The angle at which destructive interference occurs",
+        "The angle at which diffraction is minimum"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the phenomenon where a wave bends as it passes through a narrow slit or aperture?",
+      "correct_answer": "Single-slit diffraction",
+      "options": [
+        "Double-slit interference",
+        "Single-slit diffraction",
+        "Multiple-slit interference",
+        "Total internal reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the distortion or spreading of a wavefront as it passes through an opening?",
+      "correct_answer": "Wavefront diffraction",
+      "options": [
+        "Wavefront reflection",
+        "Wavefront refraction",
+        "Wavefront interference",
+        "Wavefront diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of electromagnetic waves, what is the term for the process of changing the direction of a wavefront as it passes through a medium with varying refractive index?",
+      "correct_answer": "Huygens' principle",
+      "options": [
+        "Fermat's principle",
+        "Snell's law",
+        "Huygens' principle",
+        "Malus's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the phenomenon where a wave spreads out as it passes through an opening and the narrower the opening, the greater the spreading?",
+      "correct_answer": "Wave spreading",
+      "options": [
+        "Wave focusing",
+        "Wave spreading",
+        "Wave dispersion",
+        "Wave deflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of electromagnetic waves, what is the name for the continuous spectrum of all possible frequencies and wavelengths?",
+      "correct_answer": "White noise spectrum",
+      "options": [
+        "White noise spectrum",
+        "Rainbow spectrum",
+        "Discrete spectrum",
+        "Spectral interference"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon where a wave's amplitude varies as it passes through a medium with varying refractive index?",
+      "correct_answer": "Amplitude modulation",
+      "options": [
+        "Amplitude modulation",
+        "Frequency modulation",
+        "Phase modulation",
+        "Wavelength modulation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which principle states that every point on a wavefront is a source of secondary spherical wavelets, and the envelope of these wavelets determines the new wavefront?",
+      "correct_answer": "Huygens' principle",
+      "options": [
+        "Fermat's principle",
+        "Snell's law",
+        "Huygens' principle",
+        "Malus's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the interference pattern produced by a single slit in a double-slit experiment?",
+      "correct_answer": "Single-slit diffraction pattern",
+      "options": [
+        "Double-slit interference pattern",
+        "Single-slit diffraction pattern",
+        "Multiple-slit interference pattern",
+        "Total internal reflection pattern"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In wave optics, what is the name for the process of bending of light as it passes from one medium into another?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Refraction",
+        "Interference"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon where the speed of a wave increases as it moves from a less dense medium to a denser medium?",
+      "correct_answer": "Superluminal motion",
+      "options": [
+        "Subluminal motion",
+        "Infraluminal motion",
+        "Supraluminal motion",
+        "Superluminal motion"
+      ]
+    }
+  ]
+}

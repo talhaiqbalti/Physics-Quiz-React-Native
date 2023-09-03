@@ -1,0 +1,1837 @@
+{
+  "questions":[
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When force and displacement are along in the same direction, then work is...",
+      "correct_answer": "A) Positive",
+      "options": [
+          "A) Positive",
+          "B) Negative",
+          "C) Zero",
+          "D) None of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body is displaced by 2m in the y-direction by a force (-4, 2, 6) N. Then work is...",
+      "correct_answer": "B) 4J",
+      "options": [
+          "A) 2J",
+          "B) 4J",
+          "C) 1J",
+          "D) 4.5J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The power of a pump, which can pump 200kg of water to a height of 200m in 10sec is...",
+      "correct_answer": "C) 400KW",
+      "options": [
+          "A) 40KW",
+          "B) 80KW",
+          "C) 400KW",
+          "D) 960KW"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two bodies of masses 1kg & 2kg have equal momentum than the ratio of their K.E...",
+      "correct_answer": "A) 2:1",
+      "options": [
+          "A) 2:1",
+          "B) 3:1",
+          "C) 1:3",
+          "D) 1:1"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A bomb of mass 30kg at rest explodes into two pieces of masses 18kg & 12kg. The velocity of the 18kg mass is 6m/s. K.E of the other mass.",
+      "correct_answer": "D) 240J",
+      "options": [
+          "A) 486J",
+          "B) 490J",
+          "C) 1020J",
+          "D) 240J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A particle of mass m is moving in a circle of constant radius 'r' such that radial acceleration a = kt^2. Then the relation between power (p) and time (t) is...",
+      "correct_answer": "B) mkr^2t^2",
+      "options": [
+          "A) kt^3m^3r^2",
+          "B) mkr^2t^2",
+          "C) m^2krt^2",
+          "D) mktr"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body of mass (m) is in vertical motion under the influence of gravity then...",
+      "correct_answer": "B) K.E decrease & work (-ve) during downward motion",
+      "options": [
+          "A) Work will be (-ve) & K.E increase during upward motion",
+          "B) K.E decrease & work (-ve) during downward motion",
+          "C) K.E increase when the body is projected up work (+ve)",
+          "D) Work will be (+ve) & K.E decrease during fall"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a conservative force?",
+      "correct_answer": "C) Frictional force",
+      "options": [
+          "A) Gravitational force",
+          "B) Restoring force",
+          "C) Frictional force",
+          "D) All of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A particle of mass 10gm is kept on the surface of a Uniform sphere of mass 100kg and radius 10cm, work done against Gravitational force between them to take the particle far away from them.",
+      "correct_answer": "A) 13.34x10^-10J",
+      "options": [
+          "A) 13.34x10^-10J",
+          "B) 3.33x10^-10J",
+          "C) 6.67x10^-10J",
+          "D) 6.67x10^-11J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A coolie carrying some load on his head & walking along a horizontal platform does...",
+      "correct_answer": "B) Zero work",
+      "options": [
+          "A) +ve work",
+          "B) Zero work",
+          "C) -ve work",
+          "D) None of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When a body is lifted upward work done by gravity is...",
+      "correct_answer": "A) +ve",
+      "options": [
+          "A) +ve",
+          "B) -ve",
+          "C) Zero",
+          "D) None of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When force and displacement are perpendicular, then work is...",
+      "correct_answer": "C) Zero",
+      "options": [
+          "A) Positive",
+          "B) Negative",
+          "C) Zero",
+          "D) All of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A block of mass 2kg is pushed 2m along a frictionless horizontal table by a constant force of 15N. Then work done by the normal force exerted by the table...",
+      "correct_answer": "C) 120J",
+      "options": [
+          "A) 30J",
+          "B) 60J",
+          "C) 120J",
+          "D) 0J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body is moved along a straight line by a machine delivering constant power. The velocity gained by the body in time 't' is proportional to...",
+      "correct_answer": "B) 3/t^2",
+      "options": [
+          "A) 3/t^4",
+          "B) 3/t^2",
+          "C) 1/t^4",
+          "D) 1/t^2"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The examples of potential energy are...",
+      "correct_answer": "D) All of These",
+      "options": [
+          "A) Stretched bow",
+          "B) Water stored in a dam",
+          "C) Electron in an Electric field",
+          "D) All of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body of mass 10kg, initially at rest. If two forces 4N and 3N perpendicular to each other act upon it, then what is the K.E of the body after 10sec...",
+      "correct_answer": "C) 300J",
+      "options": [
+          "A) 100J",
+          "B) 125J",
+          "C) 300J",
+          "D) 50J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A ball is thrown vertically up with velocity 20m/s. At what height will its K.E be half its original value...",
+      "correct_answer": "D) h/2",
+      "options": [
+          "A) 2h",
+          "B) h/3",
+          "C) 2h/3",
+          "D) h/2"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work done against gravitational force...",
+      "correct_answer": "C) Fd",
+      "options": [
+          "A) mgh",
+          "B) -mgh",
+          "C) Fd",
+          "D) 0"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When a body moves from infinity, the G.P.E is...",
+      "correct_answer": "C) -mgh",
+      "options": [
+          "A) 0",
+          "B) +mgh",
+          "C) -mgh",
+          "D) mgh/2"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The ratio of K.E of two objects of masses 2m and m is 8:1. The ratio of their linear momenta is...",
+      "correct_answer": "D) 8:1",
+      "options": [
+          "A) 1:1",
+          "B) 2:1",
+          "C) 4:1",
+          "D) 8:1"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The main source of energy in Pakistan...",
+      "correct_answer": "B) Hydroelectricity",
+      "options": [
+          "A) Gasoline",
+          "B) Hydroelectricity",
+          "C) Fossil-fuel",
+          "D) Wind"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A truck of mass 30,000kg moves up an inclined plane of slope of sin=1/100 at a speed of 30km/h. The power of the truck is (g=10m/s^2)...",
+      "correct_answer": "A) 25KW",
+      "options": [
+          "A) 25KW",
+          "B) 10KW",
+          "C) 5KW",
+          "D) 2.5KW"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not Correct?",
+      "correct_answer": "(d) Work done by gravitational force depends upon path",
+      "options": [
+          "(a) Work done by variable force calculated by F.r",
+          "(b) Work done during variable force, force change only in magnitude",
+          "(c) Work done by variable force equal to area under curve",
+          "(d) Work done by gravitational force depends upon path"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A 300J of work is done in sliding a 2kg block up an inclined plane of height 10m, work against friction is...",
+      "correct_answer": "(c) 100J",
+      "options": [
+          "(a) 1000J",
+          "(b) 200J",
+          "(c) 100J",
+          "(d) Zero"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "K.E of a body, if its mass & velocity are doubled…",
+      "correct_answer": "(c) 8K",
+      "options": [
+          "(a) 2K",
+          "(b) 4K",
+          "(c) 8K",
+          "(d) 16K"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A force of 400N is required to overcome road friction and air resistance in propelling an automobile at 80m/s. what power (kW) must the engine develop?",
+      "correct_answer": "(b) 3.2kW",
+      "options": [
+          "(a) 3.2x10^3W",
+          "(b) 3.2kW",
+          "(c) 320kW",
+          "(d) 32kW"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A metal ball of mass 2kg moving with speed of 10m/s undergoes a head-on collision with stationary ball of mass 3kg. If after collision, both the balls move together, then the loss in K.E due to collision is...",
+      "correct_answer": "(c) 100J",
+      "options": [
+          "(a) 40J",
+          "(b) 60J",
+          "(c) 100J",
+          "(d) 140J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Energy release during supernova.",
+      "correct_answer": "(b) 1050J",
+      "options": [
+          "(a) 1044J",
+          "(b) 1050J",
+          "(c) 1052J",
+          "(d) 1032J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work done by a variable force moving a particle between two points is equal to...",
+      "correct_answer": "(c) Area under curve",
+      "options": [
+          "(a) Displacement",
+          "(b) K.E",
+          "(c) Area under curve",
+          "(d) F&d"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Work done by the earth's gravitational field is...",
+      "correct_answer": "(c) Independent of position",
+      "options": [
+          "(a) Depends upon path",
+          "(b) Depends upon position",
+          "(c) Independent of position",
+          "(d) All of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A particle of mass M starting from rest undergoes uniform acceleration. If the speed acquired in time T is v, the power delivered to the particle is...",
+      "correct_answer": "(b) Mv^2/2T^2",
+      "options": [
+          "(a) Mv^2/T",
+          "(b) Mv^2/2T^2",
+          "(c) Mv^2/T^2",
+          "(d) Mv^2/2T"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Fossil fuels are...",
+      "correct_answer": "(b) Crude oil, gas, coal, peat, and lignite",
+      "options": [
+          "(a) Coal and petrol",
+          "(b) Crude oil, gas, coal, peat, and lignite",
+          "(c) Only petrol",
+          "(d) Only coal"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In rubbing our hands, we convert:",
+      "correct_answer": "(a) Mechanical into heat energy",
+      "options": [
+          "(a) Mechanical into heat energy",
+          "(b) Heat into mechanical energy",
+          "(c) Heat into chemical energy",
+          "(d) Chemical into heat energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the present age, the main source of energy is:",
+      "correct_answer": "(b) Fossil fuel",
+      "options": [
+          "(a) Gasoline",
+          "(b) Fossil fuel",
+          "(c) Petrol",
+          "(d) Coal"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work-energy equation is:",
+      "correct_answer": "(b) K.E = mgh - fh",
+      "options": [
+          "(a) K.E = mgh + fh",
+          "(b) K.E = mgh - fh",
+          "(c) P.E = K.E + fh",
+          "(d) K.E = fd"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The absolute P.E of a body of mass (m) lying at the surface of the earth is given by:",
+      "correct_answer": "(a) -mgh",
+      "options": [
+          "(a) -mgh",
+          "(b) +mgh",
+          "(c) -mgh/2",
+          "(d) mgh"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a unit of electrical power:",
+      "correct_answer": "(d) KWH",
+      "options": [
+          "(a) KW",
+          "(b) Watt",
+          "(c) J/S",
+          "(d) KWH"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of +Ve work.",
+      "correct_answer": "(a) Work by stretching spring",
+      "options": [
+          "(a) Work by stretching spring",
+          "(b) Work by lifting force",
+          "(c) Work by gravitational force",
+          "(d) All of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A force of 5N acts on a 15kg body initially at rest. The work done by the force during the first second of motion of the body is:",
+      "correct_answer": "(a) 5 J",
+      "options": [
+          "(a) 5 J",
+          "(b) 5/6 J",
+          "(c) 0 J",
+          "(d) 0.5 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work done against gravity in taking a 10kg mass to a 1m height in 1 second will be:",
+      "correct_answer": "(d) 19.6 J",
+      "options": [
+          "(a) 49 J",
+          "(b) 98 J",
+          "(c) 196 J",
+          "(d) 19.6 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A 50kg mass of a man with a 20kg load on his head climbs up 20 steps of 0.5m height each. The work done in climbing is:",
+      "correct_answer": "(b) 350 J",
+      "options": [
+          "(a) 5 J",
+          "(b) 350 J",
+          "(c) 100 J",
+          "(d) 3430 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the K.E of a particle is doubled, then its momentum will be:",
+      "correct_answer": "(c) Be doubled",
+      "options": [
+          "(a) Remains unchanged",
+          "(b) Be quadrupled",
+          "(c) Be doubled",
+          "(d) Increase"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the work-energy relation, the work done by the net force acting on a particle is equal to the change in:",
+      "correct_answer": "(a) K.E",
+      "options": [
+          "(a) K.E",
+          "(b) P.E",
+          "(c) Linear momentum",
+          "(d) Acceleration"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which case does the potential energy decrease:",
+      "correct_answer": "(a) On compressing a spring",
+      "options": [
+          "(a) On compressing a spring",
+          "(b) On stretching a spring",
+          "(c) On mass of a body lifted against G.F",
+          "(d) On rising of an air bubble in work"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the velocity of a body is twice that of its previous velocity, then its K.E will be:",
+      "correct_answer": "(c) 4 times",
+      "options": [
+          "(a) 2 times",
+          "(b) 1/2 times",
+          "(c) 4 times",
+          "(d) 1 times"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The power of a pump is 2KW. If (x) the amount of water it can raise in one minute to a height of 50m:",
+      "correct_answer": "(b) 1000 liter",
+      "options": [
+          "(a) 200 liter",
+          "(b) 1000 liter",
+          "(c) 100 liter",
+          "(d) 1200 liter"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "An engine develops 10kW of power. How much time will it take to lift a mass of 200kg to a height of 40m:",
+      "correct_answer": "(a) 4 sec",
+      "options": [
+          "(a) 4 sec",
+          "(b) 5 sec",
+          "(c) 8 sec",
+          "(d) 10 sec"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A lighter body and a heavier body have equal K.E, which has greater momentum:",
+      "correct_answer": "(b) Heavier body",
+      "options": [
+          "(a) Lighter body",
+          "(b) Heavier body",
+          "(c) Both",
+          "(d) None of These"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If force and displacement of a particle in the direction of force are doubled, the work would be:",
+      "correct_answer": "(b) 4 times",
+      "options": [
+          "(a) Double",
+          "(b) 4 times",
+          "(c) Half",
+          "(d) ¼ times"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "1 kilowatt-hour = ____________.",
+      "correct_answer": "(b) 3.6x10^6 J",
+      "options": [
+          "(a) 3.6x10^5 J",
+          "(b) 3.6x10^6 J",
+          "(c) 36x10^6 J",
+          "(d) 3.6x10^7 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body of mass 100 kg is lifted to a height of 100 cm from the Earth's surface, and then the work done by the lifting force is __________.",
+      "correct_answer": "(b) 9800 J",
+      "options": [
+          "(a) 98 J",
+          "(b) 9800 J",
+          "(c) 980 J",
+          "(d) 9.8 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following relations is correct?",
+      "correct_answer": "(d) Both A & B",
+      "options": [
+          "(a) K.E = ½ m x",
+          "(b) K.E = Fd",
+          "(c) P = x",
+          "(d) Both A & B"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Energy released during supernova explosions:",
+      "correct_answer": "(d) MeV",
+      "options": [
+          "(a) J",
+          "(b) J",
+          "(c) eV",
+          "(d) MeV"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The product of the magnitude of force and the components of displacement in the direction of force:",
+      "correct_answer": "(a) Work",
+      "options": [
+          "(a) Work",
+          "(b) Power",
+          "(c) Energy",
+          "(d) Force"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When the force acts at right angles to the displacement, the work is:",
+      "correct_answer": "(b) Zero work",
+      "options": [
+          "(a) Positive work",
+          "(b) Zero work",
+          "(c) Negative work",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a correct statement?",
+      "correct_answer": "(d) Both A and C",
+      "options": [
+          "(a) When the body moves in the direction of gravitational force, the work is done by the force of gravity, positive",
+          "(b) When the body moves in the direction of gravitational force, work done is negative",
+          "(c) If the person walks along a level surface carrying a box, no work is done",
+          "(d) Both A and C"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the work done by that force on a particle that moves between two points depends on the path between these points is:",
+      "correct_answer": "(d) Non-conservative field",
+      "options": [
+          "(a) Gravitational field",
+          "(b) Electric field",
+          "(c) Conservative field",
+          "(d) Non-conservative field"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an incorrect statement?",
+      "correct_answer": "(b) Work by centripetal force zero",
+      "options": [
+          "(a) Work by frictional forces negative",
+          "(b) Work by centripetal force zero",
+          "(c) Frictional forces are conservative force",
+          "(d) Work by lifting forces is positive"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following examples has Gravitational P.E.?",
+      "correct_answer": "(d) All of these",
+      "options": [
+          "(a) Water stored in a dam has P.E",
+          "(b) A stretched bow has P.E",
+          "(c) An electron or proton in an electric field has P.E",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "1 watt is equal to_________:",
+      "correct_answer": "(d) 746 erg",
+      "options": [
+          "(a) erg",
+          "(b) erg/s",
+          "(c) erg",
+          "(d) 746 erg"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A constant force of 100 N acts for 5 seconds on a body of mass 10 kg initially at rest. Find the work done:",
+      "correct_answer": "(c) 12500 J",
+      "options": [
+          "(a) 125 J",
+          "(b) 1250 J",
+          "(c) 12500 J",
+          "(d) 125000 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A car of mass 2000 kg is lifted up through a distance of 30 m by crane in one minute, a second crane does the same job in 2 minutes, what power is supplied by the second crane:",
+      "correct_answer": "(a) W",
+      "options": [
+          "(a) W",
+          "(b) W",
+          "(c) W",
+          "(d) W"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What change produces in K.E of a body if mass and velocity are doubled:",
+      "correct_answer": "(c) 8 times",
+      "options": [
+          "(a) 4 times",
+          "(b) 2 times",
+          "(c) 8 times",
+          "(d) Remains the same"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work displacing the body by variable forces from one point to another is exactly equal to:",
+      "correct_answer": "(a) Area under the curve",
+      "options": [
+          "(a) Area under the curve",
+          "(b) Displacement",
+          "(c) Force",
+          "(d) Path"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The energy possessed by a body by virtue of its motion:",
+      "correct_answer": "(a) K.E",
+      "options": [
+          "(a) K.E",
+          "(b) P.E",
+          "(c) G.P.E",
+          "(d) Abs G.P.E"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When a body of mass (m) is lifted upward by external forces equal in magnitude to that of the force of gravity, then K.E is:",
+      "correct_answer": "(d) 0",
+      "options": [
+          "(a) mv^2",
+          "(b) mgh",
+          "(c) –",
+          "(d) 0"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The P.E of a body in the Earth's gravitational field at height 'h' is:",
+      "correct_answer": "(b) –mgh",
+      "options": [
+          "(a) mgh",
+          "(b) –mgh",
+          "(c) 0",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The P.E of the body at a certain height with respect to that at infinity is:",
+      "correct_answer": "(d) mgh + Fs",
+      "options": [
+          "(a) mgh",
+          "(b) –mgh",
+          "(c) 0",
+          "(d) mgh + Fs"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is correct?",
+      "correct_answer": "(b) As a particle moves in from infinity, the work is negative",
+      "options": [
+          "(a) The P.E decreases as the separation distance decreases from infinity",
+          "(b) As a particle moves in from infinity, the work is negative",
+          "(c) P.E is negative at an infinite distance",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Work-Energy equation is:",
+      "correct_answer": "(d) None of these",
+      "options": [
+          "(a) K.E = mgh + fh",
+          "(b) K.E = mgh – fh",
+          "(c) P.E = K.E + fh",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the present age, the main source of energy is:",
+      "correct_answer": "(c) Coal",
+      "options": [
+          "(a) Hydroelectricity",
+          "(b) Nuclear energy",
+          "(c) Coal",
+          "(d) Gasoline"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The destruction of Japan due to the atomic bomb is an example of:",
+      "correct_answer": "(c) Uncontrolled Nuclear Fission",
+      "options": [
+          "(a) Nuclear Fusion reaction",
+          "(b) Controlled Nuclear Fission",
+          "(c) Uncontrolled Nuclear Fission",
+          "(d) Controlled Nuclear Fusion"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Pakistan, the main source of energy is:",
+      "correct_answer": "(d) Fossil Fuel",
+      "options": [
+          "(a) Hydro Electricity",
+          "(b) Solar Energy",
+          "(c) Thermal Energy",
+          "(d) Fossil Fuel"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "For tidal energy, the origin of tides is due to:",
+      "correct_answer": "(b) Gravitational forces between Earth and Moon",
+      "options": [
+          "(a) Gravitational forces between Moon and Sun",
+          "(b) Gravitational forces between Earth and Moon",
+          "(c) Gravitational forces between Earth and Sun",
+          "(d) Gravitational force between Earth and other planets"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A person pushed a toy car initially at rest with a force of 10 N through a distance of 1 m. The work done is:",
+      "correct_answer": "(a) 10 J",
+      "options": [
+          "(a) 10 J",
+          "(b) 5 J",
+          "(c) 2 J",
+          "(d) 1 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Heat energy conducts out from the interior of the surface of the Earth at a rate of:",
+      "correct_answer": "(c) 1.5 cal/cm²",
+      "options": [
+          "(a) 1.5 J",
+          "(b) 1.5 MeV",
+          "(c) 1.5 cal/cm²",
+          "(d) 1.5 eV"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is correct?",
+      "correct_answer": "(d) Both A and C",
+      "options": [
+          "(a) Solar energy is an ideal source to get rid of pollution.",
+          "(b) Solar energy is applicable for space heating and space cooling.",
+          "(c) The main source of energy in Pakistan is coal.",
+          "(d) Both A and C"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When an object thrown upward at a height (h) loses 1/4th of its original kinetic energy, how high is the object in terms of h?",
+      "correct_answer": "(a) 4h",
+      "options": [
+          "(a) 4h",
+          "(b) 3h",
+          "(c)",
+          "(d)"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the mass of a body is 10 kg and it is annihilated, then its energy is:",
+      "correct_answer": "(c) MeV",
+      "options": [
+          "(a) 10 J",
+          "(b) 90 J",
+          "(c) MeV",
+          "(d) eV"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When no force of friction is involved during the free fall motion of a body, then the loss of potential energy is equal to:",
+      "correct_answer": "(a) K.E",
+      "options": [
+          "(a) K.E",
+          "(b) K.E + Fh",
+          "(c) K.E - Fh",
+          "(d) P.E - Fh"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A 20 kg mass is thrown upward and it reaches its greatest height of 10 m. Then the potential energy at the greatest height is:",
+      "correct_answer": "(b) 196 J",
+      "options": [
+          "(a) 90.6 J",
+          "(b) 196 J",
+          "(c) 19.6 J",
+          "(d) 1960 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The absolute gravitational potential energy at the surface of the Earth:",
+      "correct_answer": "(c) 0",
+      "options": [
+          "(a)",
+          "(b)",
+          "(c) 0",
+          "(d)"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Energy released during a Quasar explosion:",
+      "correct_answer": "(d) all of these",
+      "options": [
+          "(a) J",
+          "(b) J",
+          "(c) erg",
+          "(d) all of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A German physicist Hermann von Helmholtz enunciated the general law regarding energy in:",
+      "correct_answer": "(a) 1847",
+      "options": [
+          "(a) 1847",
+          "(b) 1890",
+          "(c) 1905",
+          "(d) 1932"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When the force and displacement are along the same direction, then work is:",
+      "correct_answer": "(a) Positive work",
+      "options": [
+          "(a) Positive work",
+          "(b) Zero work",
+          "(c) Negative work",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The concept of work provides a link between:",
+      "correct_answer": "(a) Force & displacement",
+      "options": [
+          "(a) Force & displacement",
+          "(b) Force & energy",
+          "(c) Force & velocity",
+          "(d) Power & energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the work done by the force on a particle that moves between two points depends on the path between these points, it is a:",
+      "correct_answer": "(d) Non-conservative field",
+      "options": [
+          "(a) Gravitational field",
+          "(b) Electric field",
+          "(c) Conservative field",
+          "(d) Non-conservative field"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a correct statement?",
+      "correct_answer": "(a) Work by gravitational forces is negative",
+      "options": [
+          "(a) Work by gravitational forces is negative",
+          "(b) Work by centripetal force is negative",
+          "(c) Frictional forces are conservative forces",
+          "(d) Work by lifting forces is positive"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a unit of work:",
+      "correct_answer": "(c) kWh",
+      "options": [
+          "(a) Joule",
+          "(b) BTU",
+          "(c) kWh",
+          "(d) kW"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The work is done when:",
+      "correct_answer": "(a) Displacement in the direction of force",
+      "options": [
+          "(a) Displacement in the direction of force",
+          "(b) Displacement perpendicular to the direction of force",
+          "(c) Displacement opposite to the direction of force",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A constant force of 10 N acts for 2 sec on a body of mass 5 kg initially at rest. The work done is:",
+      "correct_answer": "(b) 20 J",
+      "options": [
+          "(a) 10 J",
+          "(b) 20 J",
+          "(c) 40 J",
+          "(d) 100 J"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of positive work?",
+      "correct_answer": "(a) Work done by stretching force",
+      "options": [
+          "(a) Work done by stretching force",
+          "(b) Work done by lifting force",
+          "(c) Work done by gravitational force",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Work can be positive or negative depending on the value of:",
+      "correct_answer": "(d) b and c",
+      "options": [
+          "(a) Magnitude of force and displacement",
+          "(b) Direction of displacement & force",
+          "(c) Angle between force & displacement",
+          "(d) b and c"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Work done by the gravitational force on a body being lifted is:",
+      "correct_answer": "(a) Positive",
+      "options": [
+          "(a) Positive",
+          "(b) Negative",
+          "(c) Zero",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If a person walks along a level surface while carrying a box, the work is:",
+      "correct_answer": "(c) Negative work",
+      "options": [
+          "(a) Positive work",
+          "(b) Zero work",
+          "(c) Negative work",
+          "(d) All of these"
+      ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When a body slides along a surface, the work done by the normal force acting on the body is:",
+    "correct_answer": "D) Fd",
+    "options": [
+      "A) Fd",
+      "B) Fd",
+      "C) 0",
+      "D) Fd"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body of mass 20 kg moving along a circular path with a covered displacement of 20 m with the application of 10 N force, calculate work done?",
+    "correct_answer": "B) 200 Joule",
+    "options": [
+      "A) 20 Joule",
+      "B) 200 Joule",
+      "C) 400 Joule",
+      "D) 0 Joule"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "One electron volt is equal to:",
+    "correct_answer": "C) erg",
+    "options": [
+      "A) J",
+      "B) J",
+      "C) erg",
+      "D) erg"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "1 _______ Joule",
+    "correct_answer": "A) 1055",
+    "options": [
+      "A) 1055",
+      "B) 252",
+      "C) 4180",
+      "D) 4.8"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The work done by gravitational force is:",
+    "correct_answer": "C) 0",
+    "options": [
+      "A) ",
+      "B) ",
+      "C) 0",
+      "D) Fd"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Work done against gravitational force depends upon:",
+    "correct_answer": "D) a and c",
+    "options": [
+      "A) Initial position of body",
+      "B) Path covered by body",
+      "C) Final position of body",
+      "D) a and c"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is incorrect:",
+    "correct_answer": "B) Work done in moving body along any close path is maximum",
+    "options": [
+      "A) Work done in moving body along any close path is zero",
+      "B) Work done in moving body along any close path is maximum",
+      "C) Work done in moving body against gravitational force is negative",
+      "D) Work done in gravitational field is independent of the path"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is non-conservative force:",
+    "correct_answer": "C) Frictional force",
+    "options": [
+      "A) Gravitational force",
+      "B) Restoring force",
+      "C) Frictional force",
+      "D) Electrical force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "One megawatt _______ kg.",
+    "correct_answer": "D) kg",
+    "options": [
+      "A) kg",
+      "B) kg",
+      "C) kg",
+      "D) kg"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A person pushed a toy car initially at rest with a force of 10 N through a distance of 20 m. Work done is:",
+    "correct_answer": "C) 200 J",
+    "options": [
+      "A) 10 J",
+      "B) 20 J",
+      "C) 200 J",
+      "D) 150 J"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The work done in one hour by an agency working at a constant rate of 1 kW (1000 Joules per second) is called:",
+    "correct_answer": "A) 1 kWh",
+    "options": [
+      "A) 1 kWh",
+      "B) 1 kJ",
+      "C) 1 kW",
+      "D) 1 BTU"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following statements is correct:",
+    "correct_answer": "D) All of these",
+    "options": [
+      "A) In work done by a variable force, the force changes only in direction",
+      "B) In work done by a variable force, the force changes only in magnitude",
+      "C) In work done by a variable force, the force changes in magnitude and direction",
+      "D) All of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When an object thrown upward at a height (h) has lost half of its original kinetic energy, how high is the object in terms of h?",
+    "correct_answer": "A) 4h",
+    "options": [
+      "A) 4h",
+      "B) 3h",
+      "C) ",
+      "D) "
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Work done in displacing a body by a variable force is exactly equal to:",
+    "correct_answer": "B) Area under curve",
+    "options": [
+      "A) Displacement",
+      "B) Area under curve",
+      "C) Volume",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A horse pulls a cart horizontally with a force of 40 N at an angle above the horizontal and moves along at a speed of 6 m/s, completing its work in 10 seconds. What is the power output of the horse?",
+    "correct_answer": "C) 260 W",
+    "options": [
+      "A) 120 W",
+      "B) 240 W",
+      "C) 260 W",
+      "D) 290 W"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A pump is needed to lift water through a height of 100 cm at a rate of 1000 g/s. What must be the minimum power of the pump?",
+    "correct_answer": "A) 980 W",
+    "options": [
+      "A) 980 W",
+      "B) 98 W",
+      "C) 9.8 W",
+      "D) None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A 10 kg block initially at rest moves with a horizontal displacement of 10 m with a force of 20 N. Calculate the work done.",
+    "correct_answer": "C) 200 Joule",
+    "options": [
+      "A) 0 Joule",
+      "B) 300 Joule",
+      "C) 200 Joule",
+      "D) 150 Joule"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The energy possessed by a body by virtue of its motion is:",
+    "correct_answer": "C) Kinetic energy",
+    "options": [
+      "A) Gravitational potential energy",
+      "B) Elastic potential energy",
+      "C) Kinetic energy",
+      "D) Absolute gravitational potential energy"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A neutron travels a distance of 10 m in a time interval of. Assuming its speed was constant, find its kinetic energy. Take as the mass of the neutron.",
+    "correct_answer": "B) Joule",
+    "options": [
+      "A) ",
+      "B) Joule",
+      "C) ",
+      "D) Joule"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When an electric charge is moved against an electrostatic force, then electric potential energy:",
+    "correct_answer": "B) Decrease",
+    "options": [
+      "A) Increase",
+      "B) Decrease",
+      "C) Remain the same",
+      "D) Zero"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When a body of mass m is lifted to a height “h” against the gravitational force, the work done on it is:",
+    "correct_answer": "D) 2mgh",
+    "options": [
+      "A) mgh",
+      "B) mgh",
+      "C) 0",
+      "D) 2mgh"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is an example of kinetic energy?",
+    "correct_answer": "D) All of these",
+    "options": [
+      "A) Falling water",
+      "B) Winds",
+      "C) A moving ball that can break a glass window",
+      "D) All of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Water stored in a dam has _______ energy.",
+    "correct_answer": "B) Potential Energy",
+    "options": [
+      "A) Kinetic Energy",
+      "B) Potential Energy",
+      "C) Absolute Potential Energy",
+      "D) Electric Potential Energy"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A stretched bow has _______ energy.",
+    "correct_answer": "C) Elastic Potential Energy",
+    "options": [
+      "A) Gravitational Potential Energy",
+      "B) Electrostatic Potential Energy",
+      "C) Elastic Potential Energy",
+      "D) Absolute Potential Energy"
+    ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statement is correct:",
+      "correct_answer": "(d) All of these",
+      "options": [
+          "(a) At the maximum height K.E of the body is maximum",
+          "(b) At the maximum height K.E of the body is zero",
+          "(c) At the maximum height GPE of the body is zero",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "During upward motion, when the applied force on the body by external agency is equal in magnitude to that of force of gravity under this condition kinetic energy of body:",
+      "correct_answer": "(a) 0",
+      "options": [
+          "(a) 0",
+          "(b) ",
+          "(c) ",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The potential energy of body in the earth’s gravitational field at a height h is:",
+      "correct_answer": "(a) mgh",
+      "options": [
+          "(a) mgh",
+          "(b) mgh",
+          "(c) Fd",
+          "(d) "
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The potential energy of the body at height “h” from centre of earth where gravitational field is zero is:",
+      "correct_answer": "(c) Absolute gravitational potential energy",
+      "options": [
+          "(a) Gravitational potential energy",
+          "(b) Kinetic energy",
+          "(c) Absolute gravitational potential energy",
+          "(d) Electric potential energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The gravitational potential energy at infinite distance:",
+      "correct_answer": "(c) 0",
+      "options": [
+          "(a) mgh",
+          "(b) mgh",
+          "(c) 0",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "As the particle moves in from infinity the gravitational potential is:",
+      "correct_answer": "(b) 0",
+      "options": [
+          "(a) mgh",
+          "(b) 0",
+          "(c) mgh",
+          "(d) mgh"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The absolute gravitational potential of a body of mass “m” lying at surface of earth is given by:",
+      "correct_answer": "(a) ",
+      "options": [
+          "(a) ",
+          "(b) ",
+          "(c) ",
+          "(d) "
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is correct statement:",
+      "correct_answer": "(c) As body moves from infinity work is zero",
+      "options": [
+          "(a) As body moves from infinity work is positive",
+          "(b) As body moves from infinity work is negative",
+          "(c) As body moves from infinity work is zero",
+          "(d) At infinity gravitational potential is maximum"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is work energy relation:",
+      "correct_answer": "(b) Gain in K.E = Loss of P.E",
+      "options": [
+          "(a) Gain in K.E = Fd",
+          "(b) Gain in K.E = Loss of P.E",
+          "(c) Loss of P.E = K.E",
+          "(d) w"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "During the fall of the body assuming that there is no friction, P.E is equal to:",
+      "correct_answer": "(a) ",
+      "options": [
+          "(a) ",
+          "(b) ",
+          "(c) ",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When we switch on our electric bulbs, we supply electrical energy to their filaments it is converted into:",
+      "correct_answer": "(b) Light & heat energy",
+      "options": [
+          "(a) Light & mechanical energy",
+          "(b) Light & heat energy",
+          "(c) Chemical & heat energy",
+          "(d) Electrical energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Fossil fuels are:",
+      "correct_answer": "(d) All of these",
+      "options": [
+          "(a) coal",
+          "(b) petrol",
+          "(c) peat, lignite",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of following is correct relation:",
+      "correct_answer": "(d) A – C",
+      "options": [
+          "(a) P = ",
+          "(b) W = ",
+          "(c) K.E = 1/2 m ",
+          "(d) A – C"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Proton, electron & neutron have same momentum, which of them have highest K.E?",
+      "correct_answer": "(a) Electron",
+      "options": [
+          "(a) Electron",
+          "(b) Proton",
+          "(c) Neutron",
+          "(d) Proton & Neutron"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Work done on the body equal to the:",
+      "correct_answer": "(c) Change in K.E & P.E",
+      "options": [
+          "(a) Change in K.E",
+          "(b) Change in its P.E",
+          "(c) Change in K.E & P.E",
+          "(d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The source of geothermal energy is:",
+      "correct_answer": "(a) Radioactive decay of earth",
+      "options": [
+          "(a) Radioactive decay of earth",
+          "(b) Interior compression of earth",
+          "(c) Atmosphere temperature of earth",
+          "(d) Atmosphere pressure of earth"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the velocity of body is double, then:",
+      "correct_answer": "(d) Momentum increase 2 times & kinetic energy 4 times",
+      "options": [
+          "(a) Kinetic energy increase 2 times & Momentum increase 4 times",
+          "(b) Momentum & kinetic energy remain same",
+          "(c) Momentum increase 2 times & kinetic energy constant",
+          "(d) Momentum increase 2 times & kinetic energy 4 times"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In present age the main source of energy is:",
+      "correct_answer": "(d) Nuclear energy",
+      "options": [
+          "(a) Solar energy",
+          "(b) Gasoline",
+          "(c) Hydroelectricity",
+          "(d) Nuclear energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In rubbing our hands we convert:",
+      "correct_answer": "(c) Mechanical into heat energy",
+      "options": [
+          "(a) Mechanical energy into electrical energy",
+          "(b) Mechanical energy into chemical energy",
+          "(c) Mechanical into heat energy",
+          "(d) Heat energy into mechanical energy"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is correct statement:",
+      "correct_answer": "(d) All of these",
+      "options": [
+          "(a) Solar energy providing clean fuels",
+          "(b) Solar energy is ideal source of energy but it produce lot of pollution",
+          "(c) Nuclear energy is produce due to fusion process of heavy nucleus",
+          "(d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The main source of energy in Pakistan:",
+      "correct_answer": "(a) Hydroelectricity",
+      "options": [
+          "(a) Hydroelectricity",
+          "(b) Geothermal energy",
+          "(c) Nuclear energy",
+          "(d) Fossil fuel"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A pump is needed to lift water of 100 gm through height of 0.5 m. Calculate change in potential energy:",
+      "correct_answer": "(a) 490 joule",
+      "options": [
+          "(a) 490 joule",
+          "(b) 49 joule",
+          "(c) 4.9 joule",
+          "(d) 0.490 joule"
+      ]
+  }
+]
+}

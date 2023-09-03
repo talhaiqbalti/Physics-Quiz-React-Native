@@ -1,0 +1,1384 @@
+{
+    "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the repetitive back-and-forth motion of an object about a central position?",
+      "correct_answer": "Oscillation",
+      "options": [
+        "Rotation",
+        "Translation",
+        "Vibration",
+        "Oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a simple harmonic oscillator?",
+      "correct_answer": "Pendulum",
+      "options": [
+        "Rocket",
+        "Car",
+        "Pendulum",
+        "Boat"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In simple harmonic motion, what is the maximum displacement of an oscillating object from its equilibrium position?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What force opposes the motion of a simple harmonic oscillator and brings it back toward its equilibrium position?",
+      "correct_answer": "Restoring force",
+      "options": [
+        "Frictional force",
+        "Tension force",
+        "Restoring force",
+        "Applied force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which physical quantity represents the number of oscillations per unit time?",
+      "correct_answer": "Frequency",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Velocity",
+        "Frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In simple harmonic motion, what is the time it takes for one complete oscillation called?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of frequency?",
+      "correct_answer": "Hertz (Hz)",
+      "options": [
+        "Meters per second (m/s)",
+        "Wavelength",
+        "Newton (N)",
+        "Hertz (Hz)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of oscillations, what does 'damping' refer to?",
+      "correct_answer": "Reduction in amplitude over time",
+      "options": [
+        "Increase in amplitude over time",
+        "Constant amplitude over time",
+        "No oscillation",
+        "Reduction in frequency over time"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the oscillatory motion where the object moves back and forth along a straight line?",
+      "correct_answer": "Simple harmonic motion (SHM)",
+      "options": [
+        "Circular motion",
+        "Rotational motion",
+        "Simple harmonic motion (SHM)",
+        "Random motion"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of forced oscillation?",
+      "correct_answer": "Swinging on a swing pushed by someone",
+      "options": [
+        "A bouncing ball",
+        "A simple pendulum",
+        "A vibrating guitar string",
+        "Swinging on a swing pushed by someone"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Envelope of the oscillation",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the point of stable equilibrium where the restoring force is maximum?",
+      "correct_answer": "Rest position",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Displacement"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of oscillation occurs when the restoring force is proportional to the displacement from equilibrium?",
+      "correct_answer": "Simple harmonic oscillation",
+      "options": [
+        "Complex harmonic oscillation",
+        "Simple harmonic oscillation",
+        "Damped oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for an oscillating system to complete one full oscillation?",
+      "correct_answer": "Period",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Velocity",
+        "Period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following factors affects the period of a simple pendulum?",
+      "correct_answer": "Length of the pendulum",
+      "options": [
+        "Mass of the pendulum bob",
+        "Amplitude of the oscillation",
+        "Gravity",
+        "Length of the pendulum"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the oscillation that occurs when an external periodic force is applied to a system at or near its natural frequency?",
+      "correct_answer": "Resonance",
+      "options": [
+        "Amplitude",
+        "Damping",
+        "Frequency",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following factors affects the frequency of an oscillating system?",
+      "correct_answer": "Stiffness of the system",
+      "options": [
+        "Mass of the system",
+        "Amplitude of the oscillation",
+        "Gravity",
+        "Stiffness of the system"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a system that continues to oscillate with constant amplitude and frequency after being disturbed?",
+      "correct_answer": "Undamped oscillation",
+      "options": [
+        "Damped oscillation",
+        "Simple harmonic motion (SHM)",
+        "Resonance",
+        "Undamped oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following factors does not affect the period of a simple pendulum?",
+      "correct_answer": "Amplitude of the oscillation",
+      "options": [
+        "Length of the pendulum",
+        "Mass of the pendulum bob",
+        "Gravity",
+        "Amplitude of the oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the point of maximum displacement from equilibrium where the restoring force is zero?",
+      "correct_answer": "Turning point",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Turning point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is true about the period of oscillation in a simple pendulum?",
+      "correct_answer": "It is independent of the mass of the pendulum bob.",
+      "options": [
+        "It is directly proportional to the length of the pendulum.",
+        "It is inversely proportional to the length of the pendulum.",
+        "It is independent of the amplitude of oscillation.",
+        "It is independent of the mass of the pendulum bob."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for the oscillation where the restoring force is directly proportional to the displacement from equilibrium and is in the opposite direction?",
+      "correct_answer": "Simple harmonic oscillation",
+      "options": [
+        "Complex harmonic oscillation",
+        "Simple harmonic oscillation",
+        "Damped oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following factors does not affect the frequency of an oscillating system?",
+      "correct_answer": "Amplitude of the oscillation",
+      "options": [
+        "Stiffness of the system",
+        "Mass of the system",
+        "External periodic force",
+        "Amplitude of the oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the gradual decrease in the amplitude of an oscillation over time?",
+      "correct_answer": "Damping",
+      "options": [
+        "Amplitude modulation",
+        "Frequency modulation",
+        "Phase modulation",
+        "Damping"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the period (T) and the frequency (f)?",
+      "correct_answer": "T = 1/f",
+      "options": [
+        "T = f",
+        "T = 2f",
+        "T = 1/f²",
+        "T = 2πf"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the time it takes for an oscillating system to complete half of one oscillation?",
+      "correct_answer": "Half-period",
+      "options": [
+        "Quarter-period",
+        "Half-cycle",
+        "Half-period",
+        "Full-period"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following factors does not affect the period of an oscillating system?",
+      "correct_answer": "Amplitude of the oscillation",
+      "options": [
+        "Stiffness of the system",
+        "Mass of the system",
+        "External periodic force",
+        "Amplitude of the oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the maximum displacement from equilibrium?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is true about the frequency of oscillation in a simple pendulum?",
+      "correct_answer": "It is independent of the amplitude of oscillation.",
+      "options": [
+        "It is directly proportional to the length of the pendulum.",
+        "It is inversely proportional to the length of the pendulum.",
+        "It is independent of the mass of the pendulum bob.",
+        "It is independent of the amplitude of oscillation."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the angular frequency (ω) and the frequency (f)?",
+      "correct_answer": "ω = 2πf",
+      "options": [
+        "ω = f",
+        "ω = 2f",
+        "ω = 1/f",
+        "ω = πf"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is true about the period of oscillation in a simple pendulum?",
+      "correct_answer": "It is directly proportional to the length of the pendulum.",
+      "options": [
+        "It is inversely proportional to the length of the pendulum.",
+        "It is independent of the mass of the pendulum bob.",
+        "It is independent of the amplitude of oscillation.",
+        "It is directly proportional to the amplitude of oscillation."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the point of maximum displacement from equilibrium?",
+      "correct_answer": "Turning point",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Turning point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the gradual increase in the amplitude of an oscillation over time?",
+      "correct_answer": "Amplitude modulation",
+      "options": [
+        "Frequency modulation",
+        "Phase modulation",
+        "Damping",
+        "Amplitude modulation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the angular frequency (ω) and the period (T)?",
+      "correct_answer": "ω = 2π/T",
+      "options": [
+        "ω = T",
+        "ω = 2T",
+        "ω = π/T",
+        "ω = 1/T"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the oscillation that occurs when an external periodic force is applied to a system at or near its natural frequency?",
+      "correct_answer": "Resonance",
+      "options": [
+        "Amplitude",
+        "Damping",
+        "Frequency",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In simple harmonic motion, what is the relationship between the period (T) and the frequency (f)?",
+      "correct_answer": "T = 1/f",
+      "options": [
+        "T = f",
+        "T = 2f",
+        "T = 1/f²",
+        "T = 2πf"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is true about the period of oscillation in a simple pendulum?",
+      "correct_answer": "It is directly proportional to the length of the pendulum.",
+      "options": [
+        "It is inversely proportional to the length of the pendulum.",
+        "It is independent of the mass of the pendulum bob.",
+        "It is independent of the amplitude of oscillation.",
+        "It is directly proportional to the amplitude of oscillation."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the angular frequency (ω) and the period (T)?",
+      "correct_answer": "ω = 2π/T",
+      "options": [
+        "ω = T",
+        "ω = 2T",
+        "ω = π/T",
+        "ω = 1/T"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the point of maximum displacement from equilibrium where the restoring force is zero?",
+      "correct_answer": "Turning point",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Turning point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the gradual increase in the amplitude of an oscillation over time?",
+      "correct_answer": "Amplitude modulation",
+      "options": [
+        "Frequency modulation",
+        "Phase modulation",
+        "Damping",
+        "Amplitude modulation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the angular frequency (ω) and the period (T)?",
+      "correct_answer": "ω = 2π/T",
+      "options": [
+        "ω = T",
+        "ω = 2T",
+        "ω = π/T",
+        "ω = 1/T"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the oscillation that occurs when an external periodic force is applied to a system at or near its natural frequency?",
+      "correct_answer": "Resonance",
+      "options": [
+        "Amplitude",
+        "Damping",
+        "Frequency",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In simple harmonic motion, what is the relationship between the period (T) and the frequency (f)?",
+      "correct_answer": "T = 1/f",
+      "options": [
+        "T = f",
+        "T = 2f",
+        "T = 1/f²",
+        "T = 2πf"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is true about the period of oscillation in a simple pendulum?",
+      "correct_answer": "It is directly proportional to the length of the pendulum.",
+      "options": [
+        "It is inversely proportional to the length of the pendulum.",
+        "It is independent of the mass of the pendulum bob.",
+        "It is independent of the amplitude of oscillation.",
+        "It is directly proportional to the amplitude of oscillation."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a simple harmonic oscillator, what is the relationship between the angular frequency (ω) and the period (T)?",
+      "correct_answer": "ω = 2π/T",
+      "options": [
+        "ω = T",
+        "ω = 2T",
+        "ω = π/T",
+        "ω = 1/T"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an oscillating system, what is the term for the point of maximum displacement from equilibrium where the restoring force is zero?",
+      "correct_answer": "Turning point",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Turning point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the gradual increase in the amplitude of an oscillation over time?",
+      "correct_answer": "Amplitude modulation",
+      "options": [
+        "Frequency modulation",
+        "Phase modulation",
+        "Damping",
+        "Amplitude modulation"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the equation for the angular frequency (ω) of a simple harmonic oscillator in terms of the spring constant (k) and the mass (m) of the object?",
+      "correct_answer": "ω = √(k/m)",
+      "options": [
+        "ω = (k/m)",
+        "ω = 2π(k/m)",
+        "ω = √(k/m)",
+        "ω = (m/k)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of damped oscillations, what term is used to describe the condition where the damping force is proportional to the velocity of the oscillating object?",
+      "correct_answer": "Viscous damping",
+      "options": [
+        "Frictional damping",
+        "Critical damping",
+        "Viscous damping",
+        "Underdamping"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an undamped harmonic oscillator, what is the relationship between the amplitude (A) and the total mechanical energy (E) of the oscillator?",
+      "correct_answer": "E ∝ A²",
+      "options": [
+        "E ∝ A³",
+        "E ∝ A",
+        "E ∝ 1/A",
+        "E ∝ A²"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what happens to the amplitude of oscillation when the driving frequency matches the natural frequency of the system?",
+      "correct_answer": "It increases significantly",
+      "options": [
+        "It decreases significantly",
+        "It remains constant",
+        "It becomes zero",
+        "It increases slightly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a damped harmonic oscillator, what is the term for the ratio of the damping coefficient to the mass of the object?",
+      "correct_answer": "Damping ratio",
+      "options": [
+        "Frequency ratio",
+        "Damping ratio",
+        "Amplitude ratio",
+        "Phase ratio"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the equation for the period (T) of a simple pendulum in terms of the length (L) and acceleration due to gravity (g)?",
+      "correct_answer": "T = 2π√(L/g)",
+      "options": [
+        "T = π√(L/g)",
+        "T = 2π(L/g)",
+        "T = 2(L/g)",
+        "T = π(L/g)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an underdamped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = √(k/m - (b/2m)²)",
+      "options": [
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)",
+        "ω = (k/m + (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the equation for the displacement (x) of an object in simple harmonic motion as a function of time (t), amplitude (A), angular frequency (ω), and phase angle (φ)?",
+      "correct_answer": "x(t) = A cos(ωt + φ)",
+      "options": [
+        "x(t) = A sin(ωt + φ)",
+        "x(t) = A tan(ωt + φ)",
+        "x(t) = A cos(ωt - φ)",
+        "x(t) = A sin(ωt - φ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which term is used to describe the oscillatory motion where the restoring force is directly proportional to the displacement from equilibrium and is in phase with the displacement?",
+      "correct_answer": "Simple harmonic oscillation",
+      "options": [
+        "Complex harmonic oscillation",
+        "Simple harmonic oscillation",
+        "Damped oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the equation for the angular frequency (ω) of a simple pendulum in terms of the length (L) and acceleration due to gravity (g)?",
+      "correct_answer": "ω = √(g/L)",
+      "options": [
+        "ω = g/L",
+        "ω = 2π√(g/L)",
+        "ω = √(L/g)",
+        "ω = (L/g)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what happens to the phase difference between the driving force and the oscillator's displacement when resonance occurs?",
+      "correct_answer": "The phase difference becomes zero",
+      "options": [
+        "The phase difference becomes π/2",
+        "The phase difference becomes π",
+        "The phase difference becomes -π/2",
+        "The phase difference becomes zero"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term is used to describe the oscillation that occurs when an external periodic force is applied to a system at a frequency that is not equal to the natural frequency of the system?",
+      "correct_answer": "Forced oscillation",
+      "options": [
+        "Free oscillation",
+        "Resonance",
+        "Natural oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an underdamped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = √(k/m - (b/2m)²)",
+      "options": [
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)",
+        "ω = (k/m + (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of oscillations, what is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (b/2m)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what is the term for the width of the resonance curve at half of its maximum amplitude?",
+      "correct_answer": "Bandwidth",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Phase difference",
+        "Bandwidth"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency is much higher than the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude increases slightly",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases slightly",
+        "The amplitude becomes zero",
+        "The amplitude increases significantly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what is the term for the width of the resonance curve at half of its maximum amplitude?",
+      "correct_answer": "Bandwidth",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Phase difference",
+        "Bandwidth"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency is much higher than the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude increases slightly",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases slightly",
+        "The amplitude becomes zero",
+        "The amplitude increases significantly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency matches the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude reaches its maximum value",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases",
+        "The amplitude becomes zero",
+        "The amplitude increases slightly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency is much higher than the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude increases slightly",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases slightly",
+        "The amplitude becomes zero",
+        "The amplitude increases significantly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency matches the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude reaches its maximum value",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases",
+        "The amplitude becomes zero",
+        "The amplitude increases slightly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term is used to describe the oscillatory motion where the restoring force is directly proportional to the displacement from equilibrium and is in phase with the displacement?",
+      "correct_answer": "Simple harmonic oscillation",
+      "options": [
+        "Complex harmonic oscillation",
+        "Simple harmonic oscillation",
+        "Damped oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what happens to the phase difference between the driving force and the oscillator's displacement when resonance occurs?",
+      "correct_answer": "The phase difference becomes zero",
+      "options": [
+        "The phase difference becomes π/2",
+        "The phase difference becomes π",
+        "The phase difference becomes -π/2",
+        "The phase difference becomes zero"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What term is used to describe the oscillation that occurs when an external periodic force is applied to a system at a frequency that is not equal to the natural frequency of the system?",
+      "correct_answer": "Forced oscillation",
+      "options": [
+        "Free oscillation",
+        "Resonance",
+        "Natural oscillation",
+        "Forced oscillation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an underdamped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = √(k/m - (b/2m)²)",
+      "options": [
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)",
+        "ω = (k/m + (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of oscillations, what is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what is the term for the width of the resonance curve at half of its maximum amplitude?",
+      "correct_answer": "Bandwidth",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Phase difference",
+        "Bandwidth"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency is much higher than the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude increases slightly",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases slightly",
+        "The amplitude becomes zero",
+        "The amplitude increases significantly"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a driven harmonic oscillator, what happens to the amplitude of oscillation when the driving frequency matches the natural frequency of the oscillator?",
+      "correct_answer": "The amplitude reaches its maximum value",
+      "options": [
+        "The amplitude remains constant",
+        "The amplitude decreases",
+        "The amplitude becomes zero",
+        "The amplitude increases slightly"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the angular frequency (ω) of an oscillator when it is subjected to no external forces or damping?",
+      "correct_answer": "Natural angular frequency",
+      "options": [
+        "Resonant angular frequency",
+        "Intrinsic angular frequency",
+        "Undamped angular frequency",
+        "Natural angular frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a damped harmonic oscillator, what is the condition called when the damping force is equal to zero?",
+      "correct_answer": "Undamped condition",
+      "options": [
+        "Critical damping",
+        "Undamped condition",
+        "Overdamping",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a forced harmonic oscillator, if the driving frequency is less than the natural frequency, what type of oscillation occurs?",
+      "correct_answer": "Underdamping",
+      "options": [
+        "Critical damping",
+        "Overdamping",
+        "Resonance",
+        "Underdamping"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a critically damped harmonic oscillator, how does the system respond to an initial disturbance?",
+      "correct_answer": "Returns to equilibrium without oscillation quickly",
+      "options": [
+        "Oscillates indefinitely",
+        "Oscillates with decreasing amplitude",
+        "Returns to equilibrium without oscillation quickly",
+        "Oscillates with increasing amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a driven harmonic oscillator, what is the term for the frequency at which the amplitude of oscillation is maximized?",
+      "correct_answer": "Resonant frequency",
+      "options": [
+        "Natural frequency",
+        "Damping frequency",
+        "Driving frequency",
+        "Resonant frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the term for the ratio of the amplitude of oscillation at any given time to the maximum amplitude of the oscillator?",
+      "correct_answer": "Response amplitude ratio",
+      "options": [
+        "Phase ratio",
+        "Damping ratio",
+        "Response amplitude ratio",
+        "Resonance ratio"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In an oscillating system, what is the term for the point of maximum displacement from equilibrium where the restoring force is zero?",
+      "correct_answer": "Turning point",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Rest position",
+        "Turning point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of oscillations, what is the term for the deviation of the oscillation frequency from the natural frequency due to damping?",
+      "correct_answer": "Frequency detuning",
+      "options": [
+        "Frequency modulation",
+        "Frequency detuning",
+        "Frequency resonance",
+        "Frequency deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the equation for the period (T) of a damped harmonic oscillator in terms of the damping coefficient (b), mass (m), and spring constant (k)?",
+      "correct_answer": "T = 2πm / (-b ± √(b² - 4mk))",
+      "options": [
+        "T = 2πm / (-b ± √(b² - 4mk))",
+        "T = 2πm / (b ± √(b² - 4mk))",
+        "T = 2πm / (-b √(b² - 4mk))",
+        "T = 2πm / (b - √(b² - 4mk))"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a damped harmonic oscillator, what is the term for the condition where the damping force is much greater than the restoring force?",
+      "correct_answer": "Overdamping",
+      "options": [
+        "Critical damping",
+        "Overdamping",
+        "Underdamping",
+        "Resonance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a driven harmonic oscillator, what is the term for the angular frequency at which the amplitude of oscillation is maximized?",
+      "correct_answer": "Resonant angular frequency",
+      "options": [
+        "Natural angular frequency",
+        "Driving angular frequency",
+        "Damping angular frequency",
+        "Resonant angular frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an underdamped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = √(k/m - (b/2m)²)",
+      "options": [
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)",
+        "ω = (k/m + (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a driven harmonic oscillator, what is the term for the angular frequency at which the amplitude of oscillation is maximized?",
+      "correct_answer": "Resonant angular frequency",
+      "options": [
+        "Natural angular frequency",
+        "Driving angular frequency",
+        "Damping angular frequency",
+        "Resonant angular frequency"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For an underdamped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = √(k/m - (b/2m)²)",
+      "options": [
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)",
+        "ω = (k/m + (b/2m)²)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of oscillations, what is the term for the maximum displacement from equilibrium in a damped oscillation?",
+      "correct_answer": "Amplitude",
+      "options": [
+        "Frequency",
+        "Rest position",
+        "Envelope of the oscillation",
+        "Amplitude"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of resonance in oscillating systems, what is the term for the width of the resonance curve at half of its maximum amplitude?",
+      "correct_answer": "Bandwidth",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Phase difference",
+        "Bandwidth"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "For a critically damped harmonic oscillator, what is the relationship between the angular frequency (ω) and the damping coefficient (b)?",
+      "correct_answer": "ω = (b/2m)",
+      "options": [
+        "ω = √(k/m - (b/2m)²)",
+        "ω = √(k/m + (b/2m)²)",
+        "ω = √(k/m)",
+        "ω = (k/m - (b/2m)²)"
+      ]
+    }
+  ]
+}

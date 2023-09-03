@@ -1,0 +1,654 @@
+{
+  "questions":[
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If the radius of the earth were to shrink by 1% its mass remaining the same, the acceleration due to gravity on the earth's surface would",
+    "correct_answer": "(a)Decrease by 2%",
+    "options": [
+      "(a)Decrease by 2%",
+      "(b)Remain unchanged",
+      "(c)Increase by 2%",
+      "(d)Increase by 1%"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Mass of moon is 7.34 x 10^22 kg. If the acceleration due to gravity on the moon is 1.62 m/s2, the radius of the moon is (G = 6.667 10-11 Nm2/ kg2)",
+    "correct_answer": "(b)1.74 x 10^6 m",
+    "options": [
+      "(a)0.56 x 10^4 m",
+      "(b)1.74 x 10^6 m",
+      "(c)1.92 x 10^6 m",
+      "(d)1.01 x 10^8 m"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Force of gravity is least at",
+    "correct_answer": "(b)The poles",
+    "options": [
+      "(a)At the equators",
+      "(b)The poles",
+      "(c)A point in between equator and any pole",
+      "(d)None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Assuming earth to be a sphere of a uniform density, what is the value of gravitational acceleration in a 100 km below the earth's surface (Given R = 6400km).",
+    "correct_answer": "(a)9.66m / s2",
+    "options": [
+      "(a)9.66m / s2",
+      "(b)7.64m / s2",
+      "(c)5.06m / s2",
+      "(d)3.10m / s2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The motion of planets around the sun is due to gravitational force of:",
+    "correct_answer": "(a)Sun",
+    "options": [
+      "(a)Sun",
+      "(b)Earth",
+      "(c)Moon",
+      "(d)A.O.T"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The value of the distance from the center of the earth when the gravitational acceleration has one half the value it has on the earth’s surface __________.",
+    "correct_answer": "(a)1.414 Re",
+    "options": [
+      "(a)1.414 Re",
+      "(b)2 Re",
+      "(c)0.5 Re",
+      "(d)Re"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At a distance twice to the radius of the earth above the surface of earth, the value of 'g' becomes:",
+    "correct_answer": "(a)1/2 g",
+    "options": [
+      "(a)1/2 g",
+      "(b)1/4 g",
+      "(c)0 g",
+      "(d)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If distance between two bodies is double and their masses are also double, the gravitational force will:",
+    "correct_answer": "(c)Remains constant",
+    "options": [
+      "(a)Increase four times",
+      "(b)Decrease four times",
+      "(c)Remains constant",
+      "(d)None of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If the distance between two masses is halved, the gravitational force is:",
+    "correct_answer": "(b)Doubled",
+    "options": [
+      "(a)Halved",
+      "(b)Doubled",
+      "(c)Four times",
+      "(d)Same"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If mass of earth becomes four times, the value of G is  ……… affected.",
+    "correct_answer": "(d)4 times",
+    "options": [
+      "(a)Slightly",
+      "(b)Largely",
+      "(c)Lightly",
+      "(d)4 times",
+      "(e)Not"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Spin of the satellite affects the",
+    "correct_answer": "(e)All of these",
+    "options": [
+      "(a)Size of satellite",
+      "(b)Artificial gravity",
+      "(c)Actual gravity",
+      "(d)Mass of satellite",
+      "(e)All of these"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The value of orbit radius of the moon is about __________.",
+    "correct_answer": "(a)3.84 x 10^8 m",
+    "options": [
+      "(a)3.84 x 10^8 m",
+      "(b)3.84 x 10^5 m",
+      "(c)3.84 x 10^3 m",
+      "(d)3.84 x 10^6 m"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The time taken by the moon to complete one revolution around the earth is.",
+    "correct_answer": "(b)2.36 x 10^4 seconds",
+    "options": [
+      "(a)2.36 x 10^6 seconds",
+      "(b)2.36 x 10^4 seconds",
+      "(c)2.36 x 10^8 seconds",
+      "(d)3.15 x 10^7 seconds"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The acceleration due to gravity decreases for a point above the surface of the earth and for the same point below the surface of the earth with a __________.",
+    "correct_answer": "(b)Slow rate",
+    "options": [
+      "(a)Faster rate",
+      "(b)Slow rate",
+      "(c)Same rate",
+      "(d)Constant rate"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The gravitational force of attraction between two balls each of mass 100 kg when they are placed at a distance of 1 m apart is __________.",
+    "correct_answer": "(b)6.673 x 10^-11 N",
+    "options": [
+      "(a)6.673 x 10^-8 N",
+      "(b)6.673 x 10^-11 N",
+      "(c)6.673 x 10^-7 N",
+      "(d)N.O.T"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The value of the gravitational acceleration at a distance equal to the earth’s radius above the earth’s surface is __________.",
+    "correct_answer": "(a)9.8 m/s^2",
+    "options": [
+      "(a)9.8 m/s^2",
+      "(b)4.9 m/s^2",
+      "(c)2.45 m/s^2",
+      "(d)1.09 m/s^2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The weight of an object becomes greater in an elevator which is",
+    "correct_answer": "(b)Moving up",
+    "options": [
+      "(a)At rest",
+      "(b)Moving up",
+      "(c)Moving down",
+      "(d)All"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If an elevator is at rest, the apparent weight is equal to:",
+    "correct_answer": "(a)ma + mg",
+    "options": [
+      "(a)ma + mg",
+      "(b)mg - ma",
+      "(c)ma",
+      "(d)mg"
+    ]
+  },
+
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The intensity of the earth's gravitational field is maximum at:",
+    "correct_answer": "(a)the center of the earth",
+    "options": [
+      "(a)the center of the earth",
+      "(b)the equator",
+      "(c)the poles",
+      "(d)meridian",
+      "(e)any place"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Two masses 10 cm apart attract each other with a force. If these are placed 5 cm apart, what is the force as compared to the first?",
+    "correct_answer": "(d)4 times",
+    "options": [
+      "(a)1/2 times",
+      "(b)2 times",
+      "(c)1/4 times",
+      "(d)4 times",
+      "(e)same"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Artificial gravity depends upon the ________ of satellite.",
+    "correct_answer": "(e)all",
+    "options": [
+      "(a)size",
+      "(b)axes of rotation of",
+      "(c)shape",
+      "(d)spin",
+      "(e)all"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The satellites are put into orbit around the earth by",
+    "correct_answer": "(d)rockets",
+    "options": [
+      "(a)aero-planes",
+      "(b)missiles",
+      "(c)space ship",
+      "(d)rockets",
+      "(e)all"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The height at which the value of gravity of earth becomes one fourth of its value on the surface of the earth is (R is earth radius):",
+    "correct_answer": "(c)3R",
+    "options": [
+      "(a)R",
+      "(b)2R",
+      "(c)3R",
+      "(d)4R",
+      "(e)R/2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At 480 km above the surface of earth, gravity of earth will be ________ where earth radius 6400 km:",
+    "correct_answer": "(b)7.2 m/s2",
+    "options": [
+      "(a)4.2 m/s2",
+      "(b)7.2 m/s2",
+      "(c)8.5 m/s2",
+      "(d)9.63 m/s2",
+      "(e)11.5 m/s2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The atmosphere is held to the earth by",
+    "correct_answer": "(b)gravity",
+    "options": [
+      "(a)clouds",
+      "(b)gravity",
+      "(c)winds",
+      "(d)water",
+      "(e)none"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The change in the value of ‘g’ at a height ‘h’ above the surface of the earth is the same as at a depth ‘d’ below the surface of earth. When both ‘d’ and ‘h’ are much smaller than the radius of the earth, then which one of the following is correct ?",
+    "correct_answer": "(b)d = h / 2",
+    "options": [
+      "(a)d = 3h / 2",
+      "(b)d = h / 2",
+      "(c)d = h",
+      "(d)d = 2h",
+      "(e)h = 2d"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The source of electric energy in an artificial satellite is:",
+    "correct_answer": "(d)solar cells",
+    "options": [
+      "(a) mini nuclear reactor",
+      "(b) dynamo",
+      "(c) thermopile",
+      "(d) solar cell"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The value of g at a certain height above the earth is:",
+    "correct_answer": "(c)estimated to decrease with altitude",
+    "options": [
+      "(a)nearly the same as at the surface of earth",
+      "(b)nearly the same as at the center of earth",
+      "(c)estimated to decrease with altitude",
+      "(d)negative"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If the space craft is 20m long, how many revolutions per minute are needed to generate artificial gravity?",
+    "correct_answer": "(a)1.5",
+    "options": [
+      "(a)1.5",
+      "(b)2.5",
+      "(c)4.5",
+      "(d)9.5"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Maximum effect on the weight of a body due to the rotation of the earth is at:",
+    "correct_answer": "(d)equator of the earth",
+    "options": [
+      "(a)center of the earth",
+      "(b)surface of the earth",
+      "(c)poles of the earth",
+      "(d)equator of the earth"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All known planets move in:",
+    "correct_answer": "(b)elliptical path",
+    "options": [
+      "(a)straight path",
+      "(b)elliptical path",
+      "(c)circular path",
+      "(d)hyperbolic path"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body is taken from the earth’s surface to the moon, the weight of the body will be zero at a point where force of attraction due to the",
+    "correct_answer": "(c)moon is zero",
+    "options": [
+      "(a)earth is zero",
+      "(b)moon and earth is equal and opposite",
+      "(c)moon is zero",
+      "(d)both the moon and earth is zero"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "An object is taken from the earth to a planet where the value ‘g’ is 20 m/s^2. If it is compared with the value of ‘g’ on earth, which of the following statements is true?",
+    "correct_answer": "(a)weight on the planet will be greater",
+    "options": [
+      "(a)weight on the planet will be greater",
+      "(b)weight on the planet will be the same",
+      "(c)mass on the planet will be greater",
+      "(d)mass on the planet will be smaller"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A boy standing in a lift falling freely under gravity releases a ball from his hand. As seen by him, the ball",
+    "correct_answer": "(b)remains stationary",
+    "options": [
+      "(a)falls down",
+      "(b)remains stationary",
+      "(c)goes up",
+      "(d)goes forward"
+      
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which force in nature exists everywhere?",
+    "correct_answer": "(d)gravitational force",
+    "options": [
+      "(a)nuclear force",
+      "(b)electromagnetic force",
+      "(c)electrical force",
+      "(d)gravitational force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Two planets have the same average density but their radii are R1 and R2. If acceleration due to gravity on these planets be g1 and g2 respectively, then...",
+    "correct_answer": "(b)g1/g2 = R2/R1",
+    "options": [
+      "(a)g1/g2 = R1/R2",
+      "(b)g1/g2 = R2/R1",
+      "(c)g1/g2 = R1^2/R2^2",
+      "(d)g1 x g2 = R1 x R2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The acceleration of the moon is approximately equal to:",
+    "correct_answer": "(a)earth gravity",
+    "options": [
+      "(a)earth gravity",
+      "(b)earth gravity",
+      "(c)earth gravity",
+      "(d)earth gravity"
+    ]
+  },
+
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of the following planets is closer to the sun?",
+    "correct_answer": "(d)mercury",
+    "options": [
+      "(a)pluto",
+      "(b)mars",
+      "(c)venus",
+      "(d)mercury"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The planet nearest to the earth is:",
+    "correct_answer": "(a)venus",
+    "options": [
+      "(a)venus",
+      "(b)mercury",
+      "(c)sun",
+      "(d)moon"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Pull of the earth on a mass of 20 kg on the surface of earth is:",
+    "correct_answer": "(b)196N",
+    "options": [
+      "(a)20N",
+      "(b)196N",
+      "(c)19.6N",
+      "(d)1960N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The weight of a man in an elevator moving down with acceleration of 9.8 m/s^2 will become.",
+    "correct_answer": "(d)double",
+    "options": [
+      "(a)half",
+      "(b)zero",
+      "(c)unchanged",
+      "(d)double"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A man of mass 100 kg is standing in an elevator. The net force on the man when the elevator is going up with an acceleration of 4 m/s^2 would be:",
+    "correct_answer": "(d)1380N",
+    "options": [
+      "(a)908N",
+      "(b)490N",
+      "(c)100N",
+      "(d)1380N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body of 2 kg is suspended from the ceiling of an elevator moving up with an acceleration 'g'. Its apparent weight in the elevator will be:",
+    "correct_answer": "(c)129.4N",
+    "options": [
+      "(a)9.8N",
+      "(b)19.6N",
+      "(c)129.4N",
+      "(d)39.2N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The expression for the orbital velocity of the satellite in terms of orbit radius is:",
+    "correct_answer": "(d)",
+    "options": [
+      "(a)",
+      "(b)",
+      "(c)",
+      "(d)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A man weighs 980 N in a stationary lift. What will be the weight if the lift starts moving up with an acceleration of 4.9 m/s^2?",
+    "correct_answer": "(a)1960N",
+    "options": [
+      "(a)1960N",
+      "(b)980N",
+      "(c)1176N",
+      "(d)1470N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The law of gravitation was introduced by:",
+    "correct_answer": "(c)Newton",
+    "options": [
+      "(a)Huygen",
+      "(b)Boyle's",
+      "(c)Newton",
+      "(d)Pascal"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body of mass 2 kg is suspended in an elevator by means of a spring balance. The balance reads its weight when the elevator moves up with an acceleration of 5 m/s^2 as:",
+    "correct_answer": "(b)29.6N",
+    "options": [
+      "(a)30.5N",
+      "(b)29.6N",
+      "(c)26.5N",
+      "(d)9.8N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body of mass 1 kg is suspended in an elevator by means of a spring balance. The balance reads its weight when the elevator moves down with an acceleration of 4 m/s^2 as:",
+    "correct_answer": "(c)13.8N",
+    "options": [
+      "(a)9.8N",
+      "(b)5.8N",
+      "(c)13.8N",
+      "(d)20N"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A body in a satellite orbiting round the earth is weightless because:",
+    "correct_answer": "(a)no net force acts on it",
+    "options": [
+      "(a)no net force acts on it",
+      "(b)the moon attracts the body with a force equal to its weight",
+      "(c)it is far away from the earth to experience pull of the earth",
+      "(d)the force applied by the moon on the body is equal to the force applied by the earth on the body"
+    ]
+  }
+]
+}

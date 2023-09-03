@@ -1,0 +1,2370 @@
+ {
+    "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the fundamental unit of electric charge?",
+      "correct_answer": "Coulomb (C)",
+      "options": [
+        "Volt (V)",
+        "Ampere (A)",
+        "Ohm (Ω)",
+        "Coulomb (C)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which scientist is known for formulating the four Maxwell's equations that describe electromagnetism?",
+      "correct_answer": "James Clerk Maxwell",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Clerk Maxwell"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of electric current?",
+      "correct_answer": "Ampere (A)",
+      "options": [
+        "Coulomb (C)",
+        "Watt (W)",
+        "Volt (V)",
+        "Ampere (A)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an electric current produces a magnetic field around it?",
+      "correct_answer": "Electromagnetic induction",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic discharge",
+        "Quantum entanglement",
+        "Photoelectric effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the opposition to the flow of electric current in a circuit?",
+      "correct_answer": "Resistance",
+      "options": [
+        "Voltage",
+        "Current",
+        "Capacitance",
+        "Resistance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law states that the induced electromotive force (EMF) in any closed circuit is equal to the negative rate of change of the magnetic flux through the circuit?",
+      "correct_answer": "Faraday's law of electromagnetic induction",
+      "options": [
+        "Ohm's law",
+        "Ampere's law",
+        "Gauss's law",
+        "Faraday's law of electromagnetic induction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of current flows continuously in one direction?",
+      "correct_answer": "Direct current (DC)",
+      "options": [
+        "Alternating current (AC)",
+        "Direct current (DC)",
+        "Pulsating current (PC)",
+        "Reverse current (RC)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a magnetic field, which pole of a magnet points to the Earth's magnetic north pole?",
+      "correct_answer": "North pole",
+      "options": [
+        "South pole",
+        "East pole",
+        "West pole",
+        "North pole"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the resistance of a conductor if its length is doubled while keeping its cross-sectional area constant?",
+      "correct_answer": "It doubles.",
+      "options": [
+        "It halves.",
+        "It remains the same.",
+        "It quadruples.",
+        "It doubles."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which electromagnetic wave has the longest wavelength in the electromagnetic spectrum?",
+      "correct_answer": "Radio waves",
+      "options": [
+        "X-rays",
+        "Microwaves",
+        "Radio waves",
+        "Gamma rays"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of magnetic flux?",
+      "correct_answer": "Weber (Wb)",
+      "options": [
+        "Tesla (T)",
+        "Ampere (A)",
+        "Ohm (Ω)",
+        "Weber (Wb)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which electromagnetic wave has the shortest wavelength in the electromagnetic spectrum?",
+      "correct_answer": "Gamma rays",
+      "options": [
+        "X-rays",
+        "Ultraviolet (UV) rays",
+        "Infrared (IR) rays",
+        "Gamma rays"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a material that has no electrical resistance and can allow current to flow without energy loss?",
+      "correct_answer": "Superconductor",
+      "options": [
+        "Insulator",
+        "Conductor",
+        "Semiconductor",
+        "Superconductor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an electric current flows in a closed loop due to a changing magnetic field?",
+      "correct_answer": "Electromagnetic induction",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic discharge",
+        "Quantum entanglement",
+        "Photoelectric effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the current flowing through a conductor, the voltage across it, and its resistance?",
+      "correct_answer": "Ohm's law",
+      "options": [
+        "Ampere's law",
+        "Faraday's law",
+        "Newton's law",
+        "Ohm's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a coil of wire that can generate a magnetic field when an electric current flows through it?",
+      "correct_answer": "Solenoid",
+      "options": [
+        "Transformer",
+        "Inductor",
+        "Solenoid",
+        "Capacitor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the voltage across a resistor if the current through it is doubled while keeping its resistance constant?",
+      "correct_answer": "It doubles.",
+      "options": [
+        "It halves.",
+        "It remains the same.",
+        "It quadruples.",
+        "It doubles."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force of attraction or repulsion between electric charges?",
+      "correct_answer": "Electrostatic force",
+      "options": [
+        "Gravitational force",
+        "Electrostatic force",
+        "Magnetic force",
+        "Nuclear force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+      "correct_answer": "Ferromagnetism",
+      "options": [
+        "Electromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Ferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a device that converts mechanical energy into electrical energy?",
+      "correct_answer": "Generator",
+      "options": [
+        "Transformer",
+        "Generator",
+        "Resistor",
+        "Inductor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In electromagnetic waves, what is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 meters per second (m/s)",
+      "options": [
+        "186,282 miles per second (mi/s)",
+        "299,792,458 meters per second (m/s)",
+        "124,567 kilometers per hour (km/h)",
+        "1,000,000,000 feet per second (ft/s)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of electric potential difference?",
+      "correct_answer": "Volt (V)",
+      "options": [
+        "Ampere (A)",
+        "Coulomb (C)",
+        "Watt (W)",
+        "Volt (V)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is credited with the discovery of electromagnetic induction, where a changing magnetic field induces an electromotive force (EMF) in a conductor?",
+      "correct_answer": "Michael Faraday",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Isaac Newton",
+        "Michael Faraday"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+      "correct_answer": "Magnetic field",
+      "options": [
+        "Electric field",
+        "Magnetic field",
+        "Gravitational field",
+        "Electromagnetic field"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+      "correct_answer": "Ferromagnetism",
+      "options": [
+        "Electromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Ferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force that opposes the relative motion of an object as it moves through a fluid (liquid or gas)?",
+      "correct_answer": "Drag force",
+      "options": [
+        "Thrust",
+        "Lift",
+        "Tension",
+        "Drag force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an electric current is generated in a conductor when it is placed in a varying magnetic field?",
+      "correct_answer": "Electromagnetic induction",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic discharge",
+        "Quantum entanglement",
+        "Photoelectric effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In an electromagnetic wave, what is the relationship between the wavelength and frequency?",
+      "correct_answer": "Inverse relationship",
+      "options": [
+        "Direct relationship",
+        "No relationship",
+        "Directly proportional",
+        "Inverse relationship"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the property of a material that determines how easily it allows the flow of electric current?",
+      "correct_answer": "Conductivity",
+      "options": [
+        "Resistance",
+        "Permittivity",
+        "Conductivity",
+        "Inductance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the speed of light when it passes from air into glass?",
+      "correct_answer": "It decreases.",
+      "options": [
+        "It increases.",
+        "It remains the same.",
+        "It becomes zero.",
+        "It decreases."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force exerted by a magnetic field on a moving charged particle?",
+      "correct_answer": "Lorentz force",
+      "options": [
+        "Gravitational force",
+        "Electric force",
+        "Nuclear force",
+        "Lorentz force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of magnetic field strength?",
+      "correct_answer": "Tesla (T)",
+      "options": [
+        "Weber (Wb)",
+        "Ampere (A)",
+        "Ohm (Ω)",
+        "Tesla (T)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the charge, distance, and force between two point charges?",
+      "correct_answer": "Coulomb's law",
+      "options": [
+        "Newton's law",
+        "Gauss's law",
+        "Ampere's law",
+        "Coulomb's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a closed conducting loop that carries electric current and generates a magnetic field?",
+      "correct_answer": "Circuit",
+      "options": [
+        "Coil",
+        "Circuit",
+        "Conductor",
+        "Capacitor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of magnetism is exhibited by materials that are weakly attracted to a magnetic field?",
+      "correct_answer": "Paramagnetism",
+      "options": [
+        "Electromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Ferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force that opposes the motion of an object when it is in contact with another object, preventing them from sliding past each other?",
+      "correct_answer": "Kinetic friction",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "Rolling friction",
+        "Fluid friction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is induced when a changing magnetic field creates an electromotive force (EMF) in a closed circuit?",
+      "correct_answer": "Electric current",
+      "options": [
+        "Heat",
+        "Light",
+        "Sound",
+        "Electric current"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a material that has a magnetic moment opposite to the direction of an applied magnetic field and is weakly repelled by the field?",
+      "correct_answer": "Diamagnetic",
+      "options": [
+        "Paramagnetic",
+        "Ferromagnetic",
+        "Antimagnetic",
+        "Diamagnetic"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law states that the total electric flux through a closed surface is equal to the charge enclosed divided by the electric constant?",
+      "correct_answer": "Gauss's law",
+      "options": [
+        "Newton's law",
+        "Coulomb's law",
+        "Ampere's law",
+        "Gauss's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a circuit, what is the term for a device that stores electrical energy in an electric field and discharges it when needed?",
+      "correct_answer": "Capacitor",
+      "options": [
+        "Inductor",
+        "Capacitor",
+        "Resistor",
+        "Diode"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a magnetic material that retains its magnetism after the magnetizing field is removed?",
+      "correct_answer": "Permanent magnet",
+      "options": [
+        "Temporary magnet",
+        "Magnetic conductor",
+        "Solenoid",
+        "Permanent magnet"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an object becomes charged when it loses or gains electrons through friction?",
+      "correct_answer": "Triboelectric effect",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic discharge",
+        "Quantum entanglement",
+        "Triboelectric effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
+      "correct_answer": "Circular, concentric with the conductor",
+      "options": [
+        "Straight and parallel to the conductor",
+        "Circular, concentric with the conductor",
+        "Random and chaotic",
+        "Spiral around the conductor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a material that is neither a good conductor nor a good insulator and has properties between the two?",
+      "correct_answer": "Semiconductor",
+      "options": [
+        "Superconductor",
+        "Semiconductor",
+        "Conductor",
+        "Insulator"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the process of reducing the strength of a magnetic field?",
+      "correct_answer": "Demagnetization",
+      "options": [
+        "Magnetization",
+        "Magnetic resonance",
+        "Electromagnetic induction",
+        "Demagnetization"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which scientist is known for his work on the theory of electromagnetic waves and the invention of the radio?",
+      "correct_answer": "Heinrich Hertz",
+      "options": [
+        "Nikola Tesla",
+        "James Clerk Maxwell",
+        "Heinrich Hertz",
+        "Guglielmo Marconi"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a magnetic material temporarily becomes a magnet when placed in a magnetic field but loses its magnetism when the field is removed?",
+      "correct_answer": "Temporary magnetism",
+      "options": [
+        "Permanent magnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Temporary magnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the ability of a material to be magnetized and demagnetized repeatedly?",
+      "correct_answer": "Retentivity",
+      "options": [
+        "Permeability",
+        "Hysteresis",
+        "Retentivity",
+        "Susceptibility"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a device that uses electromagnetic induction to convert mechanical energy into electrical energy?",
+      "correct_answer": "Generator",
+      "options": [
+        "Motor",
+        "Transformer",
+        "Generator",
+        "Capacitor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which electromagnetic wave is used for communication between cell phones and other wireless devices?",
+      "correct_answer": "Radio waves",
+      "options": [
+        "Microwaves",
+        "Infrared (IR) rays",
+        "Radio waves",
+        "X-rays"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the phenomenon where a changing magnetic field induces an electromotive force (EMF) in a coil of wire?",
+      "correct_answer": "Electromagnetic induction",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic induction",
+        "Quantum induction",
+        "Magnetic induction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a device that increases or decreases the voltage of an alternating current (AC) signal?",
+      "correct_answer": "Transformer",
+      "options": [
+        "Generator",
+        "Inductor",
+        "Transformer",
+        "Capacitor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a material becomes magnetized in the opposite direction when placed in a magnetic field?",
+      "correct_answer": "Antiferromagnetism",
+      "options": [
+        "Ferromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Antiferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the magnetism exhibited by materials that are weakly repelled by a magnetic field?",
+      "correct_answer": "Diamagnetism",
+      "options": [
+        "Ferromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Antiferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the current flowing through a conductor and the magnetic field it generates?",
+      "correct_answer": "Ampere's law",
+      "options": [
+        "Ohm's law",
+        "Faraday's law",
+        "Coulomb's law",
+        "Ampere's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of current periodically changes direction?",
+      "correct_answer": "Alternating current (AC)",
+      "options": [
+        "Direct current (DC)",
+        "Alternating current (AC)",
+        "Pulsating current (PC)",
+        "Reverse current (RC)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the space around a magnet or a current-carrying conductor where the magnetic effect can be detected?",
+      "correct_answer": "Magnetic field",
+      "options": [
+        "Electric field",
+        "Magnetic field",
+        "Gravitational field",
+        "Electromagnetic field"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the magnetic field strength, the magnetic constant, and the magnetic flux through a closed loop?",
+      "correct_answer": "Ampere's law",
+      "options": [
+        "Ohm's law",
+        "Faraday's law",
+        "Coulomb's law",
+        "Ampere's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the resistance of a conductor if its cross-sectional area is doubled while keeping its length constant?",
+      "correct_answer": "It halves.",
+      "options": [
+        "It doubles.",
+        "It remains the same.",
+        "It quadruples.",
+        "It halves."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a magnetic field, which pole of a magnet points to the Earth's magnetic north pole?",
+      "correct_answer": "North pole",
+      "options": [
+        "South pole",
+        "East pole",
+        "West pole",
+        "North pole"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the opposition to the flow of electric current in a circuit?",
+      "correct_answer": "Resistance",
+      "options": [
+        "Voltage",
+        "Current",
+        "Capacitance",
+        "Resistance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law states that the induced electromotive force (EMF) in any closed circuit is equal to the negative rate of change of the magnetic flux through the circuit?",
+      "correct_answer": "Faraday's law of electromagnetic induction",
+      "options": [
+        "Ohm's law",
+        "Ampere's law",
+        "Gauss's law",
+        "Faraday's law of electromagnetic induction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of current flows continuously in one direction?",
+      "correct_answer": "Direct current (DC)",
+      "options": [
+        "Alternating current (AC)",
+        "Direct current (DC)",
+        "Pulsating current (PC)",
+        "Reverse current (RC)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a magnetic field, which pole of a magnet points to the Earth's magnetic north pole?",
+      "correct_answer": "North pole",
+      "options": [
+        "South pole",
+        "East pole",
+        "West pole",
+        "North pole"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the resistance of a conductor if its length is doubled while keeping its cross-sectional area constant?",
+      "correct_answer": "It doubles.",
+      "options": [
+        "It halves.",
+        "It remains the same.",
+        "It quadruples.",
+        "It doubles."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which electromagnetic wave has the longest wavelength in the electromagnetic spectrum?",
+      "correct_answer": "Radio waves",
+      "options": [
+        "X-rays",
+        "Microwaves",
+        "Radio waves",
+        "Gamma rays"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of magnetic flux?",
+      "correct_answer": "Weber (Wb)",
+      "options": [
+        "Tesla (T)",
+        "Ampere (A)",
+        "Ohm (Ω)",
+        "Weber (Wb)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which electromagnetic wave has the shortest wavelength in the electromagnetic spectrum?",
+      "correct_answer": "Gamma rays",
+      "options": [
+        "X-rays",
+        "Ultraviolet (UV) rays",
+        "Infrared (IR) rays",
+        "Gamma rays"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a material that has no electrical resistance and can allow current to flow without energy loss?",
+      "correct_answer": "Superconductor",
+      "options": [
+        "Insulator",
+        "Conductor",
+        "Semiconductor",
+        "Superconductor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where an electric current flows in a closed loop due to a changing magnetic field?",
+      "correct_answer": "Electromagnetic induction",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic discharge",
+        "Quantum entanglement",
+        "Photoelectric effect"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which law describes the relationship between the current flowing through a conductor, the voltage across it, and its resistance?",
+      "correct_answer": "Ohm's law",
+      "options": [
+        "Ampere's law",
+        "Faraday's law",
+        "Newton's law",
+        "Ohm's law"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a coil of wire that can generate a magnetic field when an electric current flows through it?",
+      "correct_answer": "Solenoid",
+      "options": [
+        "Transformer",
+        "Inductor",
+        "Solenoid",
+        "Capacitor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What happens to the voltage across a resistor if the current through it is doubled while keeping its resistance constant?",
+      "correct_answer": "It doubles.",
+      "options": [
+        "It halves.",
+        "It remains the same.",
+        "It quadruples.",
+        "It doubles."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the force of attraction or repulsion between electric charges?",
+      "correct_answer": "Electrostatic force",
+      "options": [
+        "Gravitational force",
+        "Electrostatic force",
+        "Magnetic force",
+        "Nuclear force"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+      "correct_answer": "Ferromagnetism",
+      "options": [
+        "Electromagnetism",
+        "Diamagnetism",
+        "Paramagnetism",
+        "Ferromagnetism"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for a device that converts mechanical energy into electrical energy?",
+      "correct_answer": "Generator",
+      "options": [
+        "Transformer",
+        "Generator",
+        "Resistor",
+        "Inductor"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In electromagnetic waves, what is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 meters per second (m/s)",
+      "options": [
+        "186,282 miles per second (mi/s)",
+        "299,792,458 meters per second (m/s)",
+        "124,567 kilometers per hour (km/h)",
+        "1,000,000,000 feet per second (ft/s)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the SI unit of electric potential difference?",
+      "correct_answer": "Volt (V)",
+      "options": [
+        "Ampere (A)",
+        "Coulomb (C)",
+        "Watt (W)",
+        "Volt (V)"
+      ]
+    },
+    {
+      "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is credited with the discovery of electromagnetic induction, where a changing magnetic field induces an electromotive force (EMF) in a conductor?",
+    "correct_answer": "Michael Faraday",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Isaac Newton",
+      "Michael Faraday"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force that opposes the relative motion of an object as it moves through a fluid (liquid or gas)?",
+    "correct_answer": "Drag force",
+    "options": [
+      "Thrust",
+      "Lift",
+      "Tension",
+      "Drag force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where an electric current is generated in a conductor when it is placed in a varying magnetic field?",
+    "correct_answer": "Electromagnetic induction",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic discharge",
+      "Quantum entanglement",
+      "Photoelectric effect"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In an electromagnetic wave, what is the relationship between the wavelength and frequency?",
+    "correct_answer": "Inverse relationship",
+    "options": [
+      "Direct relationship",
+      "No relationship",
+      "Directly proportional",
+      "Inverse relationship"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the property of a material that determines how easily it allows the flow of electric current?",
+    "correct_answer": "Conductivity",
+    "options": [
+      "Resistance",
+      "Permittivity",
+      "Conductivity",
+      "Inductance"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What happens to the speed of light when it passes from air into glass?",
+    "correct_answer": "It decreases.",
+    "options": [
+      "It increases.",
+      "It remains the same.",
+      "It becomes zero.",
+      "It decreases."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force exerted by a magnetic field on a moving charged particle?",
+    "correct_answer": "Lorentz force",
+    "options": [
+      "Gravitational force",
+      "Electric force",
+      "Nuclear force",
+      "Lorentz force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the SI unit of magnetic field strength?",
+    "correct_answer": "Tesla (T)",
+    "options": [
+      "Weber (Wb)",
+      "Ampere (A)",
+      "Ohm (Ω)",
+      "Tesla (T)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law describes the relationship between the charge, distance, and force between two point charges?",
+    "correct_answer": "Coulomb's law",
+    "options": [
+      "Newton's law",
+      "Gauss's law",
+      "Ampere's law",
+      "Coulomb's law"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a closed conducting loop that carries electric current and generates a magnetic field?",
+    "correct_answer": "Circuit",
+    "options": [
+      "Coil",
+      "Circuit",
+      "Conductor",
+      "Capacitor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials that are weakly attracted to a magnetic field?",
+    "correct_answer": "Paramagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force that opposes the motion of an object when it is in contact with another object, preventing them from sliding past each other?",
+    "correct_answer": "Kinetic friction",
+    "options": [
+      "Static friction",
+      "Kinetic friction",
+      "Rolling friction",
+      "Fluid friction"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is induced when a changing magnetic field creates an electromotive force (EMF) in a closed circuit?",
+    "correct_answer": "Electric current",
+    "options": [
+      "Heat",
+      "Light",
+      "Sound",
+      "Electric current"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a material that has a magnetic moment opposite to the direction of an applied magnetic field and is weakly repelled by the field?",
+    "correct_answer": "Diamagnetic",
+    "options": [
+      "Paramagnetic",
+      "Ferromagnetic",
+      "Antimagnetic",
+      "Diamagnetic"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law states that the total electric flux through a closed surface is equal to the charge enclosed divided by the electric constant?",
+    "correct_answer": "Gauss's law",
+    "options": [
+      "Newton's law",
+      "Coulomb's law",
+      "Ampere's law",
+      "Gauss's law"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a circuit, what is the term for a device that stores electrical energy in an electric field and discharges it when needed?",
+    "correct_answer": "Capacitor",
+    "options": [
+      "Inductor",
+      "Capacitor",
+      "Resistor",
+      "Diode"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a magnetic material that retains its magnetism after the magnetizing field is removed?",
+    "correct_answer": "Permanent magnet",
+    "options": [
+      "Temporary magnet",
+      "Magnetic conductor",
+      "Solenoid",
+      "Permanent magnet"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where an object becomes charged when it loses or gains electrons through friction?",
+    "correct_answer": "Triboelectric effect",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic discharge",
+      "Quantum entanglement",
+      "Triboelectric effect"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the direction of the magnetic field lines around a current-carrying conductor?",
+    "correct_answer": "Circular, concentric with the conductor",
+    "options": [
+      "Straight and parallel to the conductor",
+      "Circular, concentric with the conductor",
+      "Random and chaotic",
+      "Spiral around the conductor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a material that is neither a good conductor nor a good insulator and has properties between the two?",
+    "correct_answer": "Semiconductor",
+    "options": [
+      "Superconductor",
+      "Semiconductor",
+      "Conductor",
+      "Insulator"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the process of reducing the strength of a magnetic field?",
+    "correct_answer": "Demagnetization",
+    "options": [
+      "Magnetization",
+      "Magnetic resonance",
+      "Electromagnetic induction",
+      "Demagnetization"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which scientist is known for his work on the theory of electromagnetic waves and the invention of the radio?",
+    "correct_answer": "Heinrich Hertz",
+    "options": [
+      "Nikola Tesla",
+      "James Clerk Maxwell",
+      "Heinrich Hertz",
+      "Guglielmo Marconi"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a magnetic material temporarily becomes a magnet when placed in a magnetic field but loses its magnetism when the field is removed?",
+    "correct_answer": "Temporary magnetism",
+    "options": [
+      "Permanent magnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Temporary magnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the ability of a material to be magnetized and demagnetized repeatedly?",
+    "correct_answer": "Retentivity",
+    "options": [
+      "Permeability",
+      "Hysteresis",
+      "Retentivity",
+      "Susceptibility"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a device that uses electromagnetic induction to convert mechanical energy into electrical energy?",
+    "correct_answer": "Generator",
+    "options": [
+      "Motor",
+      "Transformer",
+      "Generator",
+      "Capacitor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which electromagnetic wave is used for communication between cell phones and other wireless devices?",
+    "correct_answer": "Radio waves",
+    "options": [
+      "Microwaves",
+      "Infrared (IR) rays",
+      "Radio waves",
+      "X-rays"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the phenomenon where a changing magnetic field induces an electromotive force (EMF) in a coil of wire?",
+    "correct_answer": "Electromagnetic induction",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic induction",
+      "Quantum induction",
+      "Magnetic induction"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a device that increases or decreases the voltage of an alternating current (AC) signal?",
+    "correct_answer": "Transformer",
+    "options": [
+      "Generator",
+      "Inductor",
+      "Transformer",
+      "Capacitor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized in the opposite direction when placed in a magnetic field?",
+    "correct_answer": "Antiferromagnetism",
+    "options": [
+      "Ferromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Antiferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the magnetism exhibited by materials that are weakly repelled by a magnetic field?",
+    "correct_answer": "Diamagnetism",
+    "options": [
+      "Ferromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Antiferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law describes the relationship between the current flowing through a conductor and the magnetic field it generates?",
+    "correct_answer": "Ampere's law",
+    "options": [
+      "Ohm's law",
+      "Faraday's law",
+      "Coulomb's law",
+      "Ampere's law"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of current periodically changes direction?",
+    "correct_answer": "Alternating current (AC)",
+    "options": [
+      "Direct current (DC)",
+      "Alternating current (AC)",
+      "Pulsating current (PC)",
+      "Reverse current (RC)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the space around a magnet or a current-carrying conductor where the magnetic effect can be detected?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law describes the relationship between the magnetic field strength, the magnetic constant, and the magnetic flux through a closed loop?",
+    "correct_answer": "Ampere's law",
+    "options": [
+      "Ohm's law",
+      "Faraday's law",
+      "Coulomb's law",
+      "Ampere's law"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What happens to the resistance of a conductor if its cross-sectional area is doubled while keeping its length constant?",
+    "correct_answer": "It halves.",
+    "options": [
+      "It doubles.",
+      "It remains the same.",
+      "It quadruples.",
+      "It halves."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a magnetic field, which pole of a magnet points to the Earth's magnetic north pole?",
+    "correct_answer": "North pole",
+    "options": [
+      "South pole",
+      "East pole",
+      "West pole",
+      "North pole"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the opposition to the flow of electric current in a circuit?",
+    "correct_answer": "Resistance",
+    "options": [
+      "Voltage",
+      "Current",
+      "Capacitance",
+      "Resistance"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law states that the induced electromotive force (EMF) in any closed circuit is equal to the negative rate of change of the magnetic flux through the circuit?",
+    "correct_answer": "Faraday's law of electromagnetic induction",
+    "options": [
+      "Ohm's law",
+      "Ampere's law",
+      "Gauss's law",
+      "Faraday's law of electromagnetic induction"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of current flows continuously in one direction?",
+    "correct_answer": "Direct current (DC)",
+    "options": [
+      "Alternating current (AC)",
+      "Direct current (DC)",
+      "Pulsating current (PC)",
+      "Reverse current (RC)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a magnetic field, which pole of a magnet points to the Earth's magnetic north pole?",
+    "correct_answer": "North pole",
+    "options": [
+      "South pole",
+      "East pole",
+      "West pole",
+      "North pole"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What happens to the resistance of a conductor if its length is doubled while keeping its cross-sectional area constant?",
+    "correct_answer": "It doubles.",
+    "options": [
+      "It halves.",
+      "It remains the same.",
+      "It quadruples.",
+      "It doubles."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which electromagnetic wave has the longest wavelength in the electromagnetic spectrum?",
+    "correct_answer": "Radio waves",
+    "options": [
+      "X-rays",
+      "Microwaves",
+      "Radio waves",
+      "Gamma rays"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the SI unit of magnetic flux?",
+    "correct_answer": "Weber (Wb)",
+    "options": [
+      "Tesla (T)",
+      "Ampere (A)",
+      "Ohm (Ω)",
+      "Weber (Wb)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which electromagnetic wave has the shortest wavelength in the electromagnetic spectrum?",
+    "correct_answer": "Gamma rays",
+    "options": [
+      "X-rays",
+      "Ultraviolet (UV) rays",
+      "Infrared (IR) rays",
+      "Gamma rays"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a material that has no electrical resistance and can allow current to flow without energy loss?",
+    "correct_answer": "Superconductor",
+    "options": [
+      "Insulator",
+      "Conductor",
+      "Semiconductor",
+      "Superconductor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where an electric current flows in a closed loop due to a changing magnetic field?",
+    "correct_answer": "Electromagnetic induction",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic discharge",
+      "Quantum entanglement",
+      "Photoelectric effect"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law describes the relationship between the current flowing through a conductor, the voltage across it, and its resistance?",
+    "correct_answer": "Ohm's law",
+    "options": [
+      "Ampere's law",
+      "Faraday's law",
+      "Newton's law",
+      "Ohm's law"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a coil of wire that can generate a magnetic field when an electric current flows through it?",
+    "correct_answer": "Solenoid",
+    "options": [
+      "Transformer",
+      "Inductor",
+      "Solenoid",
+      "Capacitor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What happens to the voltage across a resistor if the current through it is doubled while keeping its resistance constant?",
+    "correct_answer": "It doubles.",
+    "options": [
+      "It halves.",
+      "It remains the same.",
+      "It quadruples.",
+      "It doubles."
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a device that converts mechanical energy into electrical energy?",
+    "correct_answer": "Generator",
+    "options": [
+      "Transformer",
+      "Generator",
+      "Resistor",
+      "Inductor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In electromagnetic waves, what is the speed of light in a vacuum?",
+    "correct_answer": "299,792,458 meters per second (m/s)",
+    "options": [
+      "186,282 miles per second (mi/s)",
+      "299,792,458 meters per second (m/s)",
+      "124,567 kilometers per hour (km/h)",
+      "1,000,000,000 feet per second (ft/s)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the SI unit of electric potential difference?",
+    "correct_answer": "Volt (V)",
+    "options": [
+      "Ampere (A)",
+      "Coulomb (C)",
+      "Watt (W)",
+      "Volt (V)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is credited with the discovery of electromagnetic induction, where a changing magnetic field induces an electromotive force (EMF) in a conductor?",
+    "correct_answer": "Michael Faraday",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Isaac Newton",
+      "Michael Faraday"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a device that converts mechanical energy into electrical energy?",
+    "correct_answer": "Generator",
+    "options": [
+      "Transformer",
+      "Generator",
+      "Resistor",
+      "Inductor"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In electromagnetic waves, what is the speed of light in a vacuum?",
+    "correct_answer": "299,792,458 meters per second (m/s)",
+    "options": [
+      "186,282 miles per second (mi/s)",
+      "299,792,458 meters per second (m/s)",
+      "124,567 kilometers per hour (km/h)",
+      "1,000,000,000 feet per second (ft/s)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the SI unit of electric potential difference?",
+    "correct_answer": "Volt (V)",
+    "options": [
+      "Ampere (A)",
+      "Coulomb (C)",
+      "Watt (W)",
+      "Volt (V)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is credited with the discovery of electromagnetic induction, where a changing magnetic field induces an electromotive force (EMF) in a conductor?",
+    "correct_answer": "Michael Faraday",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Isaac Newton",
+      "Michael Faraday"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the circular magnetic field lines surrounding a current-carrying conductor?",
+    "correct_answer": "Magnetic field",
+    "options": [
+      "Electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "Electromagnetic field"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of magnetism is exhibited by materials like iron, nickel, and cobalt, which become strongly magnetized when placed in a magnetic field?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the force of attraction or repulsion between electric charges?",
+    "correct_answer": "Electrostatic force",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Magnetic force",
+      "Nuclear force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where a material becomes magnetized when placed in a magnetic field and retains some of its magnetism after the field is removed?",
+    "correct_answer": "Ferromagnetism",
+    "options": [
+      "Electromagnetism",
+      "Diamagnetism",
+     "Paramagnetism",
+      "Ferromagnetism"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the equation that describes the uncertainty principle in quantum mechanics?",
+    "correct_answer": "Δx * Δp ≥ ħ / 2",
+    "options": [
+      "E = mc^2",
+      "F = ma",
+      "Δx * Δp ≤ ħ / 2",
+      "ΔE * Δt ≥ ħ / 2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the SI unit of electric charge?",
+    "correct_answer": "Coulomb (C)",
+    "options": [
+      "Ampere-hour (Ah)",
+      "Faraday (F)",
+      "Volt-ampere (VA)",
+      "Coulomb (C)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In quantum mechanics, what term describes the lowest energy state an electron can occupy in an atom?",
+    "correct_answer": "Ground state",
+    "options": [
+      "Excited state",
+      "Superposition state",
+      "Quantum state",
+      "Ground state"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the theory that unifies the electromagnetic force, weak nuclear force, and strong nuclear force into a single theoretical framework?",
+    "correct_answer": "Grand Unified Theory (GUT)",
+    "options": [
+      "Quantum Field Theory (QFT)",
+      "String Theory",
+      "Special Relativity",
+      "Grand Unified Theory (GUT)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the maximum number of electrons that can occupy a single atomic orbital with quantum numbers n=3, l=2, and m=1?",
+    "correct_answer": "2",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the bending of light as it passes from one medium into another with a different refractive index?",
+    "correct_answer": "Refraction",
+    "options": [
+      "Diffraction",
+      "Reflection",
+      "Dispersion",
+      "Refraction"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the context of particle physics, what are quarks and leptons collectively known as?",
+    "correct_answer": "Elementary particles",
+    "options": [
+      "Hadrons",
+      "Baryons",
+      "Mesons",
+      "Elementary particles"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the boundary region between the Earth's inner core and outer core?",
+    "correct_answer": "Bullendediscontinuity",
+    "options": [
+      "Mohorovičić discontinuity",
+      "Gutenberg discontinuity",
+      "Bullenediscontinuity",
+      "Lehmann discontinuity"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the hypothetical particles that are thought to make up dark matter, which does not interact with electromagnetic forces?",
+    "correct_answer": "WIMPs (Weakly Interacting Massive Particles)",
+    "options": [
+      "Neutrinos",
+      "Axions",
+      "Gravitons",
+      "WIMPs (Weakly Interacting Massive Particles)"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the context of quantum mechanics, what does the acronym 'QED' stand for?",
+    "correct_answer": "Quantum Electrodynamics",
+    "options": [
+      "Quantum Entanglement Demonstration",
+      "Quantum Electrostatics",
+      "Quantum Emission Dynamics",
+      "Quantum Electrodynamics"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of the behavior of matter at temperatures close to absolute zero, where quantum effects dominate?",
+    "correct_answer": "Low-temperature physics",
+    "options": [
+      "Cryogenics",
+      "Quantum mechanics",
+      "Thermodynamics",
+      "Low-temperature physics"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fundamental particle that carries the strong nuclear force and binds quarks together inside hadrons?",
+    "correct_answer": "Gluon",
+    "options": [
+      "Boson",
+      "Gluon",
+      "Photon",
+      "Lepton"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the quantum mechanical property that describes the intrinsic angular momentum of a particle?",
+    "correct_answer": "Spin",
+    "options": [
+      "Charge",
+      "Mass",
+      "Momentum",
+      "Spin"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In particle physics, what is the name of the fundamental force responsible for radioactive decay?",
+    "correct_answer": "Weak nuclear force",
+    "options": [
+      "Strong nuclear force",
+      "Electromagnetic force",
+      "Weak nuclear force",
+      "Gravitational force"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the hypothetical particles that mediate the force of gravity in some theories of quantum gravity?",
+    "correct_answer": "Graviton",
+    "options": [
+      "Higgs boson",
+      "Graviton",
+      "W boson",
+      "Z boson"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the boundary between the Earth's crust and mantle?",
+    "correct_answer": "Mohorovičić discontinuity",
+    "options": [
+      "Bullen discontinuity",
+      "Gutenberg discontinuity",
+      "Mohorovičić discontinuity",
+      "Lehmann discontinuity"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In quantum mechanics, what is the term for the phenomenon where particles with the same quantum properties are indistinguishable from each other?",
+    "correct_answer": "Indistinguishability",
+    "options": [
+      "Entanglement",
+      "Superposition",
+      "Indistinguishability",
+      "Quantization"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of the behavior of matter at temperatures close to absolute zero, where quantum effects dominate?",
+    "correct_answer": "Low-temperature physics",
+    "options": [
+      "Cryogenics",
+      "Quantum mechanics",
+      "Thermodynamics",
+      "Low-temperature physics"
+    ]
+  },
+  {
+    "category": "Physics",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fundamental particle that carries the strong nuclear force and binds quarks together inside hadrons?",
+    "correct_answer": "Gluon",
+    "options": [
+      "Boson",
+      "Gluon",
+      "Photon",
+      "Lepton"
+    ]
+  }
+  ]
+}

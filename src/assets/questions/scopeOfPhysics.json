@@ -1,0 +1,1200 @@
+{
+  "questions":[
+  {
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The branch of physics which deals with velocities approaching that of light is:",
+  "correct_answer": "Relativistic Mechanics",
+  "options": [
+    "a) Classical Mechanics",
+    "b) Relativistic Mechanics",
+    "c) Quantum Mechanics",
+    "d) Metaphysics"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The quantities which are based on other quantities are known as:",
+  "correct_answer": "Derived Quantity",
+  "options": [
+    "a) Base Quantity",
+    "b) Fundamental Quantity",
+    "c) Derived Quantity",
+    "d) Physical Quantity"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Modern physics is based on the theory of relativity and:",
+  "correct_answer": "Quantum Physics",
+  "options": [
+    "a) Classical Physics",
+    "b) Quantum Physics",
+    "c) Mechanics",
+    "d) Astrophysics"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The S.I. Unit of amount of substance is:",
+  "correct_answer": "Mole",
+  "options": [
+    "a) Ampere",
+    "b) Kelvin",
+    "c) Mole",
+    "d) Candela"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Steradian is the unit of:",
+  "correct_answer": "Solid Angle",
+  "options": [
+    "a) Plane Angle",
+    "b) Angle",
+    "c) Solid Angle",
+    "d) Angle at Center"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Paper was first manufactured by:",
+  "correct_answer": "Chinese",
+  "options": [
+    "a) Egyptians",
+    "b) Indians",
+    "c) Greeks",
+    "d) Chinese"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The laws of motion of bodies moving with constant acceleration are given by:",
+  "correct_answer": "Newton",
+  "options": [
+    "a) Newton",
+    "b) Archimedes",
+    "c) Galileo – Galilei",
+    "d) Kepler"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The laws of reflection and refraction of light were developed by:",
+  "correct_answer": "Ibn-ul-Haitham",
+  "options": [
+    "a) Al-Sina",
+    "b) Al-Razi",
+    "c) Ibn-ul-Haitham",
+    "d) Al-Khawarizmi"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Ibn-e-Sina, a book which is regarded as a treatise on physics is:",
+  "correct_answer": "Al-Qanun",
+  "options": [
+    "a) Al-Qanun",
+    "b) Algorithm",
+    "c) Al-Shifa",
+    "d) Al-Manazir"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The force required to impart an acceleration of one centimeter per second per second to a mass of one gram is:",
+  "correct_answer": "1 Dyne",
+  "options": [
+    "a) 1 Newton",
+    "b) 1 Pound",
+    "c) 1 Joule",
+    "d) 1 Dyne"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Newton is equal to:",
+  "correct_answer": "1 Kg·m^2/s^2",
+  "options": [
+    "a) 1 Kg·m^2/s^2",
+    "b) 10^5 gm·cm/s^2",
+    "c) 10^-5 Dyne",
+    "d) 10^4 Dyne"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "One Dyne is equal to:",
+  "correct_answer": "1 gm·cm/s^2",
+  "options": [
+    "a) 1 gm·cm/s^2",
+    "b) 10^-5 Kg·m/s^2",
+    "c) 10^-5 N",
+    "d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Pound is equal to:",
+  "correct_answer": "4.45 N",
+  "options": [
+    "a) 4.45 N",
+    "b) 444822 Dyne",
+    "c) 0.454 Kg",
+    "d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The work done by a force of one Dyne acting over a distance of one centimeter:",
+  "correct_answer": "Erg",
+  "options": [
+    "a) Joule",
+    "b) Erg",
+    "c) Dyne",
+    "d) Poundal"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The Erg is a unit of:",
+  "correct_answer": "Energy",
+  "options": [
+    "a) Energy",
+    "b) Work",
+    "c) Mechanical Work",
+    "d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Erg is equal to:",
+  "correct_answer": "Both B & C (6.24×10^11 eV and 10^-7 J)",
+  "options": [
+    "a) 10^-7 eV",
+    "b) 6.24×10^11 eV",
+    "c) 10^-7 J",
+    "d) Both B & C"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of strain is:",
+  "correct_answer": "None of these",
+  "options": [
+    "a) Length (L)",
+    "b) Length^2 (L^2)",
+    "c) Length-Time^-3 (LT^-3)",
+    "d) None of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dimension of Angular velocity is:",
+  "correct_answer": "(LT^-1)",
+  "options": [
+    "a) (LT^-1)",
+    "b) (T^-1)",
+    "c) (T^-2)",
+    "d) (LT^-2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dimension of Heat energy is:",
+  "correct_answer": "(ML^2T^-2)",
+  "options": [
+    "a) (ML^2T^-2)",
+    "b) (MLT^-2)",
+    "c) (MLT^-2)",
+    "d) MLT"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dimension of electrical Resistance is:",
+  "correct_answer": "(MLT^-3A^-1)",
+  "options": [
+    "a) (MLT^-3A^-1)",
+    "b) (ML^2T^-3A^-2)",
+    "c) (MLT^-2)",
+    "d) (LT^-3)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Give the quantity for which the dimension is [ML^2]:",
+  "correct_answer": "Pressure",
+  "options": [
+    "a) Strain",
+    "b) Stress",
+    "c) Moment of Inertia",
+    "d) Pressure"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Significant figure in 0.0001 is:",
+  "correct_answer": "One",
+  "options": [
+    "a) One",
+    "b) Two",
+    "c) Three",
+    "d) Four"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The branch of physics which deals with velocities approaching that of light is:",
+  "correct_answer": "Relativistic Mechanics",
+  "options": [
+    "Classical Mechanics",
+    "Relativistic Mechanics",
+    "Quantum Mechanics",
+    "Metaphysics"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The quantities which are based on other quantities are known as:",
+  "correct_answer": "Derived Quantity",
+  "options": [
+    "Base Quantity",
+    "Fundamental Quantity",
+    "Derived Quantity",
+    "Physical Quantity"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Modern physics is based on the theory of relativity and:",
+  "correct_answer": "Quantum Physics",
+  "options": [
+    "Classical Physics",
+    "Quantum Physics",
+    "Mechanics",
+    "Astrophysics"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The S.I. Unit of amount of substance is:",
+  "correct_answer": "Mole",
+  "options": [
+    "Ampere",
+    "Kelvin",
+    "Mole",
+    "Candela"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Steradian is the unit of:",
+  "correct_answer": "Solid Angle",
+  "options": [
+    "Plane Angle",
+    "Angle",
+    "Solid Angle",
+    "Angle at Center"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Paper was first manufactured by:",
+  "correct_answer": "Chinese",
+  "options": [
+    "Egyptians",
+    "Indians",
+    "Greeks",
+    "Chinese"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The laws of motion of bodies moving with constant acceleration are given by:",
+  "correct_answer": "Newton",
+  "options": [
+    "Newton",
+    "Archimedes",
+    "Galileo – Galilei",
+    "Kepler"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The laws of reflection and refraction of light were developed by:",
+  "correct_answer": "Ibn-ul-Haitham",
+  "options": [
+    "Al-Sina",
+    "Al-Razi",
+    "Ibn-ul-Haitham",
+    "Al-Khawarizmi"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Ibn-e-Sina, a book which is regarded as a treatise on physics is:",
+  "correct_answer": "Al-Qanun",
+  "options": [
+    "Al-Qanun",
+    "Algorithm",
+    "Al-Shifa",
+    "Al-Manazir"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The force required to impart an acceleration of one centimeter per second per second to a mass of one gram is:",
+  "correct_answer": "1 Dyne",
+  "options": [
+    "1 Newton",
+    "1 Pound",
+    "1 Joule",
+    "1 Dyne"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Newton is equal to:",
+  "correct_answer": "1 Kg·m^2/s^2",
+  "options": [
+    "1 Kg·m^2/s^2",
+    "10^5 gm·cm/s^2",
+    "10^-5 Dyne",
+    "10^4 Dyne"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "One Dyne is equal to:",
+  "correct_answer": "1 gm·cm/s^2",
+  "options": [
+    "1 gm·cm/s^2",
+    "10^-5 Kg·m/s^2",
+    "10^-5 N",
+    "All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Pound is equal to:",
+  "correct_answer": "4.45 N",
+  "options": [
+    "4.45 N",
+    "444822 Dyne",
+    "0.454 Kg",
+    "All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The work done by a force of one Dyne acting over a distance of one centimeter:",
+  "correct_answer": "Erg",
+  "options": [
+    "Joule",
+    "Erg",
+    "Dyne",
+    "Poundal"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The Erg is a unit of:",
+  "correct_answer": "Energy",
+  "options": [
+    "Energy",
+    "Work",
+    "Mechanical Work",
+    "All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Erg is equal to:",
+  "correct_answer": "Both B & C (6.24×10^11 eV and 10^-7 J)",
+  "options": [
+    "10^-7 eV",
+    "6.24×10^11 eV",
+    "10^-7 J",
+    "Both B & C"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of strain is:",
+  "correct_answer": "None of these",
+  "options": [
+    "Length (L)",
+    "Length^2 (L^2)",
+    "Length-Time^-3 (LT^-3)",
+    "None of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dimension of Angular velocity is:",
+  "correct_answer": "(LT^-1)",
+  "options": [
+    "(LT^-1)",
+    "(T^-1)",
+    "(T^-2)",
+    "(LT^-2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "1 Fermi is equivalent to:",
+  "correct_answer": "10^-15 meters",
+  "options": [
+    "10^-14 meters",
+    "10^-13 meters",
+    "10^-15 meters",
+    "10^-16 meters"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following instruments is used for measuring pressure of gases:",
+  "correct_answer": "Manometer",
+  "options": [
+    "Thermometer",
+    "Barometer",
+    "Manometer",
+    "Hydrometer"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following statements is not correct about the absolute temperature scale:",
+  "correct_answer": "It has no maximum temperature point",
+  "options": [
+    "It has no maximum temperature point",
+    "It is related to the Celsius scale by a simple equation",
+    "It is related to the Kelvin scale by a simple equation",
+    "It is related to the Celsius scale by a simple equation"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The efficiency of a Carnot engine depends on:",
+  "correct_answer": "Two temperatures",
+  "options": [
+    "One temperature",
+    "Two temperatures",
+    "Three temperatures",
+    "Four temperatures"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The efficiency of an ideal Otto cycle for a gasoline engine is:",
+  "correct_answer": "Higher than Carnot cycle",
+  "options": [
+    "Equal to Carnot cycle",
+    "Less than Carnot cycle",
+    "Higher than Carnot cycle",
+    "None of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The common refrigerant used in domestic refrigerators is:",
+  "correct_answer": "Freon",
+  "options": [
+    "Freon",
+    "Ethanol",
+    "Propane",
+    "Ammonia"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The law which states that equal volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules is known as:",
+  "correct_answer": "Avogadro’s Law",
+  "options": [
+    "Boyle’s Law",
+    "Charle’s Law",
+    "Avogadro’s Law",
+    "Dulong and Petit’s Law"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The temperature at which the thermodynamic temperature scale becomes identical to the Celsius scale is:",
+  "correct_answer": "-273.15°C",
+  "options": [
+    "-273.15°C",
+    "-373.15°C",
+    "-173.15°C",
+    "0°C"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The speed of light in vacuum is approximately:",
+  "correct_answer": "3 × 10^8 meters per second",
+  "options": [
+    "3 × 10^6 meters per second",
+    "3 × 10^7 meters per second",
+    "3 × 10^8 meters per second",
+    "3 × 10^9 meters per second"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The unit of electric charge is:",
+  "correct_answer": "Coulomb",
+  "options": [
+    "Volt",
+    "Ampere",
+    "Coulomb",
+    "Ohm"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The unit of power is:",
+  "correct_answer": "Watt",
+  "options": [
+    "Joule",
+    "Ampere",
+    "Watt",
+    "Ohm"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The unit of energy is:",
+  "correct_answer": "Joule",
+  "options": [
+    "Joule",
+    "Ampere",
+    "Watt",
+    "Ohm"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The unit of work is:",
+  "correct_answer": "Joule",
+  "options": [
+    "Joule",
+    "Ampere",
+    "Watt",
+    "Ohm"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Power is:",
+  "correct_answer": "(ML^2T^-3)",
+  "options": [
+    "(ML^2T^-2)",
+    "(MLT^-2)",
+    "(ML^-1T^-3)",
+    "(ML^2T^-3)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Energy is:",
+  "correct_answer": "(ML^2T^-2)",
+  "options": [
+    "(ML^2T^-2)",
+    "(MLT^-2)",
+    "(ML^-1T^-3)",
+    "(ML^2T^-3)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Charge is:",
+  "correct_answer": "(AT)",
+  "options": [
+    "(AT)",
+    "(MLT^-2)",
+    "(ML^-1T^-3)",
+    "(ML^2T^-3)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Voltage is:",
+  "correct_answer": "(ML^2T^-3A^-1)",
+  "options": [
+    "(ML^2T^-2A^-1)",
+    "(MLT^-3A^-1)",
+    "(ML^-1T^-3A^-1)",
+    "(ML^2T^-3A^-1)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Resistance is:",
+  "correct_answer": "(ML^2T^-3A^-2)",
+  "options": [
+    "(MLT^-3A^-1)",
+    "(MLT^-2A^-2)",
+    "(ML^-1T^-3A^-1)",
+    "(ML^2T^-3A^-2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Capacitance is:",
+  "correct_answer": "(M^-1L^-2T^4A^2)",
+  "options": [
+    "(M^-1L^-2T^-4A^-2)",
+    "(MLT^-2A^-2)",
+    "(ML^-1T^-3A^-1)",
+    "(M^-1L^-2T^4A^2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Inductance is:",
+  "correct_answer": "(ML^2T^-2A^-2)",
+  "options": [
+    "(MLT^-3A^-1)",
+    "(MLT^-2A^-2)",
+    "(ML^-1T^-3A^-1)",
+    "(M^-1L^-2T^4A^2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Frequency is:",
+  "correct_answer": "(T^-1)",
+  "options": [
+    "(MLT^-3A^-1)",
+    "(MLT^-2A^-2)",
+    "(T^-1)",
+    "(M^-1L^-2T^4A^2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Speed is:",
+  "correct_answer": "(LT^-1)",
+  "options": [
+    "(MLT^-3A^-1)",
+    "(LT^-1)",
+    "(T^-1)",
+    "(M^-1L^-2T^4A^2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The dimension of Acceleration is:",
+  "correct_answer": "(LT^-2)",
+  "options": [
+    "(MLT^-3A^-1)",
+    "(LT^-1)",
+    "(T^-2)",
+    "(LT^-2)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The people of the Indus Valley were pioneers of:",
+  "correct_answer": "Decimal System",
+  "options": [
+    "Calendar",
+    "Geometry",
+    "Decimal System",
+    "Flood Level"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The change in seasons, eclipses of the moon, and other astronomical phenomena were observed by:",
+  "correct_answer": "Abu-Rehan Al-Beruni",
+  "options": [
+    "Al-Battani",
+    "Omar Khayyam",
+    "Newton",
+    "Abu-Rehan Al-Beruni"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The motion of a lid of a kettle was observed by:",
+  "correct_answer": "Archimedes",
+  "options": [
+    "George Stephenson",
+    "Al-Razi",
+    "Archimedes",
+    "Kepler"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The fundamental physical quantities that have the same dimension in the dimensional formula of work and angular momentum are...",
+  "correct_answer": "Mass, Length",
+  "options": [
+    "Mass, Time",
+    "Mass, Length",
+    "Time, Length",
+    "Time, Mole"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "In the C.G.S system, the value of Young's modulus of a material in a wire is 12.6x10^11 dyne/cm^2. Its value in the M.K.S system is:",
+  "correct_answer": "12.6x10^10 N/m^2",
+  "options": [
+    "12.6x10^-12 N/m^2",
+    "12.6x10^10 N/m^2",
+    "12.6x10^6 N/m^2",
+    "12.6x10^8 N/m^2"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If R and L represent respectively resistance and self-inductance, which of the following combinations has the dimension of Time:",
+  "correct_answer": "R/L",
+  "options": [
+    "R/L",
+    "L/R",
+    "LC",
+    "LC^2"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following quantities can be written in S.I unit as kg·m^2A^(-2)s^(-3):",
+  "correct_answer": "Capacitance",
+  "options": [
+    "Resistance",
+    "Inductance",
+    "Capacitance",
+    "Magnetic Field"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which two of the following four physical parameters have the same dimension?",
+  "correct_answer": "Energy, Density",
+  "options": [
+    "Energy, Density",
+    "Strain, Permittivity for Free Space",
+    "Heat Capacity, GPE",
+    "Area, Pressure"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following physical quantities has the same dimensions as the Planck constant (h)?",
+  "correct_answer": "Angular Momentum",
+  "options": [
+    "Momentum",
+    "Force",
+    "Angular Momentum",
+    "Work"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The formula E=mc^2 is associated with which of the following scientists?",
+  "correct_answer": "Albert Einstein",
+  "options": [
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Albert Einstein",
+    "Stephen Hawking"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the atomic number of carbon?",
+  "correct_answer": "6",
+  "options": [
+    "4",
+    "6",
+    "8",
+    "12"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which element has the chemical symbol 'O'?",
+  "correct_answer": "Oxygen",
+  "options": [
+    "Osmium",
+    "Oxygen",
+    "Ozone",
+    "Ocularium"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element gold?",
+  "correct_answer": "Au",
+  "options": [
+    "Go",
+    "Si",
+    "Ag",
+    "Au"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element lead?",
+  "correct_answer": "Pb",
+  "options": [
+    "Le",
+    "La",
+    "Li",
+    "Pb"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element silver?",
+  "correct_answer": "Ag",
+  "options": [
+    "Si",
+    "Ag",
+    "Sr",
+    "Sn"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element iron?",
+  "correct_answer": "Fe",
+  "options": [
+    "Ir",
+    "In",
+    "Fe",
+    "Fr"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element copper?",
+  "correct_answer": "Cu",
+  "options": [
+    "Ca",
+    "Co",
+    "Cu",
+    "Cr"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element hydrogen?",
+  "correct_answer": "H",
+  "options": [
+    "He",
+    "Hg",
+    "Hy",
+    "H"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element helium?",
+  "correct_answer": "He",
+  "options": [
+    "Hl",
+    "He",
+    "Ha",
+    "Hm"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element nitrogen?",
+  "correct_answer": "N",
+  "options": [
+    "Ne",
+    "Ni",
+    "Nu",
+    "N"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element oxygen?",
+  "correct_answer": "O",
+  "options": [
+    "Op",
+    "Ox",
+    "Oy",
+    "O"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the chemical symbol for the element carbon?",
+  "correct_answer": "C",
+  "options": [
+    "Cr",
+    "Co",
+    "Ca",
+    "C"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which planet is known as the 'Red Planet'?",
+  "correct_answer": "Mars",
+  "options": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Jupiter"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which planet is known as the 'Blue Planet'?",
+  "correct_answer": "Earth",
+  "options": [
+    "Earth",
+    "Mars",
+    "Neptune",
+    "Uranus"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which planet is known as the 'Giant Planet'?",
+  "correct_answer": "Jupiter",
+  "options": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Saturn"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which planet is known as the 'Ringed Planet'?",
+  "correct_answer": "Saturn",
+  "options": [
+    "Saturn",
+    "Uranus",
+    "Neptune",
+    "Jupiter"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the largest planet in our solar system?",
+  "correct_answer": "Jupiter",
+  "options": [
+    "Mars",
+    "Earth",
+    "Venus",
+    "Jupiter"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the smallest planet in our solar system?",
+  "correct_answer": "Mercury",
+  "options": [
+    "Venus",
+    "Mars",
+    "Earth",
+    "Mercury"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the hottest planet in our solar system?",
+  "correct_answer": "Venus",
+  "options": [
+    "Mercury",
+    "Mars",
+    "Earth",
+    "Venus"
+  ]
+}
+  ]
+}

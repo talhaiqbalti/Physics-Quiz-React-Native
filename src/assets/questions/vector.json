@@ -1,0 +1,918 @@
+{
+    "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the radius of the earth were to shrink by 1% its mass remaining the same, the acceleration due to gravity on the earth's surface would:",
+      "correct_answer": "(a) Decrease by 2%",
+      "options": [
+        "(a) Decrease by 2%",
+        "(b) Remain unchanged",
+        "(c) Increase by 2%",
+        "(d) Increase by 1%"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mass of the moon is 7.34 x 10^22 kg. If the acceleration due to gravity on the moon is 1.62 m/s^2, the radius of the moon is (G = 6.667 x 10^-11 Nm^2/kg^2):",
+      "correct_answer": "(c) 1.92 x 10^6 m",
+      "options": [
+        "(a) 0.56 x 10^4 m",
+        "(b) 1.74 x 10^6 m",
+        "(c) 1.92 x 10^6 m",
+        "(d) 1.01 x 10^8 m"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Force of gravity is least at:",
+      "correct_answer": "(a) at the equator",
+      "options": [
+        "(a) at the equator",
+        "(b) The poles",
+        "(c) A point in between the equator and any pole",
+        "(d) None of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Assuming the earth to be a sphere of uniform density, what is the value of gravitational acceleration 100 km below the earth's surface (Given R = 6400 km):",
+      "correct_answer": "(b) 7.64 m/s^2",
+      "options": [
+        "(a) 9.66 m/s^2",
+        "(b) 7.64 m/s^2",
+        "(c) 5.06 m/s^2",
+        "(d) 3.10 m/s^2"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The motion of planets around the sun is due to the gravitational force of:",
+      "correct_answer": "(a) Sun",
+      "options": [
+        "(a) Sun",
+        "(b) Earth",
+        "(c) Moon",
+        "(d) A.O.T."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The value of the distance from the center of the earth when the gravitational acceleration has one-half the value it has on the earth's surface is:",
+      "correct_answer": "(a) 1.414 Re",
+      "options": [
+        "(a) 1.414 Re",
+        "(b) 2 Re",
+        "(c) 0.5 Re",
+        "(d) Re"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "At a distance twice the radius of the earth above the surface of the earth, the value of 'g' becomes:",
+      "correct_answer": "(b) 1/4 g",
+      "options": [
+        "(a) 1/2 g",
+        "(b) 1/4 g",
+        "(c) 0 g",
+        "(d) g"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the distance between two bodies is doubled and their masses are also doubled, the gravitational force will:",
+      "correct_answer": "(c) Remain constant",
+      "options": [
+        "(a) Increase four times",
+        "(b) Decrease four times",
+        "(c) Remain constant",
+        "(d) None of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the distance between two masses is halved, the gravitational force is:",
+      "correct_answer": "(c) Four times",
+      "options": [
+        "(a) Halved",
+        "(b) Doubled",
+        "(c) Four times",
+        "(d) Same"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the mass of the earth becomes four times, the value of G is:",
+      "correct_answer": "(d) 4 times",
+      "options": [
+        "(a) Slightly affected",
+        "(b) Largely affected",
+        "(c) Lightly affected",
+        "(d) 4 times",
+        "(e) Not affected"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The spin of the satellite affects the:",
+      "correct_answer": "(b) Artificial gravity",
+      "options": [
+        "(a) Size of satellite",
+        "(b) Artificial gravity",
+        "(c) Actual gravity",
+        "(d) Mass of satellite",
+        "(e) All of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The value of the orbit radius of the moon is about:",
+      "correct_answer": "(a) 3.84 x 10^8 m",
+      "options": [
+        "(a) 3.84 x 10^8 m",
+        "(b) 3.84 x 10^5 m",
+        "(c) 3.84 x 10^3 m",
+        "(d) 3.84 x 10^6 m"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The time taken by the moon to complete one revolution around the earth is:",
+      "correct_answer": "(a) 2.36 x 10^6 seconds",
+      "options": [
+        "(a) 2.36 x 10^6 seconds",
+        "(b) 2.36 x 10^4 seconds",
+        "(c) 2.36 x 10^8 seconds",
+        "(d) 3.15 x 10^7 seconds"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If vector A lies in the third quadrant, its direction will be:",
+      "correct_answer": "(d)ϕ – 180",
+      "options": [
+        "(a)180 – ϕ",
+        "(b)360 – ϕ",
+        "(c)180 + ϕ",
+        "(d)ϕ – 180"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A null vector has:",
+      "correct_answer": "(d)all",
+      "options": [
+        "(a)no magnitude",
+        "(b)no direction",
+        "(c)no unit",
+        "(d)all"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If a vector quantity is divided by its magnitude then the vector is obtained called:",
+      "correct_answer": "(a)unit vector",
+      "options": [
+        "(a)unit vector",
+        "(b)position vector",
+        "(c)free vector",
+        "(d)null vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If two forces of the same magnitude F are acting at an angle of 120o with each other, the magnitude of resultant will be:",
+      "correct_answer": "(c) F",
+      "options": [
+        "(a) 0",
+        "(b) 0.5F",
+        "(c) F",
+        "(d) 2F"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The position vector of a point in xz-plane is given by:",
+      "correct_answer": "(d) r = xi+zk",
+      "options": [
+        "(a) r = xi+yj+zk",
+        "(b) r = yj+zk",
+        "(c) r = xi+yj",
+        "(d) r = xi+zk"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The area of parallelogram formed by two vectors & is given by:",
+      "correct_answer": "(c) 1/2│A × B│",
+      "options": [
+        "(a) 1/2(A . B)",
+        "(b) │A × B│",
+        "(c) 1/2│A × B│",
+        "(d) (A . B)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If two sides of a triangle are given by A & B its area is given by:",
+      "correct_answer": "(a) 1/2(A . B)",
+      "options": [
+        "(a) 1/2(A . B)",
+        "(b) │A × B│",
+        "(c) 1/2│A × B│",
+        "(d) (A . B)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two vectors of magnitude 6cm and 5cm each with angles 1200 and 1500 with axis. Their cross product will be having magnitude:",
+      "correct_answer": "(d) –30cm²",
+      "options": [
+        "(a) 30cm²",
+        "(b) 15cm²",
+        "(c) –15cm²",
+        "(d) –30cm²"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the scalar & vector product of two vectors are equal then the possibilities are that:",
+      "correct_answer": "(b) vectors are perpendicular",
+      "options": [
+        "(a) vectors are equal",
+        "(b) vectors are perpendicular",
+        "(c) vectors are at 45o with each other",
+        "(d) vectors are parallel"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Y-component of a vector is 3 times of its x-component. The angle which vector makes with x-axis is:",
+      "correct_answer": "(c) 60o",
+      "options": [
+        "(a) 30o",
+        "(b) 45o",
+        "(c) 60o",
+        "(d) 90o"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The magnitude of dot and cross product of two vectors is 10 in each case. Find the angle between two vectors:",
+      "correct_answer": "(d) 135o",
+      "options": [
+        "(a) 45o",
+        "(b) 60o",
+        "(c) 90o",
+        "(d) 135o"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If two vectors are antiparallel to each other their cross product is:",
+      "correct_answer": "(d) zero",
+      "options": [
+        "(a) C",
+        "(b) C²",
+        "(c) 1",
+        "(d) zero"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The player kicks the football with the force of F = 3i + 2j, its dot product with acceleration due to gravity is:",
+      "correct_answer": "(a) zero",
+      "options": [
+        "(a) zero",
+        "(b) 19.6",
+        "(c) –19.6",
+        "(d) 9.8"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When a vector is acting at 90o and is multiplied by a negative number, the resultant vector acting is:",
+      "correct_answer": "(a) 180o",
+      "options": [
+        "(a) 180o",
+        "(b) 270o",
+        "(c) 360o",
+        "(d) 90o"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Rectangular coordinate system is also called:",
+      "correct_answer": "(b) Cartesian coordinate system",
+      "options": [
+        "(a) polar coordinate system",
+        "(b) Cartesian coordinate system",
+        "(c) cylindrical coordinate system",
+        "(d) space coordinate system"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The vector of equal magnitude of 10m and the angle between them is 60°, then A – B is equal to:",
+      "correct_answer": "(c) 10",
+      "options": [
+        "(a) 10√3 m",
+        "(b) 2√10 m",
+        "(c) 10",
+        "(d) 200m"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If A = 5i + 7j – 3k and B = 2i + 2j – ak are perpendicular vectors, the value of a is:",
+      "correct_answer": "(c) 8",
+      "options": [
+        "(a) –2",
+        "(b) –8",
+        "(c) 8",
+        "(d) –7"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one is not a correct relation?",
+      "correct_answer": "(c) AxB = AB Sinθ(+n)",
+      "options": [
+        "(a) Ax B = –BxA",
+        "(b) |AxB| = – |BxA|",
+        "(c) AxB = AB Sinθ(+n)",
+        "(d) BxA = AB Sinθ(–n)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following pair are scalars?",
+      "correct_answer": "(d) elctric field, current",
+      "options": [
+        "(a) centripetal force, volume",
+        "(b) centrifugal force, calorie",
+        "(c) charge, frequency",
+        "(d) elctric field, current"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If vector F multiplies with “-m” then:",
+      "correct_answer": "(b) direction change",
+      "options": [
+        "(a) magnitude",
+        "(b) direction change",
+        "(c) magnitude & direction change",
+        "(d) only direction change, magnitude same."
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When vector B multiplies by “1/n” then:",
+      "correct_answer": "(a) only magnitude change",
+      "options": [
+        "(a) only magnitude change",
+        "(b) only direction change",
+        "(c) both magnitude and direction change",
+        "(d) None of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A vector which displaced parallel to itself and applied at any point is:",
+      "correct_answer": "(c) Null vector",
+      "options": [
+        "(a) position vector",
+        "(b) free vector",
+        "(c) Null vector",
+        "(d) unit vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If two vectors are identical in magnitude and opposite direction, then the difference vector is:",
+      "correct_answer": "(a) Null vector",
+      "options": [
+        "(a) Null vector",
+        "(b) equal vector",
+        "(c) resultant vector",
+        "(d) unit vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following relations is called the associative law of vector addition?",
+      "correct_answer": "(b) (A+B)+C =A+(B+C)",
+      "options": [
+        "(a) A+(B+C)=A+B=A+C",
+        "(b) (A+B)+C =A+(B+C)",
+        "(c) A+B+C=A+B",
+        "(d) m(nA) = (mn) A"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two vectors A and B are making an angle “θ” with each other, the scalar projection of vector A on vector B is:",
+      "correct_answer": "(a) cos θ",
+      "options": [
+        "(a)  cos θ",
+        "(b) sin",
+        "(c) cos",
+        "(d) a and c"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following relations obey commutative law for multiplication?",
+      "correct_answer": "(a) mA=Am",
+      "options": [
+        "(a) mA=Am",
+        "(b) m(nA)=(mn)A",
+        "(c) m(A+B)=mA+Mb",
+        "(d) m+nA=mA+Na"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is vector rectangular components?",
+      "correct_answer": "(d) Both (a) and (b)",
+      "options": [
+        "(a) Acos",
+        "(b) Asin",
+        "(c)none of these",
+        "(d) Both (a) and (b)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Three non-zero vectors satisfy A2+B2+C2, How would be oriented with respect to ...",
+      "correct_answer": "(c) 900",
+      "options": [
+        "(a) 00",
+        "(b) 600",
+        "(c) 900",
+        "(d) 450"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two vectors A and B are said to be.............when they have equal magnitude and same direction and represent the same physical quantity...",
+      "correct_answer": "(c) equal vector",
+      "options": [
+        "(a) unit vector",
+        "(b) parallel vector",
+        "(c) equal vector",
+        "(d) orthogonal vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If A=i-j+k and B is a unit vector along the direction of the y-axis, then B is...",
+      "correct_answer": "(c) i-j",
+      "options": [
+        "(a) i+2j-k",
+        "(b) –i+2j-k",
+        "(c) i-j",
+        "(d) j+k"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If two vectors are identical in magnitude and opposite in direction, then the difference vector...",
+      "correct_answer": "(b) Null vector",
+      "options": [
+        "(a) co-initial vector",
+        "(b) Null vector",
+        "(c) Co-linear vector",
+        "(d) Free vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Vector addition is valid for...",
+      "correct_answer": "(d) All of these",
+      "options": [
+        "(a) Associative law",
+        "(b) Commutative law",
+        "(c) Parallelogram",
+        "(d) All of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Vector A makes equal angles with x, y, z-axes. The value of its components (in terms of magnitude of A) will be...",
+      "correct_answer": "(c) A",
+      "options": [
+        "(a) 1",
+        "(b) A/3",
+        "(c) A",
+        "(d) 3/A"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the resultant of both Rx and Ry lies at an angle of (=360-θ), that is...",
+      "correct_answer": "(b) 2nd quadrant",
+      "options": [
+        "(a) 1st quadrant",
+        "(b) 2nd quadrant",
+        "(c) 3rd quadrant",
+        "(d) 4th quadrant"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A particle has a displacement of 3m towards the east, 4m towards the north, and then 5m vertically upward. Then the magnitude of displacement is...",
+      "correct_answer": "(a) 7.07",
+      "options": [
+        "(a) 7.07",
+        "(b) 8",
+        "(c) 9.05",
+        "(d) 10"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The components of a vector along the x-axis are 30N. Then its components along the y-axis...",
+      "correct_answer": "(b) 10N",
+      "options": [
+        "(a) 15N",
+        "(b) 10N",
+        "(c) 20N",
+        "(d) 0N"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The ratio of the maximum value and minimum value of the resulting vector of A and B is 1:2. Then which of the following relation is true...",
+      "correct_answer": "(c) P=-3Q",
+      "options": [
+        "(a) P/Q=3",
+        "(b) Q/p=-3",
+        "(c) P=-3Q",
+        "(d) Q=3p"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two vectors of 12N and 8N act upon. The resultant force on the body has a maximum value of...",
+      "correct_answer": "(c) 20N",
+      "options": [
+        "(a) 10N",
+        "(b) 4N",
+        "(c) 20N",
+        "(d) 8N"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a unit vector? Of a vector A=i+j+k",
+      "correct_answer": "(d) All of these",
+      "options": [
+        "(a) –i+j+k/3",
+        "(b) i-j+k/6",
+        "(c) i-j+k/9",
+        "(d) All of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If vectors i-3j+5k and i-3j-ak are equal vectors, then the value of a is...",
+      "correct_answer": "(b) 6",
+      "options": [
+        "(a) 12",
+        "(b) 6",
+        "(c) -2",
+        "(d) -5"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The position of a particle is given by the equation r=(3t^2i+2t^2j-6k)m. Then find the magnitude in the time interval 1 second...",
+      "correct_answer": "(c) 9",
+      "options": [
+        "(a) 7",
+        "(b) 7/3",
+        "(c) 9",
+        "(d) 8/7"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A vector which can be described by its magnitude and direction with respect to the origin...",
+      "correct_answer": "(a) Unit vector",
+      "options": [
+        "(a) Unit vector",
+        "(b) Free vector",
+        "(c) Position vector",
+        "(d) Null vector"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following quantities is not a vector?",
+      "correct_answer": "(b) Tension",
+      "options": [
+        "(a) Centripetal force",
+        "(b) Tension",
+        "(c) Shearing stress",
+        "(d) Angular velocity"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following vectors does describe a zero vector?",
+      "correct_answer": "(d) All of these",
+      "options": [
+        "(a) Displacement of a stationary body",
+        "(b) Acceleration of a body moving with uniform velocity",
+        "(c) Position vector at the origin",
+        "(d) All of these"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "For which of the following vectors is not equal to zero...",
+      "correct_answer": "(b) 10, 10, and 20",
+      "options": [
+        "(a) 10, 20, and 40",
+        "(b) 10, 10, and 20",
+        "(c) 10, 18, and 18",
+        "(d) 10, 10, 10"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the addition of two unit vectors is a unit vector, then their difference is...",
+      "correct_answer": "(c) 4",
+      "options": [
+        "(a) ",
+        "(b) ",
+        "(c) 4",
+        "(d) 7"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The unit vector perpendicular to vector A=3i+j and B=2i-j-5k is...",
+      "correct_answer": "(a) 3i+j/√10",
+      "options": [
+        "(a) 3i+j/√10",
+        "(b) i-3j+k/√10",
+        "(c) 2i-j-5k/√30",
+        "(d) None"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The angle between (x) and –(x) is...",
+      "correct_answer": "(b) π",
+      "options": [
+        "(a) 0",
+        "(b) π",
+        "(c) π/4",
+        "(d) π/2"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If A=B, the angle between A and B is 90°, then A + B =...",
+      "correct_answer": "(a) 3A",
+      "options": [
+        "(a) 3A",
+        "(b) 2A",
+        "(c) A",
+        "(d) 0"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The magnitude of the scalar product of two vectors A and B is 6, and the magnitude of the cross product is 6. Then the angle between the two vectors is...",
+      "correct_answer": "(b) 60°",
+      "options": [
+        "(a) 30°",
+        "(b) 60°",
+        "(c) 45°",
+        "(d) 180°"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Find the value of c if A = 2i+2j+6ck is perpendicular to vector B = 2i+3j+6k",
+      "correct_answer": "(b) -5/18",
+      "options": [
+        "(a) 4/9",
+        "(b) -5/18",
+        "(c) 9/5",
+        "(d) 26/9"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a correct relation?",
+      "correct_answer": "(d) x.x=y.y=z.z=1",
+      "options": [
+        "(a) ixi=jxj=kxk=1",
+        "(b) i.i=j.j=kxk=1",
+        "(c) zxz=yxy=z.z=0",
+        "(d) x.x=y.y=z.z=1"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If A is parallel to B, then...",
+      "correct_answer": "(a) A.B=AB",
+      "options": [
+        "(a) A.B=AB",
+        "(b) A=AB",
+        "(c) A=AB",
+        "(d) .==1"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The unit vectors i, j, k are...",
+      "correct_answer": "(a) perpendicular",
+      "options": [
+        "(a) perpendicular",
+        "(b) parallel",
+        "(c) antiparallel",
+        "(d) co-linear"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The projection of A on the y-axis is...",
+      "correct_answer": "(b) .j",
+      "options": [
+        "(a) .i",
+        "(b) .j",
+        "(c) .k",
+        "(d) (i+j)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If B=2i-6j+3k is a unit vector, then the magnitude along the y-axis is...",
+      "correct_answer": "(c) 14",
+      "options": [
+        "(a) 6",
+        "(b) 7",
+        "(c) 14",
+        "(d) -35"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A is always in a direction which is...",
+      "correct_answer": "(c) Perpendicular to B",
+      "options": [
+        "(a) Parallel to A",
+        "(b) Parallel to B",
+        "(c) Perpendicular to B",
+        "(d) Perpendicular to A"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1630 @@
+{
+    "questions":[
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the fundamental principle of geometrical optics that states that light travels in a straight line?",
+      "correct_answer": "The principle of rectilinear propagation of light",
+      "options": [
+        "The principle of total internal reflection",
+        "The principle of rectilinear propagation of light",
+        "The principle of dispersion",
+        "The principle of wave-particle duality"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the point where parallel rays of light either converge or appear to diverge after passing through a lens or reflecting from a curved mirror?",
+      "correct_answer": "Focal point",
+      "options": [
+        "Aperture",
+        "Focal length",
+        "Focal point",
+        "Principal axis"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of lens converges light and can form real and inverted images?",
+      "correct_answer": "Converging lens (Convex lens)",
+      "options": [
+        "Diverging lens (Concave lens)",
+        "Biconvex lens",
+        "Biconcave lens",
+        "Converging lens (Convex lens)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the point on the principal axis where parallel rays of light either converge or appear to diverge after passing through a lens or reflecting from a curved mirror?",
+      "correct_answer": "Focal point",
+      "options": [
+        "Focal length",
+        "Focal point",
+        "Aperture",
+        "Principal axis"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of spherical mirrors, what type of mirror curves outward and reflects light away from a single point?",
+      "correct_answer": "Convex mirror",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What term is used to describe the angle formed between a ray of light incident on a surface and the normal to that surface?",
+      "correct_answer": "Angle of incidence",
+      "options": [
+        "Angle of reflection",
+        "Angle of incidence",
+        "Angle of refraction",
+        "Angle of deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which phenomenon occurs when light rays bend as they pass from one medium into another due to a change in the speed of light?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Dispersion",
+        "Interference",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the point on the principal axis where parallel rays of light either converge or appear to diverge after passing through a lens or reflecting from a curved mirror?",
+      "correct_answer": "Focal point",
+      "options": [
+        "Focal length",
+        "Focal point",
+        "Aperture",
+        "Principal axis"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of lens is thinner at the center than at the edges and diverges light?",
+      "correct_answer": "Diverging lens (Concave lens)",
+      "options": [
+        "Converging lens (Convex lens)",
+        "Biconvex lens",
+        "Biconcave lens",
+        "Diverging lens (Concave lens)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the distance between the center of a lens or mirror and its focal point?",
+      "correct_answer": "Focal length",
+      "options": [
+        "Aperture",
+        "Focal length",
+        "Focal point",
+        "Principal axis"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a converging lens, what happens to parallel rays of light after passing through the lens?",
+      "correct_answer": "They converge to a point",
+      "options": [
+        "They diverge away from each other",
+        "They remain parallel",
+        "They reflect back in the same direction",
+        "They converge to a line"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of image is formed when rays of light do not actually converge but appear to diverge from a virtual focal point behind a lens or mirror?",
+      "correct_answer": "Virtual image",
+      "options": [
+        "Real image",
+        "Inverted image",
+        "Virtual image",
+        "Actual image"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the phenomenon in which light waves combine and reinforce each other, resulting in an increase in intensity?",
+      "correct_answer": "Interference",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Diffraction",
+        "Interference"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror curves inward and can form both real and virtual images depending on the object's position?",
+      "correct_answer": "Concave mirror",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of light waves as they pass around obstacles or through narrow openings?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Interference",
+        "Refraction",
+        "Reflection",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of lens is thicker at the center than at the edges and converges light?",
+      "correct_answer": "Converging lens (Convex lens)",
+      "options": [
+        "Diverging lens (Concave lens)",
+        "Biconvex lens",
+        "Biconcave lens",
+        "Converging lens (Convex lens)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the angle formed between a ray of light reflected from a surface and the normal to that surface?",
+      "correct_answer": "Angle of reflection",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Angle of deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of image is formed when light rays actually converge at a specific point?",
+      "correct_answer": "Real image",
+      "options": [
+        "Virtual image",
+        "Inverted image",
+        "Actual image",
+        "Real image"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the maximum angle at which an incident ray of light can enter a lens and still emerge from the other side?",
+      "correct_answer": "Critical angle",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Critical angle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of light waves as they pass from one medium into another with a different refractive index?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Interference",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is smaller than the object when the object is placed between the focal point and the mirror's surface?",
+      "correct_answer": "Convex mirror",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the change in direction of light waves when they bounce off a surface?",
+      "correct_answer": "Reflection",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is larger than the object?",
+      "correct_answer": "Concave mirror",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the point at which a parallel beam of light either converges or appears to diverge after passing through a lens?",
+      "correct_answer": "Principal focus",
+      "options": [
+        "Principal axis",
+        "Focal length",
+        "Principal focus",
+        "Aperture"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the angle formed between a ray of light as it enters a medium with a different refractive index and the normal to the surface?",
+      "correct_answer": "Angle of refraction",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Angle of deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces a virtual, erect, and diminished image when an object is placed between the focal point and the mirror's surface?",
+      "correct_answer": "Concave mirror",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the distance between the center of a lens or mirror and the principal focus?",
+      "correct_answer": "Focal length",
+      "options": [
+        "Aperture",
+        "Focal length",
+        "Principal focus",
+        "Principal axis"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a diverging lens, what happens to parallel rays of light after passing through the lens?",
+      "correct_answer": "They diverge away from each other",
+      "options": [
+        "They converge to a point",
+        "They diverge away from each other",
+        "They remain parallel",
+        "They reflect back in the same direction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the apparent bending of light waves around the edges of obstacles or openings?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Interference",
+        "Refraction",
+        "Reflection",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the maximum angle at which an incident ray of light can enter a lens and still emerge from the other side?",
+      "correct_answer": "Critical angle",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Critical angle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the change in direction of light waves as they pass from one medium into another with a different refractive index?",
+      "correct_answer": "Refraction",
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Interference",
+        "Refraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is smaller than the object when the object is placed between the focal point and the mirror's surface?",
+      "correct_answer": "Convex mirror",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the change in direction of light waves when they bounce off a surface?",
+      "correct_answer": "Reflection",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is larger than the object?",
+      "correct_answer": "Concave mirror",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the point at which a parallel beam of light either converges or appears to diverge after passing through a lens?",
+      "correct_answer": "Principal focus",
+      "options": [
+        "Principal axis",
+        "Focal length",
+        "Principal focus",
+        "Aperture"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the angle formed between a ray of light reflected from a surface and the normal to that surface?",
+      "correct_answer": "Angle of reflection",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Angle of deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of image is formed when light rays actually converge at a specific point?",
+      "correct_answer": "Real image",
+      "options": [
+        "Virtual image",
+        "Inverted image",
+        "Actual image",
+        "Real image"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the maximum angle at which an incident ray of light can enter a lens and still emerge from the other side?",
+      "correct_answer": "Critical angle",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Critical angle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of light waves as they pass around obstacles or through narrow openings?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Interference",
+        "Refraction",
+        "Reflection",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is smaller than the object when the object is placed between the focal point and the mirror's surface?",
+      "correct_answer": "Convex mirror",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the change in direction of light waves when they bounce off a surface?",
+      "correct_answer": "Reflection",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Reflection"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is larger than the object?",
+      "correct_answer": "Concave mirror",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the point at which a parallel beam of light either converges or appears to diverge after passing through a lens?",
+      "correct_answer": "Principal focus",
+      "options": [
+        "Principal axis",
+        "Focal length",
+        "Principal focus",
+        "Aperture"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the angle formed between a ray of light reflected from a surface and the normal to that surface?",
+      "correct_answer": "Angle of reflection",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Angle of deviation"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of image is formed when light rays actually converge at a specific point?",
+      "correct_answer": "Real image",
+      "options": [
+        "Virtual image",
+        "Inverted image",
+        "Actual image",
+        "Real image"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the context of lenses, what is the term for the maximum angle at which an incident ray of light can enter a lens and still emerge from the other side?",
+      "correct_answer": "Critical angle",
+      "options": [
+        "Angle of incidence",
+        "Angle of reflection",
+        "Angle of refraction",
+        "Critical angle"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the term for the bending of light waves as they pass around obstacles or through narrow openings?",
+      "correct_answer": "Diffraction",
+      "options": [
+        "Interference",
+        "Refraction",
+        "Reflection",
+        "Diffraction"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which type of mirror produces an upright, virtual image that is smaller than the object when the object is placed between the focal point and the mirror's surface?",
+      "correct_answer": "Convex mirror",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Diverging mirror"
+      ]
+    },
+  
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the lens maker's formula (1/f = (n - 1)(1/R1 - 1/R2)), what do R1 and R2 represent?",
+      "correct_answer": "Radii of curvature of the two lens surfaces",
+      "options": [
+        "Focal lengths of the lens",
+        "Indices of refraction of the lens material",
+        "Thicknesses of the lens",
+        "Radii of curvature of the two lens surfaces"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the magnification (m) of an image formed by a lens?",
+      "correct_answer": "m = -q/p",
+      "options": [
+        "m = q/p",
+        "m = -p/q",
+        "m = p/q",
+        "m = -q/p"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of lens optics, what is the focal length (f) of a thin lens with refractive index n, radius of curvature R, and thickness t?",
+      "correct_answer": "f = (n - 1)((1/R1) - (1/R2))",
+      "options": [
+        "f = (n - 1)((1/R1) + (1/R2))",
+        "f = (n + 1)((1/R1) - (1/R2))",
+        "f = (n + 1)((1/R1) + (1/R2))",
+        "f = (n - 1)((1/R1) - (1/R2))"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the angular magnification (M) of a magnifying glass when used as a simple magnifier?",
+      "correct_answer": "M = 1 + (D/F)",
+      "options": [
+        "M = 1 - (D/F)",
+        "M = D/F",
+        "M = 1 + (F/D)",
+        "M = 1 + (D/F)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Snell's Law relates the angles of incidence and refraction to the refractive indices of two media. What is the formula for Snell's Law?",
+      "correct_answer": "n1 * sin(θ1) = n2 * sin(θ2)",
+      "options": [
+        "n1 * cos(θ1) = n2 * cos(θ2)",
+        "n1 * sin(θ1) = n2 * sin(θ2)",
+        "n1 * tan(θ1) = n2 * tan(θ2)",
+        "n1 * cos(θ1) = n2 * sin(θ2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The speed of light in a vacuum is approximately 3.00 x 10^8 meters per second (m/s). What is the speed of light in a medium with a refractive index (n) of 1.5?",
+      "correct_answer": "2.00 x 10^8 m/s",
+      "options": [
+        "1.00 x 10^8 m/s",
+        "2.00 x 10^8 m/s",
+        "4.50 x 10^8 m/s",
+        "3.00 x 10^8 m/s"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the critical angle (θc) when light passes from a medium with refractive index n1 to a medium with refractive index n2?",
+      "correct_answer": "θc = arctan(n2/n1)",
+      "options": [
+        "θc = arctan(n1/n2)",
+        "θc = sin(n2/n1)",
+        "θc = sin(n1/n2)",
+        "θc = arctan(n2/n1)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the dispersion angle (Δθ) of a prism?",
+      "correct_answer": "Δθ = (n - 1) * α",
+      "options": [
+        "Δθ = (n + 1) * α",
+        "Δθ = (n - 1) * β",
+        "Δθ = (n + 1) * β",
+        "Δθ = (n - 1) * α"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of lens optics, what is the formula for calculating the power (P) of a lens with focal length f?",
+      "correct_answer": "P = 1/f",
+      "options": [
+        "P = f",
+        "P = 1 - f",
+        "P = 1/f²",
+        "P = 1/f"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a lens?",
+      "correct_answer": "mL = -hi/ho",
+      "options": [
+        "mL = hi/ho",
+        "mL = ho/hi",
+        "mL = -ho/hi",
+        "mL = -hi/ho"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of lens optics, what is the formula for calculating the lensmaker's equation, which relates the focal length (f) of a lens to its refractive index (n), radius of curvature (R), and wavelength (λ) of light passing through it?",
+      "correct_answer": "1/f = (n - 1)((1/R1) - (1/R2) + ((n - 1)λ)/(nR1R2))",
+      "options": [
+        "1/f = (n + 1)((1/R1) - (1/R2) + ((n - 1)λ)/(nR1R2))",
+        "1/f = (n - 1)((1/R1) + (1/R2) + ((n + 1)λ)/(nR1R2))",
+        "1/f = (n + 1)((1/R1) + (1/R2) + ((n - 1)λ)/(nR1R2))",
+        "1/f = (n - 1)((1/R1) - (1/R2) + ((n - 1)λ)/(nR1R2))"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object placed in front of a converging lens?",
+      "correct_answer": "mL = -di/do",
+      "options": [
+        "mL = di/do",
+        "mL = do/di",
+        "mL = -do/di",
+        "mL = -di/do"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of thin lens formula (1/f = 1/v - 1/u), what do v and u represent?",
+      "correct_answer": "v = image distance, u = object distance",
+      "options": [
+        "v = object distance, u = image distance",
+        "v = focal length, u = object distance",
+        "v = image distance, u = focal length",
+        "v = focal length, u = image distance"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the absolute refractive index (n) of a medium when light passes from vacuum (c) with speed of light c0 into the medium?",
+      "correct_answer": "n = c0/c",
+      "options": [
+        "n = c/c0",
+        "n = c - c0",
+        "n = c0 * c",
+        "n = c0/c"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of dispersion of light, what does the symbol α represent in the formula Δθ = (n - 1) * α?",
+      "correct_answer": "Angle of deviation for a specific wavelength",
+      "options": [
+        "Angle of incidence",
+        "Angle of refraction",
+        "Angle of deviation for all wavelengths",
+        "Angle of deviation for a specific wavelength"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When white light passes through a prism, it disperses into its constituent colors. What is this phenomenon called?",
+      "correct_answer": "Dispersion",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Dispersion"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the angular dispersion (Δθ) of a prism for a specific wavelength of light?",
+      "correct_answer": "Δθ = α * (n - 1)",
+      "options": [
+        "Δθ = α * (n + 1)",
+        "Δθ = β * (n - 1)",
+        "Δθ = α * (n - 1)",
+        "Δθ = β * (n + 1)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the context of total internal reflection, what is the critical angle?",
+      "correct_answer": "The angle of incidence at which light is refracted along the boundary",
+      "options": [
+        "The angle of incidence at which light is reflected along the boundary",
+        "The angle of incidence at which light is absorbed by the boundary",
+        "The angle of incidence at which light is scattered by the boundary",
+        "The angle of incidence at which light is refracted along the boundary"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the deviation (D) of light when it passes through a prism at a specific angle?",
+      "correct_answer": "D = α + β - A",
+      "options": [
+        "D = α + β + A",
+        "D = α - β + A",
+        "D = α - β - A",
+        "D = α + β - A"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Huygens' principle describes the wavefront of a propagating wave. What does it state?",
+      "correct_answer": "Every point on a wavefront can be considered as a source of secondary spherical wavelets",
+      "options": [
+        "Every point on a wavefront has the same phase",
+        "Every point on a wavefront has the same amplitude",
+        "Every point on a wavefront has the same frequency",
+        "Every point on a wavefront can be considered as a source of secondary spherical wavelets"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope with objective lens focal length fO and eyepiece focal length fe?",
+      "correct_answer": "mL = -(1 + (fe/fO))",
+      "options": [
+        "mL = (1 + (fe/fO))",
+        "mL = (fe/fO)",
+        "mL = -(fe/fO)",
+        "mL = -(1 + (fe/fO))"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of a microscope or telescope?",
+      "correct_answer": "R = 1.22 * (λ / D)",
+      "options": [
+        "R = 1.22 * (D / λ)",
+        "R = 0.22 * (λ / D)",
+        "R = 1.22 * (D / λ)",
+        "R = 0.22 * (D / λ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What does the term 'achromatic lens' refer to?",
+      "correct_answer": "A lens designed to minimize chromatic aberration and focus multiple wavelengths of light to the same point",
+      "options": [
+        "A lens that has a chromatic aberration",
+        "A lens that reflects all wavelengths of light",
+        "A lens that absorbs all wavelengths of light",
+        "A lens designed to minimize chromatic aberration and focus multiple wavelengths of light to the same point"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the angular magnification (M) of a compound microscope?",
+      "correct_answer": "M = (1 + (D/fO)) * (fe)",
+      "options": [
+        "M = (1 - (D/fO)) * (fe)",
+        "M = (D/fO) * (fe)",
+        "M = (1 + (D/fO)) * (1/fe)",
+        "M = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the angular dispersion (Δθ) of a prism for a specific wavelength of light?",
+      "correct_answer": "Δθ = α * (n - 1)",
+      "options": [
+        "Δθ = α * (n + 1)",
+        "Δθ = β * (n - 1)",
+        "Δθ = α * (n - 1)",
+        "Δθ = β * (n + 1)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which formula is used to calculate the position of an image formed by a lens, taking into account both the object distance (u) and the image distance (v)?",
+      "correct_answer": "Lens formula: 1/f = 1/v - 1/u",
+      "options": [
+        "Focal length formula: f = (n / (n - 1)) * R",
+        "Magnification formula: m = -q/p",
+        "Power formula: P = 1/f",
+        "Lens formula: 1/f = 1/v - 1/u"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the resolving power (R) of an optical instrument in terms of wavelength (λ) and the numerical aperture (NA)?",
+      "correct_answer": "R = (1.22 * λ) / NA",
+      "options": [
+        "R = (0.22 * λ) / NA",
+        "R = (1.22 * λ) * NA",
+        "R = (0.22 * λ) * NA",
+        "R = (1.22 * λ) / (NA^2)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the numerical aperture (NA) of an optical system?",
+      "correct_answer": "NA = n * sin(θ)",
+      "options": [
+        "NA = n * cos(θ)",
+        "NA = n / sin(θ)",
+        "NA = n * sin(θ) / λ",
+        "NA = n * sin(θ)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the lateral magnification (mL) of an object viewed through a microscope?",
+      "correct_answer": "mL = (1 + (D/fO)) * (fe)",
+      "options": [
+        "mL = (1 - (D/fO)) * (fe)",
+        "mL = (D/fO) * (fe)",
+        "mL = (1 + (D/fO)) * (1/fe)",
+        "mL = (1 + (D/fO)) * (fe)"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the focal length of a lens in terms of its refractive index (n) and radius of curvature (R)?",
+      "correct_answer": "f = (n / (n - 1)) * R",
+      "options": [
+        "f = (n / (n + 1)) * R",
+        "f = (n - 1) * R",
+        "f = (n + 1) * R",
+        "f = (n / (n - 1)) * R"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What phenomenon causes the bluish tint at the edge of a glass prism when white light is passed through it?",
+      "correct_answer": "Dispersion and chromatic aberration",
+      "options": [
+        "Total internal reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion and chromatic aberration"
+      ]
+    },
+    {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is chromatic aberration in optics?",
+      "correct_answer": "The failure of a lens to focus all colors to the same point, resulting in color fringing",
+      "options": [
+        "The dispersion of light by a prism",
+        "The bending of light when it passes through an aperture",
+        "The failure of a lens to focus at any point",
+        "The failure of a lens to focus all colors to the same point, resulting in color fringing"
+      ]
+    }
+  ]
+}

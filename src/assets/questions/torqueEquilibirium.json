@@ -1,0 +1,1436 @@
+{
+   "questions":
+[
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The motion of a train and the car belongs to the:",
+      "correct_answer": "a) Translatory motion",
+      "options": [
+          "a) Translatory motion",
+          "b) Rotating motion",
+          "c) Vibrating motion",
+          "d) Spin motion"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the axes of the frame of reference of the object remain parallel to the axes of the observer’s frame, it's called:",
+      "correct_answer": "d) Translatory motion",
+      "options": [
+          "a) Vibratory motion",
+          "b) Rotatory motion",
+          "c) Spin motion",
+          "d) Translatory motion"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In translatory motion, every point of the object undergoes the same:",
+      "correct_answer": "a) Linear Velocity",
+      "options": [
+          "a) Linear Velocity",
+          "b) Angular velocity",
+          "c) Linear Displacement",
+          "d) Linear Acceleration"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The line about which a body rotates is called:",
+      "correct_answer": "b) Axis of rotation",
+      "options": [
+          "a) Arc of length",
+          "b) Axis of rotation",
+          "c) Circular path",
+          "d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the line (axis of rotation) passes through the body itself, the corresponding motion is:",
+      "correct_answer": "a) Spin Motion",
+      "options": [
+          "a) Spin Motion",
+          "b) Orbital Motion",
+          "c) Vibratory Motion",
+          "d) Translatory Motion"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Every point of a spinning object always moves along an _________ of a circle.",
+      "correct_answer": "c) Orbit",
+      "options": [
+          "a) Axis",
+          "b) Arc",
+          "c) Orbit",
+          "d) None of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of orbital motion?",
+      "correct_answer": "d) Motion of a planet",
+      "options": [
+          "a) Daily rotation of the Earth",
+          "b) Rotating top",
+          "c) Rotation of a flywheel",
+          "d) Motion of a planet"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The magnitude of torque is:",
+      "correct_answer": "c) sin",
+      "options": [
+          "a) ",
+          "b) ",
+          "c) sin",
+          "d) "
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is correct?",
+      "correct_answer": "d) For counter-clockwise torque, it is taken as positive",
+      "options": [
+          "a) It is the perpendicular distance of the line of action of force from the center of a circle",
+          "b) It is the parallel distance of the line of action of force from the center of a circle",
+          "c) Turning effect of force is greater the farther the line of action of the force is from the axis of rotation",
+          "d) For counter-clockwise torque, it is taken as positive"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The magnitude of torque depends upon:",
+      "correct_answer": "d) All of these",
+      "options": [
+          "a) Moment arm",
+          "b) Applied force",
+          "c) Angle of projection",
+          "d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is correct?",
+      "correct_answer": "d) An electron of an atom possesses orbital and spin angular momentum.",
+      "options": [
+          "a) The angular momentum of a body which is under the action of central force is not constant",
+          "b) A particle moving along a line that passes through the origin has angular momentum about that origin.",
+          "c) Angular acceleration is in the same direction as the angular velocity if the latter is increasing with time",
+          "d) An electron of an atom possesses orbital and spin angular momentum."
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The right-hand rule is applied to find:",
+      "correct_answer": "d) Both 'a' and 'b'",
+      "options": [
+          "a) The direction of torque",
+          "b) Magnitude of torque",
+          "c) Neither direction nor magnitude",
+          "d) Both 'a' and 'b'"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following statements is correct?",
+      "correct_answer": "b) The moment of couple is independent of the location of the origin.",
+      "options": [
+          "a) Torque depends upon the location of the origin",
+          "b) The moment of couple is independent of the location of the origin",
+          "c) The moment of couple does not depend upon the choice of origin",
+          "d) The center of mass of a body coincides with its center of gravity irrespective of its mass and size."
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The direction of torque is perpendicular to:",
+      "correct_answer": "a) Applied force",
+      "options": [
+          "a) Applied force",
+          "b) Position vector",
+          "c) Both",
+          "d) Linear momentum"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not an example of a moment of couple?",
+      "correct_answer": "d) All of these",
+      "options": [
+          "a) Steering of a vehicle",
+          "b) Motion of the pedal of a bicycle",
+          "c) Opening or closing a door",
+          "d) All of these"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Two forces equal in magnitude but opposite in direction and not acting along the same line:",
+      "correct_answer": "b) Moment of couple",
+      "options": [
+          "a) Center of gravity",
+          "b) Moment of couple",
+          "c) Moment of force",
+          "d) Angular Momentum"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The magnitude of the moment of a couple depends upon:",
+      "correct_answer": "d) Both 'a' and 'b'",
+      "options": [
+          "a) Magnitude of the forces",
+          "b) Area of the couple",
+          "c) Position vector",
+          "d) Both 'a' and 'b'"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If the total mass of the body or the particles were concentrated there and all the applied forces were acting at that point, it is called:",
+      "correct_answer": "a) Center of mass",
+      "options": [
+          "a) Center of mass",
+          "b) Center of gravity",
+          "c) Gravitational force",
+          "d) Linear displacement"
+      ]
+  },
+  {
+      "category": "Physics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A body that does not possess any acceleration is:",
+      "correct_answer": "d) All of these",
+      "options": [
+          "a) Equilibrium",
+          "b) Dynamic equilibrium",
+          "c) Uniform velocity",
+          "d) All of these"
+      ]
+  },
+
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The jumping of paratrooper from a helicopter, in this case, the force of gravity acts on the paratrooper is:",
+  "correct_answer": "a) vertically downward direction",
+  "options": [
+     "a) vertically downward direction",
+     "b) vertically upward direction",
+     "c) horizontally direction",
+     "d) none of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body will be in rotational equilibrium if the net ___________ on it is zero.",
+  "correct_answer": "b) resultant torque",
+  "options": [
+     "a) Applied force",
+     "b) resultant torque",
+     "c) Resultant force",
+     "d) Reaction force"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The product of moment of inertia and angular velocity is called:",
+  "correct_answer": "c) Angular momentum",
+  "options": [
+     "a) Linear momentum",
+     "b) Linear acceleration",
+     "c) Angular momentum",
+     "d) Angular acceleration"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The moment of inertia of a rotating body depends upon:",
+  "correct_answer": "a) Distribution of mass",
+  "options": [
+     "a) Distribution of mass",
+     "b) Distance from the axis of rotation",
+     "c) Square of angular velocity",
+     "d) Angular momentum"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body is moving with uniform velocity. It is in:",
+  "correct_answer": "b) Dynamic equilibrium",
+  "options": [
+     "a) Static equilibrium",
+     "b) Dynamic equilibrium",
+     "c) Zero acceleration",
+     "d) Both 'b' and 'c'"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If [condition], then angular momentum:",
+  "correct_answer": "c) Angular momentum is conserved",
+  "options": [
+     "a) [option a]",
+     "b) [option b]",
+     "c) Angular momentum is conserved",
+     "d) [option d]"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The torque due to a couple is called:",
+  "correct_answer": "b) Moment of couple",
+  "options": [
+     "a) Moment arm",
+     "b) Moment of couple",
+     "c) Moment",
+     "d) None"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "In angular (rotational) motion, the analog of force is:",
+  "correct_answer": "c) Torque",
+  "options": [
+     "a) Rotational inertia",
+     "b) Radius of gyration",
+     "c) Torque",
+     "d) Moment of inertia"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A mass M is moving with a constant velocity parallel to the X-axis. Its angular momentum with respect to the origin:",
+  "correct_answer": "a) is zero",
+  "options": [
+     "a) is zero",
+     "b) remains constant",
+     "c) goes on increasing",
+     "d) goes on decreasing"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If a body is rotating with a constant angular velocity, its torque will be:",
+  "correct_answer": "a) 0",
+  "options": [
+     "a) 0",
+     "b) maximum",
+     "c) may be zero",
+     "d) none"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Buildings and bridges are an example of ______ equilibrium.",
+  "correct_answer": "a) Static",
+  "options": [
+     "a) Static",
+     "b) Dynamic",
+     "c) Kinetic",
+     "d) All"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The angular displacement in circular motion is:",
+  "correct_answer": "c) Unitless and dimensionless quantity",
+  "options": [
+     "a) Dimensional quantity",
+     "b) Dimensionless quantity",
+     "c) Unitless and dimensionless quantity",
+     "d) Unitless quantity"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "It is easier to turn a steering wheel with both hands than with a single hand because:",
+  "correct_answer": "c) Couple acts on the wheel",
+  "options": [
+     "a) It is easier",
+     "b) Two hands provide firm grips",
+     "c) Couple acts on the wheel",
+     "d) All"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Two equal and opposite forces acting along different lines of axis produce rotation in a body are said to be:",
+  "correct_answer": "c) A pair of anti-parallel forces",
+  "options": [
+     "a) Balanced forces",
+     "b) Couple",
+     "c) A pair of anti-parallel forces",
+     "d) Equilibrium forces"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body rotating with uniform angular velocity is said to be in ________ equilibrium.",
+  "correct_answer": "c) Rotational",
+  "options": [
+     "a) Translational",
+     "b) Complete",
+     "c) Rotational",
+     "d) Neutral"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A motorcycle driver doubles its velocity when he is having a turn. The force exerted outwardly will be:",
+  "correct_answer": "c) 4 times",
+  "options": [
+     "a) Double",
+     "b) Half",
+     "c) 4 times",
+     "d) 1/4 times"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Find the maximum approximate velocity for skidding for a car moved on a circular track of radius 100 m. The coefficient of friction between the road and tire is 0.2.",
+  "correct_answer": "b) 140 m/s",
+  "options": [
+     "a) 0.14 m/s",
+     "b) 140 m/s",
+     "c) 1.4 km/s",
+     "d) 14 m/s"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The moment of inertia of a body comes into play in:",
+  "correct_answer": "b) Rotational motion",
+  "options": [
+     "a) Linear motion",
+     "b) Rotational motion",
+     "c) Projectile motion",
+     "d) Periodic motion"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The motion of electrons around the nucleus is an example of _______ motion.",
+  "correct_answer": "c) Orbital",
+  "options": [
+     "a) Translational",
+     "b) Spin",
+     "c) Orbital",
+     "d) Vibrational"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Angular momentum of the body is conserved:",
+  "correct_answer": "c) In the absence of external torque",
+  "options": [
+     "a) Always",
+     "b) Never",
+     "c) In the absence of external torque",
+     "d) In the presence of external torque"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A man is sitting on a rotating stool with his arms outstretched. Suddenly he folds his arms. The angular velocity:",
+  "correct_answer": "a) Decreases",
+  "options": [
+     "a) Decreases",
+     "b) Increases",
+     "c) Becomes zero",
+     "d) Remains constant"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The cross or vector product of position vector r and linear momentum P is called:",
+  "correct_answer": "a) Torque",
+  "options": [
+     "a) Torque",
+     "b) Angular momentum",
+     "c) Moment of force",
+     "d) Couple of force"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body will be in complete equilibrium when it satisfies:",
+  "correct_answer": "c) Both 1st and 2nd conditions of equilibrium",
+  "options": [
+     "a) 1st condition of equilibrium",
+     "b) 2nd condition of equilibrium",
+     "c) Both 1st and 2nd conditions of equilibrium",
+     "d) Impossible"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Rate of change of angular momentum is equal to:",
+  "correct_answer": "a) torque",
+  "options": [
+     "a) torque",
+     "b) linear momentum",
+     "c) couple of torque",
+     "d) zero"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the net torque acting on a system is zero, which of the following will be constant?",
+  "correct_answer": "b) angular momentum",
+  "options": [
+     "a) force",
+     "b) angular momentum",
+     "c) linear momentum",
+     "d) none"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the axis of rotation passes through the body itself, the corresponding motion is called?",
+  "correct_answer": "d) spin motion",
+  "options": [
+     "a) swinging motion",
+     "b) rotatory motion",
+     "c) translatory motion",
+     "d) spin motion"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The two forces that constitute a couple are:",
+  "correct_answer": "c) not acting along the same line",
+  "options": [
+     "a) equal in magnitude",
+     "b) opposite in direction",
+     "c) not acting along the same line",
+     "d) all"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The SI unit of torque is analogous to _________.",
+  "correct_answer": "b) work",
+  "options": [
+     "a) momentum",
+     "b) work",
+     "c) potential",
+     "d) power"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A force passing through the center of gravity of a body causes ________ motion.",
+  "correct_answer": "c) translational",
+  "options": [
+     "a) spin",
+     "b) orbital",
+     "c) translational",
+     "d) linear"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the axis of rotation does not pass through the body, the rotatory motion is said to be?",
+  "correct_answer": "d) circular motion",
+  "options": [
+     "a) oscillatory motion",
+     "b) spin motion",
+     "c) orbital motion",
+     "d) circular motion"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Rotational analogue of mass in linear motion is:",
+  "correct_answer": "b) moment of inertia",
+  "options": [
+     "a) weight",
+     "b) moment of inertia",
+     "c) torque",
+     "d) angular momentum"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The moment of inertia of a body does not depend on the:",
+  "correct_answer": "c) axis of rotation of the body",
+  "options": [
+     "a) angular velocity of the body",
+     "b) mass of the body",
+     "c) axis of rotation of the body",
+     "d) distribution of mass in the body"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "When a mass is rotating in a plane about a fixed point, its angular momentum is directed along the:",
+  "correct_answer": "c) axis of rotation",
+  "options": [
+     "a) tangent to the orbit",
+     "b) tangent of the path",
+     "c) axis of rotation",
+     "d) radius"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Angular momentum of the body is conserved:",
+  "correct_answer": "a) in the absence of external torque",
+  "options": [
+     "a) in the absence of external torque",
+     "b) in the presence of external torque",
+     "c) always",
+     "d) never"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "You are sitting in a frictionless barber chair. The barber decides to have some fun with you, so he spins the chair. As you spin, you find that you can slow down by extending your arms and legs. You have:",
+  "correct_answer": "d) increased your moment of inertia",
+  "options": [
+     "a) decreased your angular momentum",
+     "b) increased your angular momentum",
+     "c) zero torque",
+     "d) increased your moment of inertia"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Torque is:",
+  "correct_answer": "a) turning effect of force",
+  "options": [
+     "a) turning effect of force",
+     "b) product of moment of inertia & angular acceleration",
+     "c) rate of change of angular momentum",
+     "d) all of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The center of mass of a rigid body is:",
+  "correct_answer": "d) can be inside or outside of the body",
+  "options": [
+     "a) lies inside the body",
+     "b) lies outside the body",
+     "c) top of the body",
+     "d) can be inside or outside of the body"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A ring, a disc, and a sphere, all of the same mass and radius, rotate with the same angular velocity about their diameter. Which has the maximum rotational kinetic energy?",
+  "correct_answer": "d) all",
+  "options": [
+     "a) ring",
+     "b) disc",
+     "c) sphere",
+     "d) all"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Angular Momentum is:",
+  "correct_answer": "b) a polar vector",
+  "options": [
+     "a) a scalar",
+     "b) a polar vector",
+     "c) an axial vector",
+     "d) same as torque"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "When two objects of unequal mass orbit each other, the center of mass is:",
+  "correct_answer": "c) always closer to the less massive of the two objects",
+  "options": [
+     "a) at the center of the more massive object",
+     "b) half way between the centers of each object",
+     "c) always closer to the less massive of the two objects",
+     "d) always closer to the more massive of the two objects"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body in equilibrium may not have:",
+  "correct_answer": "b) velocity",
+  "options": [
+     "a) momentum",
+     "b) velocity",
+     "c) torque",
+     "d) acceleration"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A uniform solid cylinder made of lead has the same mass and the same length as a uniform solid cylinder made of wood. The rotational inertia of the lead cylinder compared to the wooden one is:",
+  "correct_answer": "d) same",
+  "options": [
+     "a) unknown unless the radii are given",
+     "b) greater",
+     "c) less",
+     "d) same"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "In an equilibrium problem, the axis about which torques are computed:",
+  "correct_answer": "a) must pass through the center of gravity of the body",
+  "options": [
+     "a) must pass through the center of gravity of the body",
+     "b) inside the body",
+     "c) must intersect the line of action of at least one force acting on the body",
+     "d) may be located anywhere"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The center of mass of a uniform disk of radius R is located:",
+  "correct_answer": "b) a distance R/2 from the center",
+  "options": [
+     "a) on the rim",
+     "b) a distance R/2 from the center",
+     "c) at the center",
+     "d) at anywhere"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A car sometimes overturns while taking a turn. When it overturns, it is:",
+  "correct_answer": "b) the outer wheel which leaves the ground first",
+  "options": [
+     "a) the inner wheel which leaves the ground first",
+     "b) the outer wheel which leaves the ground first",
+     "c) both the wheels leave the ground simultaneously",
+     "d) cannot leave the ground"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A car is moving on a circular path and takes a turn. If R1 and R2 are the reactions on the inner and outer wheels respectively, then:",
+  "correct_answer": "c) R1 > R2",
+  "options": [
+     "a) R1 = R2",
+     "b) R1 < R2",
+     "c) R1 > R2",
+     "d) R1 = R2"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body is moving along a circular path with variable speed. It has",
+  "correct_answer": "(d) All of these",
+  "options": [
+     "(a) a radial acceleration",
+     "(b) a tangential acceleration",
+     "(c) only angular acceleration",
+     "(d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Position of the center of mass of a rigid body depends on",
+  "correct_answer": "(c) both a & b",
+  "options": [
+     "(a) its shape only",
+     "(b) distribution of its matter only",
+     "(c) both a & b",
+     "(d) its position relative to the earth"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The center of mass of Earth's atmosphere is near the",
+  "correct_answer": "(d) near the surface of the sea",
+  "options": [
+     "(a) surface of Earth",
+     "(b) outer boundary of the atmosphere",
+     "(c) center of Earth",
+     "(d) near the surface of the sea"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The center of mass of the system consisting of Earth, the Sun, and the planet Mars",
+  "correct_answer": "(d) at the center of the line joining Earth and Mars",
+  "options": [
+     "(a) closer to Earth than to either of the other bodies",
+     "(b) closer to the Sun than to either of the other bodies",
+     "(c) closer to Mars than to either of the other bodies",
+     "(d) at the center of the line joining Earth and Mars"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A constant torque acting on a uniform circular wheel changes its angular momentum from P0 to 4P0 in 4 sec. The magnitude of torque is:",
+  "correct_answer": "(c) 4P0",
+  "options": [
+     "(a) 3P0/4",
+     "(b) P0",
+     "(c) 4P0",
+     "(d) 3P0"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The rotational K.E of a body is E and the moment of inertia is I. The angular momentum of the body is",
+  "correct_answer": "(c) E/I",
+  "options": [
+     "(a) 2",
+     "(b) I/E",
+     "(c) E/I",
+     "(d) "
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "When the direction of F and r both are reversed, then the torque is",
+  "correct_answer": "(b) changed",
+  "options": [
+     "(a) reversed",
+     "(b) changed",
+     "(c) zero",
+     "(d) not changed"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A cylinder of 500 gm and radius 10 cm has a moment of inertia:",
+  "correct_answer": "(b) 510^(-3) kg-m^2",
+  "options": [
+     "(a) 2.5 * 10^(-3) kg-m^2",
+     "(b) 510^(-3) kg-m^2",
+     "(c) 2.5 * 10^(-3) kg-m^2",
+     "(d) 510^3 kg-m^2"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the force is exerted at the center of gravity of a rotating body, then the angular momentum:",
+  "correct_answer": "(d) maximum",
+  "options": [
+     "(a) increases",
+     "(b) decreases",
+     "(c) zero",
+     "(d) maximum"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The motion of the body can describe by the motion of its",
+  "correct_answer": "(c) center of mass",
+  "options": [
+     "(a) center of gravity",
+     "(b) origin",
+     "(c) center of mass",
+     "(d) any part"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The two forces that constitute a couple are",
+  "correct_answer": "(d) All of these",
+  "options": [
+     "(a) equal in magnitude",
+     "(b) opposite in direction",
+     "(c) resultant in doubled",
+     "(d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Physical quantity not directly involved in rotational motion is:",
+  "correct_answer": "(b) mass",
+  "options": [
+     "(a) moment of inertia",
+     "(b) mass",
+     "(c) angular velocity",
+     "(d) torque"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the mass of the body moves towards the axis of rotation, its moment of inertia:",
+  "correct_answer": "(b) Decreased",
+  "options": [
+     "(a) Increased",
+     "(b) Decreased",
+     "(c) remained constant",
+     "(d) becomes zero"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Torque is a vector quantity that produces _______ in a body:",
+  "correct_answer": "(b) angular acceleration",
+  "options": [
+     "(a) Momentum",
+     "(b) angular acceleration",
+     "(c) angular momentum",
+     "(d) linear acceleration"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Angular momentum and moment of inertia are related to each other by the relation",
+  "correct_answer": "(a) I = L × ω",
+  "options": [
+     "(a) I = L × ω",
+     "(b) I = Lω^2",
+     "(c) L = I × ω",
+     "(d) I = L^2 ω"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The magnitude of angular momentum can be found by the expression:",
+  "correct_answer": "(d) mr^2 ω",
+  "options": [
+     "(a) mrω",
+     "(b) m^2r ω",
+     "(c) mr ω^2",
+     "(d) mr^2 ω"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A diver uses the law of conservation of momentum when he curls his body while diving so as to",
+  "correct_answer": "(c) make one or two extra somersaults",
+  "options": [
+     "(a) make his jumping time shorter",
+     "(b) plunge into water at a farther point",
+     "(c) make one or two extra somersaults",
+     "(d) jump into the water more safely"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Spin angular momentum is a property of",
+  "correct_answer": "(d) atomic and sub-atomic particles",
+  "options": [
+     "(a) planets",
+     "(b) stars",
+     "(c) acrobat",
+     "(d) atomic and sub-atomic particles"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A paratrooper falling towards the earth is in a state of equilibrium because",
+  "correct_answer": "(b) force of gravity is balanced by air friction",
+  "options": [
+     "(a) he experiences no gravitational force",
+     "(b) force of gravity is balanced by air friction",
+     "(c) the air is not blowing",
+     "(d) he is falling vertically downward"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The torque produced by a force depends upon two major factors, the force and the ____",
+  "correct_answer": "(c) moment arm",
+  "options": [
+     "(a) acceleration",
+     "(b) velocity",
+     "(c) moment arm",
+     "(d) moment of inertia"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A force passing through the center of gravity of a body results",
+  "correct_answer": "(d) holds the body in equilibrium",
+  "options": [
+     "(a) only in rotational motion",
+     "(b) only in translational motion",
+     "(c) produces moment of inertia",
+     "(d) holds the body in equilibrium"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A stone attached to a string is being whirled in a vertical circle. The string is likely to break when the stone is:",
+  "correct_answer": "(b) at the highest position",
+  "options": [
+     "(a) at the lowest position",
+     "(b) at the highest position",
+     "(c) at any point during motion",
+     "(d) at 180°"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If a gymnast sitting on a rotating stool with his arms outstretched, lowers his arms the angular speed",
+  "correct_answer": "(a) increases",
+  "options": [
+     "(a) increases",
+     "(b) decreases",
+     "(c) remains the same",
+     "(d) becomes zero"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "K.E. of rotation E and angular momentum L of a rigid body of moment of inertia are related by the relation:",
+  "correct_answer": "(c) E = L^2 / (2I)",
+  "options": [
+     "(a) E = ",
+     "(b) E = ",
+     "(c) E = L^2 / (2I)",
+     "(d) L = E^2 / (2L)"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The rate of change of angular momentum of a body is equal to:",
+  "correct_answer": "(d) the applied torque",
+  "options": [
+     "(a) impulsive force",
+     "(b) applied force",
+     "(c) moment of inertia",
+     "(d) the applied torque"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "As a spinning ice skater extends his arms, his",
+  "correct_answer": "(c) rotational velocity decreases",
+  "options": [
+     "(a) angular velocity increases",
+     "(b) mass distribution is unchanged",
+     "(c) rotational velocity decreases",
+     "(d) rotational inertia decreases"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A ring and a solid disk of equal mass and equal diameter begin to roll down a ramp simultaneously.",
+  "correct_answer": "(a) the disk reaches the bottom first",
+  "options": [
+     "(a) the disk reaches the bottom first",
+     "(b) the ring reaches the bottom first",
+     "(c) both have equal linear velocities",
+     "(d) they reach the bottom together"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The relation between the moment of inertia I, torque τ, and angular acceleration α is given by:",
+  "correct_answer": "(c) τ = I α",
+  "options": [
+     "(a) I = τ α",
+     "(b) τ = I^2 α",
+     "(c) τ = I α",
+     "(d) α = τ I"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Moment of inertia depends upon the",
+  "correct_answer": "(d) All of these",
+  "options": [
+     "(a) distribution of mass of the body",
+     "(b) mass of the body",
+     "(c) position of the axis of rotation",
+     "(d) All of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The term moment of momentum is called",
+  "correct_answer": "(d) angular momentum",
+  "options": [
+     "(a) momentum",
+     "(b) torque",
+     "(c) angular velocity",
+     "(d) angular momentum"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If we reduce the value of moment of inertia, the radius of the circular path:",
+  "correct_answer": "(a) increases",
+  "options": [
+     "(a) increases",
+     "(b) decreases",
+     "(c) remains the same",
+     "(d) becomes zero"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following vector relations is incorrect where the symbols have their usual meaning?",
+  "correct_answer": "(b) τ = r × F",
+  "options": [
+     "(a) V = r × ω",
+     "(b) τ = r × F",
+     "(c) τ = F × r",
+     "(d) L = r × ω"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The point of intersection of the lines of action of the weight of all the points of a body is called?",
+  "correct_answer": "(c) center of mass of the body",
+  "options": [
+     "(a) center of the body",
+     "(b) center of gravity of the body",
+     "(c) center of mass of the body",
+     "(d) axis of rotation of the body"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "If the axis of rotation does not pass through the body, the rotatory motion is said to be ______ motion.",
+  "correct_answer": "(d) orbital",
+  "options": [
+     "(a) oscillatory",
+     "(b) spin",
+     "(c) circular",
+     "(d) orbital"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The daily rotation of the earth about its own axis, rotation of a flywheel about its axle, a rotating top are all examples of?",
+  "correct_answer": "(a) spin motion",
+  "options": [
+     "(a) spin motion",
+     "(b) orbital motion",
+     "(c) rotatory motion",
+     "(d) circular motion"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Every point on a rotating body has the same?",
+  "correct_answer": "(a) linear velocity",
+  "options": [
+     "(a) linear velocity",
+     "(b) linear momentum",
+     "(c) torque",
+     "(d) angular velocity"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The torque is the vector product of two vectors, force and displacement, and is a vector at ______ to the plane of the force and displacement.",
+  "correct_answer": "(b) 90°",
+  "options": [
+     "(a) 45°",
+     "(b) 90°",
+     "(c) 180°",
+     "(d) 360°"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "A body in equilibrium does not possess any",
+  "correct_answer": "(d) acceleration",
+  "options": [
+     "(a) torque",
+     "(b) momentum",
+     "(c) speed",
+     "(d) acceleration"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "When the line of action of a force passes through the axis of rotation, due to which its turning effect 'τ' will be?",
+  "correct_answer": "(b) Zero",
+  "options": [
+     "(a) Minimum",
+     "(b) Zero",
+     "(c) Maximum",
+     "(d) Constant"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Angular momentum of the particle rotating with a central force is constant due to:",
+  "correct_answer": "(c) Constant torque",
+  "options": [
+     "(a) Constant force",
+     "(b) Constant linear momentum",
+     "(c) Constant torque",
+     "(d) Zero torque"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "In translatory motion, every point of the object undergoes the same:",
+  "correct_answer": "(a) Linear Velocity",
+  "options": [
+     "(a) Linear Velocity",
+     "(b) Angular Velocity",
+     "(c) Linear Displacement",
+     "(d) Linear Acceleration"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "The angular momentum of the body is defined as the product of...",
+  "correct_answer": "(c) Moment of inertia and angular velocity",
+  "options": [
+     "(a) Mass and angular velocity",
+     "(b) Force and moment arm",
+     "(c) Moment of inertia and angular velocity",
+     "(d) Linear momentum and position vector"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Two circular rings have mass in the ratio 1:2 and diameter in the ratio 2:1. The ratio of their moments of inertia is:",
+  "correct_answer": "(c) 4:1",
+  "options": [
+     "(a) 1:4",
+     "(b) 2:1",
+     "(c) 4:1",
+     "(d) 1:1"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following is an example of orbital motion?",
+  "correct_answer": "(b) Moon around Earth",
+  "options": [
+     "(a) Daily rotation of Earth",
+     "(b) Moon around Earth",
+     "(c) Rotation of a flywheel",
+     "(d) None of these"
+  ]
+},
+{
+  "category": "Physics",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Which of the following statements is not correct?",
+  "correct_answer": "(b) rsinθ is the parallel distance of the line of the action of force from the center of the circle",
+  "options": [
+     "(a) rsinθ is the perpendicular distance of the line of the action of force from the center of the circle",
+     "(b) rsinθ is the parallel distance of the line of the action of force from the center of the circle",
+     "(c) The direction of torque determined by the vector product rule",
+     "(d) All of these"
+  ]
+}
+]
+}
