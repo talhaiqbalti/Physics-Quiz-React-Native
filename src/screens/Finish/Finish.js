@@ -60,7 +60,7 @@ const Finish = () => {
 					<Text style={styles.scoreAnnouncement}>
 						You scored {finalScore} out of {quizQuestions.length}
 					</Text>
-          <Text style={styles.contact}>For qurires contact: irfansaeedi59@gmail.com</Text>
+          <Text style={styles.contact}>For queries contact: irfansaeedi59@gmail.com</Text>
 
 					<LottieView
 						autoPlay

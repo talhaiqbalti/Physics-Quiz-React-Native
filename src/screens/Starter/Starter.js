@@ -25,7 +25,7 @@ const Starter = () => {
 
 	return (
 		<SafeAreaView style={styles.container}>
-			<ScrollView style={styles.innerContainer}>
+			<View style={styles.innerContainer}>
 				<MaskedView
 					style={{ flex: 1, flexDirection: "row", height: "100%" }}
 					maskElement={
@@ -51,7 +51,7 @@ const Starter = () => {
 					/>
 				</MaskedView>
 
-				<ScrollView style={styles.outerOptionsContainer}>
+				<View style={styles.outerOptionsContainer}>
 				
 
 					<View style={styles.optionsContainer}>
@@ -78,8 +78,8 @@ const Starter = () => {
 						disabled={!canStart}
 						type="secondary"
 					/>
-				</ScrollView>
-			</ScrollView>
+				</View>
+			</View>
 		
 		</SafeAreaView>
 	);
