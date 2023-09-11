@@ -6,7 +6,7 @@ const getStyles = (screenDimensions) => {
 
 	const styles = StyleSheet.create({
 		container: {
-			backgroundColor: palette.offWhite,
+			backgroundColor: palette.offBlack,
 			marginVertical: 5,
 			padding: 10,
 			borderRadius: 20,
@@ -26,6 +26,7 @@ const getStyles = (screenDimensions) => {
 		text: {
 			fontSize: isTablet ? 20 : 14,
 			marginVertical: 2.5,
+			color: palette.offWhite,
 		},
 		icon: {
 			flex: 0.2,

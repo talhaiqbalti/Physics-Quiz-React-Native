@@ -33,7 +33,7 @@ const getStyles = (screenDimensions) => {
 			fontSize: isTablet ? 20 : 14,
 			fontWeight: "bold",
 			marginVertical: 10,
-			color: palette.primary,
+			color: palette.offWhite,
 		},
 		optionsContainer: {
 			width: isTablet ? "60%" : "100%",

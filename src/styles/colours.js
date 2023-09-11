@@ -1,8 +1,8 @@
 const palette = {
-	primary: "#3a8d71",
-	accent: "#a2b965",
-	secondary: "#FF6347",
-	background: "#fdf9d9",
+	primary: "#e669b7",
+	accent: "#800080",
+	secondary: "#800080",
+	background: "#000000",
 	offBlack: "#171717",
 	offWhite: "#fcfcfc",
 	grey: "#b0b0b0",

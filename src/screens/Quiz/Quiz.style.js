@@ -19,7 +19,7 @@ const getStyles = (screenDimensions) => {
 			alignItems: "center",
 			justifyContent: "space-evenly",
 			paddingHorizontal: 20,
-			backgroundColor: "rgba(255, 255, 255, 0.9)",
+			backgroundColor: "#171717",
 			borderRadius: 20,
 		},
 		title: {
@@ -70,7 +70,7 @@ const getStyles = (screenDimensions) => {
 		},
 		question: {
 			fontSize: isTablet ? 28 : 16,
-			color: palette.offBlack,
+			color: palette.offWhite,
 		},
 		buttonContainer: {
 			justifyContent: "center",

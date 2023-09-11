@@ -14,22 +14,22 @@ const getStyles = (screenDimensions) => {
 		subtitle: {
 			fontWeight: "bold",
 			fontSize: isTablet ? 30 : 20,
-			color: palette.background,
+			color: palette.offBlack,
 			marginBottom: 5,
 		},
 		endTitle: {
 			fontWeight: "bold",
 			fontSize: isTablet ? 40 : 20,
-			color: palette.background,
+			color: palette.offBlack,
 		},
     contact: {
 			fontSize: isTablet ? 40 : 14,
-			color: palette.background,
+			color: palette.offWhite,
     },
 		scoreAnnouncement: {
 			fontWeight: "bold",
 			fontSize: isTablet ? 60 : 30,
-			color: palette.offWhite,
+			color: palette.offBlack,
 		},
 		awardImg: {
 			width: 150,
