@@ -37,9 +37,10 @@ const getStyles = (screenDimensions) => {
 		},
 		optionsContainer: {
 			width: isTablet ? "60%" : "100%",
-			flexDirection: isTablet ? "row" : null,
-			justifyContent: "center",
-			alignItems: "center",
+			// flexDirection: isTablet ? "row" : null,
+			// justifyContent: "center",
+			// alignItems: "center",
+			
 			marginVertical: isTablet ? 10 : 1,
 		},
 		homeImage: {

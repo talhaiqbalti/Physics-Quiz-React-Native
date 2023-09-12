@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -27,7 +27,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.talhaiqbal.physicsquiz"
+      "package": "com.talhaiqbal.physicsquiz",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
